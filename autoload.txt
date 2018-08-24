@@ -1,0 +1,732 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(-62.431640625, 14.1982421875, 0.41357421875),
+								["Angles"] = Angle(0.91291731595993, 82.32177734375, 90.204299926758),
+								["UniqueID"] = "2659326093",
+								["Size"] = 0.925,
+								["ClassName"] = "model",
+								["Bone"] = "spine 4",
+								["Model"] = "models/workshop_partner/player/items/sniper/thief_sniper_cape/thief_sniper_cape.mdl",
+								["Scale"] = Vector(0.89999997615814, 1, 1),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "3635479337",
+						["Event"] = "is_flashlight_on",
+						["EditorExpand"] = true,
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "974081368",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Material"] = "models/effects/goldenwrench",
+				["ClassName"] = "submaterial",
+				["UniqueID"] = "455869269",
+				["SubMaterialId"] = 4,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["WeaponHoldType"] = "normal",
+								["ClassName"] = "animation",
+								["UniqueID"] = "3702851818",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Event"] = "is_flashlight_on",
+						["EditorExpand"] = true,
+						["UniqueID"] = "1282939109",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2732690092",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["HidePhysgunBeam"] = true,
+				["ClassName"] = "entity",
+				["UniqueID"] = "4244693425",
+				["DrawWeapon"] = false,
+				["Model"] = "models/player/group01/male_07.mdl",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "submaterial",
+				["UniqueID"] = "1724168768",
+				["SubMaterialId"] = 3,
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Material"] = "models/effects/goldenwrench",
+				["ClassName"] = "submaterial",
+				["UniqueID"] = "792593405",
+				["SubMaterialId"] = 2,
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1350549026",
+								["Scale"] = Vector(0.89999997615814, 1, 1),
+								["Angles"] = Angle(0.91291731595993, 82.32177734375, 90.204299926758),
+								["Size"] = 0.925,
+								["ClassName"] = "model",
+								["Position"] = Vector(-63.845703125, 14.3876953125, 0.41845703125),
+								["Bone"] = "spine 4",
+								["Model"] = "models/workshop_partner/player/items/sniper/thief_sniper_cape/thief_sniper_cape.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Event"] = "is_flashlight_on",
+						["EditorExpand"] = true,
+						["UniqueID"] = "1308451084",
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "654392894",
+				["EditorExpand"] = true,
+			},
+		},
+		[8] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-4.300885120756e-05, -63.792587280273, 3.0735853215447e-05),
+								["Bone"] = "right finger 1",
+								["UniqueID"] = "3676221604",
+								["ClassName"] = "bone",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(49.465065002441, -9.1711893081665, 69.893218994141),
+								["Bone"] = "right thigh",
+								["UniqueID"] = "2304120253",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(1.4948114156723, 65.185394287109, -57.28490447998),
+								["Bone"] = "left finger 01",
+								["UniqueID"] = "1812744257",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(2.3905662601464e-05, -59.835830688477, 7.8974062489579e-06),
+								["Bone"] = "right finger 21",
+								["UniqueID"] = "637390705",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-5.9764155594166e-05, -56.774452209473, 5.122642050992e-06),
+								["Bone"] = "left finger 2",
+								["UniqueID"] = "3554390557",
+								["ClassName"] = "bone",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "84801842",
+								["ClassName"] = "model",
+								["Invert"] = true,
+								["Size"] = 5.025,
+								["Position"] = Vector(0, 0, 35.4345703125),
+								["Bone"] = "invalidbone",
+								["Model"] = "models/pac/default.mdl",
+								["Material"] = "models/effects/goldenwrench",
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-5.8983726501465, 61.727336883545, 17.439205169678),
+								["Bone"] = "right finger 01",
+								["UniqueID"] = "659371256",
+								["ClassName"] = "bone",
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Invert"] = true,
+								["Alpha"] = 0.25,
+								["ClassName"] = "model",
+								["Size"] = 5.575,
+								["UniqueID"] = "3710367992",
+								["Material"] = "models/effects/goldenwrench",
+								["Bone"] = "invalidbone",
+								["Model"] = "models/pac/default.mdl",
+								["Position"] = Vector(0, 0, 35.4345703125),
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(2.1534438928938e-05, -73.969139099121, 2.689386747079e-05),
+								["Bone"] = "right finger 2",
+								["UniqueID"] = "2246680946",
+								["ClassName"] = "bone",
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(2.5613209800213e-05, -57.042434692383, 6.915567064425e-05),
+								["Bone"] = "left finger 1",
+								["UniqueID"] = "4058971143",
+								["ClassName"] = "bone",
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-60.088932037354, -127.14846801758, 65.802711486816),
+								["Position"] = Vector(0.2490234375, -0.262939453125, -0.254150390625),
+								["Bone"] = "right forearm",
+								["UniqueID"] = "3906669861",
+								["ClassName"] = "bone",
+							},
+						},
+						[12] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-15.593751907349, 109.76923370361, 3.545601202859e-06),
+								["Bone"] = "right calf",
+								["UniqueID"] = "3836059784",
+								["ClassName"] = "bone",
+							},
+						},
+						[13] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0.00012806606537197, -98.392364501953, -0.00015538682055194),
+								["Bone"] = "left forearm",
+								["UniqueID"] = "1950387486",
+								["ClassName"] = "bone",
+							},
+						},
+						[14] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.00018612266285345, -59.109058380127, -0.00015367924061138),
+								["Bone"] = "left finger 21",
+								["UniqueID"] = "3836746652",
+								["ClassName"] = "bone",
+							},
+						},
+						[15] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "animation",
+								["UniqueID"] = "680907881",
+								["SequenceName"] = "ragdoll",
+							},
+						},
+						[16] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-2.190269947052, -108.90175628662, -6.3690829277039),
+								["Bone"] = "right finger 11",
+								["UniqueID"] = "2173593528",
+								["ClassName"] = "bone",
+							},
+						},
+						[17] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(8.7084918050095e-05, -84.39818572998, -0.0001203820866067),
+								["Bone"] = "left finger 11",
+								["UniqueID"] = "1558398044",
+								["ClassName"] = "bone",
+							},
+						},
+						[18] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(27.426525115967, -65.416175842285, -43.609634399414),
+								["Bone"] = "left upperarm",
+								["UniqueID"] = "1024309573",
+								["ClassName"] = "bone",
+							},
+						},
+						[19] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-21.154186248779, -39.266395568848, 19.967027664185),
+								["Bone"] = "right upperarm",
+								["UniqueID"] = "1458489349",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "152136279",
+						["Event"] = "is_in_noclip",
+						["EditorExpand"] = true,
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2365993246",
+				["EditorExpand"] = true,
+			},
+		},
+		[9] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "910538148",
+								["Position"] = Vector(6.416015625, -3.7841796875, -0.02294921875),
+								["Scale"] = Vector(1, 1, -0.10000000149012),
+								["EditorExpand"] = true,
+								["Material"] = "effects/hwn_spell_wheel01",
+								["Size"] = 0.4,
+								["Angles"] = Angle(44.355262756348, 123.92640686035, -177.58485412598),
+								["Color"] = Vector(255, 223, 127),
+								["Bone"] = "left hand",
+								["Model"] = "models/hunter/plates/plate1x1.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-3.6712270230055e-05, -24.916381835938, -5.8910383813782e-05),
+								["UniqueID"] = "2599480401",
+								["Bone"] = "left finger 12",
+								["ClassName"] = "bone",
+								["EditorExpand"] = true,
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/effects/goldenwrench",
+								["Position"] = Vector(0.08984375, -4.80224609375, -10.6826171875),
+								["ClassName"] = "model",
+								["Size"] = 0.3,
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "1381145904",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(3.585849844967e-05, 88.417526245117, -1.0031840247393e-05),
+								["Bone"] = "left forearm",
+								["UniqueID"] = "3236616259",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.0001716085098451, 53.793682098389, 6.3179249991663e-05),
+								["UniqueID"] = "970140147",
+								["Bone"] = "left finger 2",
+								["ClassName"] = "bone",
+								["EditorExpand"] = true,
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["WeaponHoldType"] = "magic",
+								["ClassName"] = "animation",
+								["UniqueID"] = "2930495544",
+								["EditorExpand"] = true,
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/effects/goldenwrench",
+								["Position"] = Vector(0.0673828125, -14.27880859375, -7.9539794921875),
+								["ClassName"] = "model",
+								["Size"] = 0.3,
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "2624387854",
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(20.67938041687, -20.648294448853, 25.862100601196),
+								["UniqueID"] = "718512526",
+								["Bone"] = "left upperarm",
+								["ClassName"] = "bone",
+								["EditorExpand"] = true,
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/effects/goldenwrench",
+								["Position"] = Vector(0.017578125, 5.6650390625, -9.324462890625),
+								["ClassName"] = "model",
+								["Size"] = 0.3,
+								["EditorExpand"] = true,
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "3861684600",
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/effects/goldenwrench",
+								["Position"] = Vector(0.03125, 4.813720703125, 9.531982421875),
+								["ClassName"] = "model",
+								["Size"] = 0.3,
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "2688905445",
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/effects/goldenwrench",
+								["Position"] = Vector(0.0986328125, -5.92041015625, 10.69189453125),
+								["ClassName"] = "model",
+								["Size"] = 0.3,
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "183879336",
+							},
+						},
+						[12] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/effects/goldenwrench",
+								["Position"] = Vector(0.044921875, 10.9775390625, 0.23974609375),
+								["ClassName"] = "model",
+								["Size"] = 0.3,
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "1058653",
+							},
+						},
+						[13] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3908638225",
+								["Position"] = Vector(6.416015625, -3.7841796875, -0.02294921875),
+								["Scale"] = Vector(1, 1, -0.10000000149012),
+								["EditorExpand"] = true,
+								["Material"] = "effects/hwn_spell_wheel01",
+								["Size"] = 0.4,
+								["Angles"] = Angle(87.959030151367, -179.99919128418, -122.2202911377),
+								["Color"] = Vector(255, 223, 127),
+								["Bone"] = "right hand",
+								["Model"] = "models/hunter/plates/plate1x1.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[14] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-31.939029693604, 63.262783050537, -2.6021323204041),
+								["UniqueID"] = "4052507686",
+								["Bone"] = "left hand",
+								["ClassName"] = "bone",
+								["EditorExpand"] = true,
+							},
+						},
+						[15] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/effects/goldenwrench",
+								["Position"] = Vector(0.0517578125, -14.2744140625, 3.8721923828125),
+								["ClassName"] = "model",
+								["Size"] = 0.3,
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "1909146611",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["UniqueID"] = "982767834",
+						["Event"] = "is_flashlight_on",
+						["EditorExpand"] = true,
+						["Invert"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2881564666",
+				["EditorExpand"] = true,
+			},
+		},
+		[10] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(28.978399276733, 1.2687501111941e-05, 1.9519231955201e-06),
+						["UniqueID"] = "800786109",
+						["Position"] = Vector(-6.900390625, -7.107421875, -5.607177734375),
+						["Size"] = 0.325,
+						["Bone"] = "spine 4",
+						["Model"] = "models/props/de_dust/grainbasket01a.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2046626434",
+								["Scale"] = Vector(0.20000000298023, 0.10000000149012, 0.10000000149012),
+								["Angles"] = Angle(0.25067499279976, -0.0056475531309843, 88.839630126953),
+								["Size"] = 0.075,
+								["Position"] = Vector(-1.486328125, 0.8734130859375, 1.30078125),
+								["ClassName"] = "model",
+								["Bone"] = "j 4",
+								["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+								["Material"] = "models/effects/goldenwrench",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.5,
+								["Bone"] = "j 7",
+								["UniqueID"] = "3673466708",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 2.425,
+								["Bone"] = "j 5",
+								["UniqueID"] = "701742447",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(0.185546875, 1.12744140625, 0.322265625),
+								["Material"] = "models/effects/goldenwrench",
+								["UniqueID"] = "3993081621",
+								["Size"] = 0.075,
+								["ClassName"] = "model",
+								["Bone"] = "j 5",
+								["Model"] = "models/pac/default.mdl",
+								["Scale"] = Vector(1, 0.30000001192093, 1),
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "4179843044",
+								["Scale"] = Vector(0.20000000298023, 0.20000000298023, 0.10000000149012),
+								["Angles"] = Angle(28.654949188232, -0.63415038585663, 88.67797088623),
+								["Size"] = 0.075,
+								["Position"] = Vector(-1.3018798828125, 1.11572265625, 0.8994140625),
+								["ClassName"] = "model",
+								["Bone"] = "j 5",
+								["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+								["Material"] = "models/effects/goldenwrench",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "4284102778",
+								["Scale"] = Vector(0.20000000298023, 0.10000000149012, 0.10000000149012),
+								["Angles"] = Angle(0.25067499279976, -0.0056475531309843, 88.839630126953),
+								["Size"] = 0.075,
+								["Position"] = Vector(1.49755859375, 0.91064453125, 1.072265625),
+								["ClassName"] = "model",
+								["Bone"] = "j 4",
+								["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+								["Material"] = "models/effects/goldenwrench",
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "93130527",
+								["Scale"] = Vector(0.20000000298023, 0.10000000149012, 0.10000000149012),
+								["Material"] = "models/effects/goldenwrench",
+								["EditorExpand"] = true,
+								["Size"] = 0.075,
+								["ClassName"] = "model",
+								["Position"] = Vector(0.037109375, 0.875244140625, 1.16943359375),
+								["Bone"] = "j 4",
+								["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+								["Angles"] = Angle(0.25067499279976, -0.0056475531309843, 88.839630126953),
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1410913818",
+								["Scale"] = Vector(0.20000000298023, 0.20000000298023, 0.10000000149012),
+								["Angles"] = Angle(-29.034112930298, 0.64375573396683, 88.67293548584),
+								["Size"] = 0.075,
+								["Position"] = Vector(1.5089111328125, 1.11962890625, 0.84326171875),
+								["ClassName"] = "model",
+								["Bone"] = "j 5",
+								["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+								["Material"] = "models/effects/goldenwrench",
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3366983652",
+								["Scale"] = Vector(0.20000000298023, 0.20000000298023, 0.10000000149012),
+								["Angles"] = Angle(-88.809814453125, 102.94464874268, -12.942031860352),
+								["Size"] = 0.075,
+								["Position"] = Vector(0.2410888671875, 1.06787109375, -1.47802734375),
+								["ClassName"] = "model",
+								["Bone"] = "j 5",
+								["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+								["Material"] = "models/effects/goldenwrench",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Angles"] = Angle(3.9142136573792, -61.398899078369, 91.391845703125),
+						["UniqueID"] = "1828601571",
+						["EditorExpand"] = true,
+						["Position"] = Vector(6.7626953125, -0.8734130859375, -1.04931640625),
+						["Bone"] = "spine",
+						["Model"] = "models/pac/jiggle/base_cloth_2_gravity.mdl",
+						["Material"] = "models/props_pipes/GutterMetal01a",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "moddel",
+				["ClassName"] = "group",
+				["UniqueID"] = "1304433080",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "39964153",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
