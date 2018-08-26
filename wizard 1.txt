@@ -1,0 +1,2178 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0, 9.2166996002197, -0),
+				["Position"] = Vector(-86.206298828125, 5.5922999382019, -94.209503173828),
+				["ClassName"] = "model",
+				["Model"] = "models/props_swamp/karst_rock_06.mdl",
+				["UniqueID"] = "1400873273",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["UniqueID"] = "3876641404",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0.65189999341965, -0, 0),
+				["Position"] = Vector(23.159700393677, 112.88230133057, 11.950699806213),
+				["ClassName"] = "model",
+				["Model"] = "models/props_swamp/fern_01.mdl",
+				["UniqueID"] = "1108404",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(1.2213000059128, 0, 0),
+				["Position"] = Vector(67.491500854492, 0, 11.704099655151),
+				["ClassName"] = "model",
+				["Model"] = "models/props_foliage/bramble001a.mdl",
+				["UniqueID"] = "4247859745",
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0, 9.2166996002197, -0),
+				["Position"] = Vector(80.911399841309, 32.70650100708, -94.209503173828),
+				["ClassName"] = "model",
+				["Model"] = "models/props_swamp/karst_rock_06.mdl",
+				["UniqueID"] = "1599762964",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "2686508883",
+				["Color"] = Vector(155, 166, 157),
+				["Model"] = "models/props_mvm/mine_rock_full.mdl",
+				["Position"] = Vector(0, 0, -225.16059875488),
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "1564030829",
+				["Color"] = Vector(155, 166, 157),
+				["Position"] = Vector(-146.37869262695, 0, -225.16059875488),
+				["Model"] = "models/props_mvm/mine_rock_full.mdl",
+				["Angles"] = Angle(27.121599197388, -180, -180),
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Size"] = 6.425,
+				["Position"] = Vector(-115.3371963501, -128.42239379883, 38.059600830078),
+				["Model"] = "models/props_swamp/tree_swamp_cluster4_02_skybox.mdl",
+				["UniqueID"] = "2177500009",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "475835005",
+		["OwnerName"] = "471",
+		["Name"] = "Entity [244][prop_physics]",
+		["ClassName"] = "group",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["HidePhysgunBeam"] = true,
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["UniqueID"] = "1968343411",
+				["DrawWeapon"] = false,
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "661522243",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "3969637266",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "1361700059",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "288762313",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "2775012643",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "948803397",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "3480173773",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "360508401",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "3074538181",
+								["ClassName"] = "model",
+								["Position"] = Vector(-14.4912109375, 1.36767578125, -4.82958984375),
+								["Model"] = "models/pac/jiggle/base_jiggle_2.mdl",
+								["Angles"] = Angle(-69.96257019043, -148.5923614502, 175.0837097168),
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "3690573661",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "258681172",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "4013353007",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "47198574",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "2268323485",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "3424668698",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "2916332088",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "3459212466",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "178221033",
+								["ClassName"] = "model",
+								["Position"] = Vector(15.056640625, -2.87060546875, 6.3671875),
+								["Model"] = "models/pac/jiggle/base_jiggle_2.mdl",
+								["Angles"] = Angle(58.876033782959, 29.576463699341, 4.6439113616943),
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "184763",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "783485373",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "2279267496",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "4014810882",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "3335208685",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "17000539",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "3913071236",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "303406088",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "3820151250",
+								["ClassName"] = "model",
+								["Position"] = Vector(-14.725463867188, 1.11181640625, -1.0849609375),
+								["Model"] = "models/pac/jiggle/base_jiggle_2.mdl",
+								["Angles"] = Angle(-73.085456848145, 21.244323730469, 5.7922554016113),
+							},
+						},
+						[4] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "3233986527",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "3907500588",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "1855367837",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "3189125072",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "132224960",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "2303483778",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "4176826454",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "954215434",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "3036086845",
+								["ClassName"] = "model",
+								["Position"] = Vector(16.565185546875, -1.4970703125, -0.40234375),
+								["Model"] = "models/pac/jiggle/base_jiggle_2.mdl",
+								["Angles"] = Angle(73.741233825684, 32.568984985352, 6.0203447341919),
+							},
+						},
+						[5] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "4191349879",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "3500572756",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "3261808483",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "2676222862",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "2773640197",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "3253591233",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "48791897",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "1985027712",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "914102223",
+								["ClassName"] = "model",
+								["Angles"] = Angle(-36.560371398926, -148.79891967773, 149.73875427246),
+								["Position"] = Vector(-9.9124755859375, 1.91015625, -12.65283203125),
+								["Model"] = "models/pac/jiggle/base_jiggle_5.mdl",
+								["Scale"] = Vector(1, 1, 1.5),
+							},
+						},
+						[6] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "2349249938",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "3914378421",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "2169329831",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "2878036099",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "2416770388",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "1473316784",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "3693632005",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "2089463452",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "140023738",
+								["ClassName"] = "model",
+								["Position"] = Vector(-14.117553710938, -0.423828125, 6.0068359375),
+								["Model"] = "models/pac/jiggle/base_jiggle_5.mdl",
+								["Angles"] = Angle(-55.508140563965, -32.360061645508, 23.37532043457),
+							},
+						},
+						[7] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "2313608090",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "3777346266",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "725357942",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "2079086388",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "1723121915",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "391549251",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "212910492",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "2699461640",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "1189316257",
+								["ClassName"] = "model",
+								["Position"] = Vector(-0.0067138671875, -1.34130859375, 12.7919921875),
+								["Model"] = "models/pac/jiggle/base_jiggle_5.mdl",
+								["Angles"] = Angle(-3.0949290703575e-06, 7.683962394367e-06, -11.118936538696),
+							},
+						},
+						[8] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "2463746748",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "2318616463",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "1824842644",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "3339089813",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "2867578501",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "931895296",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "495071174",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "2932045534",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "1288779012",
+								["ClassName"] = "model",
+								["Position"] = Vector(7.531494140625, 6.96435546875, -6.484375),
+								["Model"] = "models/pac/jiggle/base_jiggle_5.mdl",
+								["Angles"] = Angle(51.154788970947, -155.30278015137, 138.62359619141),
+							},
+						},
+						[9] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "2157838043",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "1540666634",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "3861783518",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "38438282",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "1434484199",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "570198896",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "2062300802",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "2599435302",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "2892418751",
+								["ClassName"] = "model",
+								["Position"] = Vector(9.56787109375, 7.409912109375, 7.697998046875),
+								["Model"] = "models/pac/jiggle/base_jiggle_2.mdl",
+								["Angles"] = Angle(58.875972747803, 29.576480865479, -15.117601394653),
+							},
+						},
+						[10] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "3041111419",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "1454853094",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "3924239804",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "3887920374",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "95426472",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "609836674",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "1281055033",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "2574786681",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "1213979611",
+								["ClassName"] = "model",
+								["Position"] = Vector(12.970336914063, 0.47607421875, -5.5634765625),
+								["Model"] = "models/pac/jiggle/base_jiggle_5.mdl",
+								["Angles"] = Angle(51.154804229736, -155.302734375, -160.47782897949),
+							},
+						},
+						[11] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "630996401",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "3890412571",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "349646303",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "1727388557",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "593803429",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "2958812702",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "3072226032",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "1291230576",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "2137292326",
+								["ClassName"] = "model",
+								["Position"] = Vector(13.821655273438, -0.01904296875, 11.80712890625),
+								["Model"] = "models/pac/jiggle/base_jiggle_2.mdl",
+								["Angles"] = Angle(28.10943031311, 27.686811447144, 35.395610809326),
+							},
+						},
+						[12] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.7,
+												["Bone"] = "j 3",
+												["UniqueID"] = "3176830767",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.4,
+												["Bone"] = "j 6",
+												["UniqueID"] = "3637381711",
+												["ClassName"] = "bone",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.8,
+												["Bone"] = "j 2",
+												["UniqueID"] = "1191872867",
+												["ClassName"] = "bone",
+											},
+										},
+										[4] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.5,
+												["Bone"] = "j 5",
+												["UniqueID"] = "4134851122",
+												["ClassName"] = "bone",
+											},
+										},
+										[5] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.6,
+												["Bone"] = "j 4",
+												["UniqueID"] = "2438759031",
+												["ClassName"] = "bone",
+											},
+										},
+										[6] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.1,
+												["Bone"] = "j 8",
+												["UniqueID"] = "4099851742",
+												["ClassName"] = "bone",
+											},
+										},
+										[7] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Size"] = 0.3,
+												["Bone"] = "j 7",
+												["UniqueID"] = "547083952",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "3980669352",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/weapons/v_crowbar/head_uvw",
+								["UniqueID"] = "2124595867",
+								["ClassName"] = "model",
+								["Position"] = Vector(-2.3795166015625, 8.728515625, 0.18408203125),
+								["Model"] = "models/pac/jiggle/base_jiggle_5.mdl",
+								["Angles"] = Angle(51.154712677002, -155.30282592773, 83.013458251953),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "794943774",
+						["Material"] = "models/weapons/v_crowbar/head_uvw",
+						["Size"] = 2.5,
+						["EditorExpand"] = true,
+						["Model"] = "models/pac/default.mdl",
+						["Scale"] = Vector(1, 0.69999998807907, 1),
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "models/props_halloween/halloween_blk",
+												["Size"] = 0.925,
+												["ClassName"] = "model",
+												["Model"] = "models/pac/default.mdl",
+												["UniqueID"] = "2564042210",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "3198978046",
+										["Scale"] = Vector(0.80000001192093, 0.5, 1),
+										["ClassName"] = "model",
+										["Size"] = 1.45,
+										["Material"] = "models/props_halloween/scary_ghost",
+										["Color"] = Vector(0, 255, 255),
+										["Position"] = Vector(0, -9.98388671875, -0.00244140625),
+										["Model"] = "models/pac/default.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Arguments"] = "x",
+								["UniqueID"] = "393120302",
+								["Event"] = "button",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "1261114426",
+						["EditorExpand"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["UniqueID"] = "3098524115",
+										["Scale"] = Vector(1, 1, 0),
+										["Material"] = "models/props_halloween/flask_liquid",
+										["Size"] = 0.2,
+										["Angles"] = Angle(43.797668457031, 6.7402505874634, 99.690361022949),
+										["ClassName"] = "model",
+										["Position"] = Vector(-18.621826171875, -40.6025390625, 36.85595703125),
+										["Model"] = "models/props_phx/construct/metal_plate_curve180.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Material"] = "models/props_halloween/flask_liquid",
+										["UniqueID"] = "1942255912",
+										["Size"] = 0.2,
+										["Angles"] = Angle(-47.991523742676, -172.18927001953, -100.45993804932),
+										["Position"] = Vector(-23.299682617188, -43.21630859375, -45.888916015625),
+										["Model"] = "models/props_phx/construct/metal_plate_curve.mdl",
+										["Scale"] = Vector(1, 1, 0),
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Material"] = "models/props_halloween/flask_liquid",
+										["UniqueID"] = "1360041106",
+										["Size"] = 0.2,
+										["Angles"] = Angle(-38.590110778809, -5.6053457260132, 98.942100524902),
+										["Position"] = Vector(-18.621826171875, -40.6025390625, 36.85595703125),
+										["Model"] = "models/props_phx/construct/metal_plate_curve180.mdl",
+										["Scale"] = Vector(1, 1, 0),
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Material"] = "models/props_halloween/flask_liquid",
+										["UniqueID"] = "3489936299",
+										["Size"] = 0.2,
+										["Angles"] = Angle(82.551780700684, 110.55785369873, -159.60104370117),
+										["Position"] = Vector(-12.794921875, -43.880859375, -40.158935546875),
+										["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+										["Scale"] = Vector(0.10000000149012, 0.10000000149012, 0),
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["UniqueID"] = "3883926088",
+										["Scale"] = Vector(1, 1, 0),
+										["Material"] = "models/props_halloween/flask_liquid",
+										["Size"] = 0.125,
+										["Angles"] = Angle(82.740295410156, 106.08754730225, -164.03489685059),
+										["ClassName"] = "model",
+										["Position"] = Vector(48.1083984375, -40.75537109375, -3.29296875),
+										["Model"] = "models/pac/default.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+								[6] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "effect",
+												["UniqueID"] = "1963223568",
+												["Effect"] = "spell_teleport_blue",
+											},
+										},
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["UniqueID"] = "3173456129",
+										["Position"] = Vector(37.804443359375, -26.53271484375, -0.0025634765625),
+										["Size"] = 0,
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["UniqueID"] = "3923164166",
+										["Scale"] = Vector(1, 1, 0),
+										["Material"] = "models/props_halloween/flask_liquid",
+										["Size"] = 0.2,
+										["Angles"] = Angle(-38.590110778809, -5.6053457260132, 98.942100524902),
+										["ClassName"] = "model",
+										["Position"] = Vector(-18.621826171875, -40.6025390625, 36.85595703125),
+										["Model"] = "models/pac/default.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Material"] = "models/props_halloween/flask_liquid",
+										["UniqueID"] = "771395323",
+										["Size"] = 0.2,
+										["Angles"] = Angle(-39.598327636719, -5.811351776123, 99.072090148926),
+										["Position"] = Vector(-12.623413085938, -39.7333984375, 29.752685546875),
+										["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+										["Scale"] = Vector(0.10000000149012, 0.10000000149012, 0),
+									},
+								},
+								[9] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "effect",
+												["UniqueID"] = "1373478475",
+												["Effect"] = "spell_teleport_blue",
+											},
+										},
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["UniqueID"] = "1865697390",
+										["Position"] = Vector(-23.60888671875, -26.537109375, -41.7041015625),
+										["Size"] = 0,
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Material"] = "models/props_halloween/flask_liquid",
+										["UniqueID"] = "1071567399",
+										["Size"] = 0.2,
+										["Angles"] = Angle(-42.417304992676, -173.57875061035, -99.472610473633),
+										["Position"] = Vector(-12.581665039063, -41.38427734375, 43.330810546875),
+										["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+										["Scale"] = Vector(0.10000000149012, 0.10000000149012, 0),
+									},
+								},
+								[11] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "effect",
+												["UniqueID"] = "3324172938",
+												["Effect"] = "spell_teleport_blue",
+											},
+										},
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["UniqueID"] = "2665726452",
+										["Position"] = Vector(-24.783447265625, -26.539306640625, 37.664184570313),
+										["Size"] = 0,
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[12] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Material"] = "models/props_halloween/flask_liquid",
+										["UniqueID"] = "3758792335",
+										["Size"] = 0.125,
+										["Angles"] = Angle(83.017395019531, 88.043296813965, 178.05815124512),
+										["Position"] = Vector(-8.1815185546875, -43.22314453125, -45.82421875),
+										["Model"] = "models/pac/default.mdl",
+										["Scale"] = Vector(1, 1, 0),
+									},
+								},
+								[13] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Material"] = "models/props_halloween/flask_liquid",
+										["UniqueID"] = "33810072",
+										["Size"] = 0.2,
+										["Angles"] = Angle(83.020980834961, 90.546257019043, -179.45776367188),
+										["Position"] = Vector(-18.57861328125, -43.1640625, -45.747802734375),
+										["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+										["Scale"] = Vector(0.10000000149012, 0.20000000298023, 0),
+									},
+								},
+								[14] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Material"] = "models/props_halloween/flask_liquid",
+										["UniqueID"] = "3949170566",
+										["Size"] = 0.2,
+										["Angles"] = Angle(-1.7308568954468, -179.78813171387, -96.981994628906),
+										["Position"] = Vector(-18.578369140625, -43.1953125, -45.7548828125),
+										["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+										["Scale"] = Vector(0.10000000149012, 0.20000000298023, 0),
+									},
+								},
+								[15] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "963525769",
+										["Sound"] = "npc/advisor/advisor_scream.wav",
+									},
+								},
+								[16] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Material"] = "models/props_halloween/flask_liquid",
+										["UniqueID"] = "3560390712",
+										["Size"] = 0.2,
+										["Angles"] = Angle(82.96849822998, 82.940673828125, 172.9934387207),
+										["Position"] = Vector(-13.232177734375, -42.4677734375, -51.6865234375),
+										["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+										["Scale"] = Vector(0.10000000149012, 0.10000000149012, 0),
+									},
+								},
+								[17] = {
+									["children"] = {
+									},
+									["self"] = {
+										["UniqueID"] = "281647995",
+										["Scale"] = Vector(1, 1, 0),
+										["Material"] = "models/props_halloween/flask_liquid",
+										["Size"] = 0.2,
+										["Angles"] = Angle(1.8399457931519, 0.22526143491268, 96.98193359375),
+										["ClassName"] = "model",
+										["Position"] = Vector(47.390747070313, -40.80615234375, -2.9462890625),
+										["Model"] = "models/props_phx/construct/metal_plate_curve180.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+								[18] = {
+									["children"] = {
+									},
+									["self"] = {
+										["UniqueID"] = "468894683",
+										["Scale"] = Vector(0.10000000149012, 0.20000000298023, 0),
+										["Material"] = "models/props_halloween/flask_liquid",
+										["Size"] = 0.2,
+										["Angles"] = Angle(82.740295410156, 106.08754730225, -164.03489685059),
+										["ClassName"] = "model",
+										["Position"] = Vector(37.002563476563, -40.80419921875, -2.90087890625),
+										["Model"] = "models/hunter/blocks/cube05x8x05.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "2780866137",
+								["Event"] = "is_flashlight_on",
+								["EditorExpand"] = true,
+								["Invert"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "1903428369",
+						["ClassName"] = "group",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "488069717",
+				["ClassName"] = "group",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Material"] = "models/props_halloween/halloween_blk",
+										["Size"] = 0.925,
+										["ClassName"] = "model",
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "3825879351",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Material"] = "tttttttttttthttps://www.dropbox.com/s/ml71mn7tj50rn41/shot_2.png?dl=0",
+								["Position"] = Vector(0, -9.98388671875, -0.00244140625),
+								["Size"] = 1.45,
+								["EditorExpand"] = true,
+								["UniqueID"] = "825559302",
+								["Model"] = "models/pac/default.mdl",
+								["Scale"] = Vector(0.80000001192093, 0.5, 1),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["UniqueID"] = "2271223412",
+								["Material"] = "models/shadertest/envball_3",
+								["Size"] = 6.375,
+								["Model"] = "models/pac/default.mdl",
+								["Invert"] = true,
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/9sfvkzgf91w0te4/TV%20static%20noise%20HD%201080p.mp3?dl=0",
+								["ClassName"] = "webaudio",
+								["UniqueID"] = "3301657652",
+								["Loop"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "x",
+						["Invert"] = true,
+						["Event"] = "button",
+						["UniqueID"] = "3596953663",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2567483262",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "935337455",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/props_swamp/karst_rock_02.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "94747043",
+				["Position"] = Vector(735.841796875, 505.06469726563, 0),
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-7.2821002006531, -112.73780059814, 1.149199962616),
+				["Position"] = Vector(5.0513000488281, 1061.3566894531, 33.640598297119),
+				["ClassName"] = "model",
+				["Size"] = 0.35,
+				["Model"] = "models/props_swamp/buttress_tree_ref.mdl",
+				["UniqueID"] = "2257952959",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0, 0, 177.03480529785),
+				["Position"] = Vector(-0.0020000000949949, 1092.1591796875, 32.343299865723),
+				["ClassName"] = "model",
+				["Model"] = "models/props_forest/cliff_wall_07.mdl",
+				["UniqueID"] = "1019317695",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(2.7369999885559, 67.353500366211, 178.85870361328),
+				["Position"] = Vector(-10.426300048828, 1129.5888671875, 30.406200408936),
+				["ClassName"] = "model",
+				["Model"] = "models/props_forest/cliff_wall_07.mdl",
+				["UniqueID"] = "3543245498",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(7.5388998985291, -6.5371999740601, 95.819702148438),
+						["Bone"] = "right thigh",
+						["UniqueID"] = "3045190793",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(5.4861998558044, -13.577500343323, -78.382598876953),
+						["UniqueID"] = "2455672591",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0, 71.096900939941, 0),
+						["Bone"] = "left foot",
+						["UniqueID"] = "3454778752",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-70.310401916504, 152.78880310059, 170.06739807129),
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "3622658107",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-0.054000001400709, -7.2602000236511, 0.0068999999202788),
+						["Bone"] = "left thigh",
+						["UniqueID"] = "1105140436",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-58.78630065918, -178.7698059082, 113.32879638672),
+						["UniqueID"] = "3049681306",
+						["Position"] = Vector(-2.8380999565125, 1.611799955368, 11.303500175476),
+						["Bone"] = "left upperarm",
+						["Model"] = "models/props_mvm/mvm_skeleton_arm.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(62.874298095703, -37.011299133301, -26.689300537109),
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "544674718",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(87.751197814941, 154.33850097656, -43.350700378418),
+				["Position"] = Vector(81.352996826172, 94.112098693848, 18.99169921875),
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["Model"] = "models/player/skeleton.mdl",
+				["UniqueID"] = "376603378",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-88.757400512695, -7.2543997764587, 10.126099586487),
+				["Position"] = Vector(-0.52490001916885, 64.832496643066, 15.087400436401),
+				["ClassName"] = "model",
+				["Size"] = 1.475,
+				["Model"] = "models/player/items/all_class/hwn_spellbook_complete.mdl",
+				["UniqueID"] = "2729739632",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(2.7369999885559, 67.353500366211, 178.85870361328),
+				["Position"] = Vector(-20.889200210571, 1097.4924316406, -54.379901885986),
+				["ClassName"] = "model",
+				["Model"] = "models/props_forest/cliff_wall_07.mdl",
+				["UniqueID"] = "2875832664",
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(2.7369999885559, 67.353500366211, 178.85870361328),
+				["Position"] = Vector(-81.325698852539, 1126.7916259766, 24.56010055542),
+				["ClassName"] = "model",
+				["Model"] = "models/props_forest/cliff_wall_07.mdl",
+				["UniqueID"] = "1910760108",
+			},
+		},
+		[9] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(3.1110999584198, 180, 180),
+				["Position"] = Vector(740.06451416016, 505.06811523438, 46.88330078125),
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["Model"] = "models/props_swamp/karst_rock_02.mdl",
+				["UniqueID"] = "4200898275",
+			},
+		},
+		[10] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(26.713499069214, -88.974197387695, 14.82050037384),
+				["Position"] = Vector(-796.37890625, -157.46020507813, -232.54690551758),
+				["ClassName"] = "model",
+				["Size"] = 0.275,
+				["Model"] = "models/props_forest/rock_waterfall.mdl",
+				["UniqueID"] = "2980483943",
+			},
+		},
+		[11] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Size"] = 2.775,
+				["Position"] = Vector(0, 0, 14.506299972534),
+				["Model"] = "models/props_swamp/shroom_ref_01_cluster.mdl",
+				["UniqueID"] = "294726835",
+			},
+		},
+		[12] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/props_swamp/tree_swamp_01.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "2000915525",
+				["Position"] = Vector(37.298301696777, -89.547401428223, 12.289600372314),
+			},
+		},
+		[13] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/props_swamp/tree_swamp_03.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "4000258195",
+				["Position"] = Vector(244.15229797363, 0.0041999998502433, 12.289600372314),
+			},
+		},
+		[14] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["Size"] = 14.025,
+				["Position"] = Vector(97.765602111816, 73.748497009277, 13.024900436401),
+				["Model"] = "models/props_swamp/shroom_ref_01.mdl",
+				["UniqueID"] = "818870428",
+			},
+		},
+		[15] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["UniqueID"] = "3701227964",
+			},
+		},
+		[16] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0, -99.172798156738, 0),
+				["Position"] = Vector(-24.375099182129, -1.0381000041962, -172.1143951416),
+				["ClassName"] = "model",
+				["Size"] = 1.725,
+				["Model"] = "models/props_swamp/karst_rock_06.mdl",
+				["UniqueID"] = "2213267249",
+			},
+		},
+		[17] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "2949703703",
+				["Color"] = Vector(79, 122, 105),
+				["Position"] = Vector(0.00050000002374873, -586.73406982422, -85.076698303223),
+				["Model"] = "models/props_mining/rock006b.mdl",
+				["Angles"] = Angle(-0, 0, 35.546600341797),
+			},
+		},
+		[18] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(1.0764000415802, 80.827201843262, -180),
+				["Position"] = Vector(-24.188999176025, 0.11519999802113, -109.51119995117),
+				["ClassName"] = "model",
+				["Size"] = 1.725,
+				["EditorExpand"] = true,
+				["Model"] = "models/props_swamp/karst_rock_06.mdl",
+				["UniqueID"] = "3201798741",
+			},
+		},
+		[19] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/props_swamp/rock004_swamp.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "2509876715",
+				["Position"] = Vector(-165.28169250488, 22.500400543213, 12.289600372314),
+			},
+		},
+		[20] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "model",
+				["UniqueID"] = "3892853769",
+				["Material"] = "models/props_combine/com_shield001a",
+				["Size"] = 183.95,
+				["Model"] = "models/pac/default.mdl",
+				["Invert"] = true,
+			},
+		},
+		[21] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-28.455099105835, 0, 0),
+				["Position"] = Vector(-726.775390625, 0.00089999998454005, 190.54739379883),
+				["ClassName"] = "model",
+				["Model"] = "models/props_mining/rock006c.mdl",
+				["UniqueID"] = "2246278773",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3951696022",
+		["OwnerName"] = "2816",
+		["Name"] = "Entity [1096][prop_physics]",
+		["ClassName"] = "group",
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Pitch"] = 0.301,
+								["ClassName"] = "sound",
+								["UniqueID"] = "2926320075",
+								["Sound"] = "npc/strider/striderx_alert4.wav",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "5@@60",
+						["UniqueID"] = "43877652",
+						["Event"] = "random_timer",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2039668807",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Pitch"] = 0.301,
+								["ClassName"] = "sound",
+								["UniqueID"] = "2448546646",
+								["Sound"] = "npc/advisor/advisorscreenvx05.wav",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "5@@60",
+						["UniqueID"] = "3857718313",
+						["Event"] = "random_timer",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1627981789",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Pitch"] = 0.301,
+								["ClassName"] = "sound",
+								["UniqueID"] = "2429126507",
+								["Sound"] = "npc/advisor/advisorscreenvx02.wav",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "5@@60",
+						["UniqueID"] = "3066470170",
+						["Event"] = "random_timer",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1825677203",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Pitch"] = 0.301,
+								["ClassName"] = "sound",
+								["UniqueID"] = "3790525775",
+								["Sound"] = "npc/combine_gunship/gunship_moan.wav",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "5@@60",
+						["UniqueID"] = "1360947546",
+						["Event"] = "random_timer",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "275690184",
+				["EditorExpand"] = true,
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Pitch"] = 0.301,
+								["ClassName"] = "sound",
+								["UniqueID"] = "3837845774",
+								["Sound"] = "npc/strider/striderx_alert2.wav",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "5@@60",
+						["UniqueID"] = "1350250483",
+						["Event"] = "random_timer",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "789144337",
+				["EditorExpand"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Pitch"] = 0.301,
+								["ClassName"] = "sound",
+								["UniqueID"] = "1456070313",
+								["Sound"] = "npc/strider/striderx_pain8.wav",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "5@@60",
+						["UniqueID"] = "1353036417",
+						["Event"] = "random_timer",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3789070067",
+				["EditorExpand"] = true,
+			},
+		},
+		[7] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Pitch"] = 0.301,
+								["ClassName"] = "sound",
+								["UniqueID"] = "3116984046",
+								["Sound"] = "npc/strider/striderx_alert6.wav",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "5@@60",
+						["UniqueID"] = "4106177744",
+						["Event"] = "random_timer",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "490332444",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "ambient noises",
+		["ClassName"] = "group",
+		["UniqueID"] = "3292042713",
+		["EditorExpand"] = true,
+	},
+},
