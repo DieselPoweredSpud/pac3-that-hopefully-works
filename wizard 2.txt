@@ -1,0 +1,1870 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["SequenceName"] = "idle_all_02",
+						["ClassName"] = "animation",
+						["UniqueID"] = "4052281034",
+						["Rate"] = 0,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Arguments"] = "j",
+						["Invert"] = true,
+						["Event"] = "button",
+						["UniqueID"] = "1946902703",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "custom_animation",
+								["UniqueID"] = "2203925541",
+								["Rate"] = 2,
+								["URL"] = "https://www.dropbox.com/s/aaixup3t028qldx/Zi%20dance.txt?dl=1",
+								["AnimationType"] = "stance",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://www.dropbox.com/s/mako8iqw18b7sfw/Initial%20D%E3%80%80%E3%80%80SPITFIRE.mp3?dl=0",
+								["ClassName"] = "webaudio",
+								["UniqueID"] = "1271103292",
+								["Volume"] = 2.5,
+							},
+						},
+					},
+					["self"] = {
+						["Name"] = "kak",
+						["ClassName"] = "group",
+						["UniqueID"] = "753218411",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1965046092",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "jiggle",
+						["UniqueID"] = "1533935637",
+						["Speed"] = 3,
+						["Bone"] = "",
+						["EditorExpand"] = true,
+						["Position"] = Vector(-93.3486328125, -0.004150390625, 82.865234375),
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "dl.dropboxusercontent",
+				["ClassName"] = "group",
+				["UniqueID"] = "3801323849",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "2116303688",
+		["Name"] = "내 의상",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0, 4.168817469008e-08, -86.005424499512),
+										["UniqueID"] = "1385821529",
+										["Position"] = Vector(46.48673248291, -58.001953125, 69.75447845459),
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_halloween/candle.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-79.759521484375, -169.71315002441, 74.47289276123),
+										["UniqueID"] = "1488182113",
+										["Position"] = Vector(28.064208984375, -282.42639160156, -171.599609375),
+										["Size"] = 0.69999998807907,
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_halloween/halloween_rock002.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-89.645683288574, 179.99890136719, -179.99951171875),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "3041692811",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["ClassName"] = "animation",
+										["UniqueID"] = "1844419026",
+										["SequenceName"] = "ragdoll",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Size"] = 0,
+										["Position"] = Vector(84.2275390625, -163.90283203125, -154.72906494141),
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "1612067992",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-49.187431335449, -56.578125, 166.01878356934),
+										["Angles"] = Angle(7.0630550384521, 89.505058288574, -2.1512935161591),
+										["UniqueID"] = "59717893",
+										["Size"] = 8.7250003814697,
+										["EditorExpand"] = true,
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_mvm/mvm_skeleton_arm.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.462087402615e-05, 30.302305221558, -0.00022881134646013),
+										["EditorExpand"] = true,
+										["UniqueID"] = "1219427418",
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(38.144805908203, -7.8706107160542e-06, -0.00021712029410992),
+										["Bone"] = "right forearm",
+										["UniqueID"] = "2727350345",
+										["ClassName"] = "bone",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(25.767282485962, -7.4171161651611, -94.290885925293),
+										["UniqueID"] = "2425416041",
+										["Position"] = Vector(-209.12158203125, -294.53393554688, 72.48779296875),
+										["Size"] = 0.69999998807907,
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_halloween/halloween_rock002.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "effect",
+										["UniqueID"] = "503641583",
+										["Effect"] = "spell_cast_wheel_red",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.3188056945801, -42.039825439453, 178.09381103516),
+										["UniqueID"] = "737193749",
+										["Bone"] = "right hand",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[12] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Size"] = 0,
+										["Position"] = Vector(201.57421875, 108.5927734375, -47.109405517578),
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "30940343",
+									},
+								},
+								[13] = {
+									["children"] = {
+									},
+									["self"] = {
+										["UniqueID"] = "266432621",
+										["ClassName"] = "sound",
+									},
+								},
+								[14] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-56.165721893311, 7.6285556133371e-05, -0.00040787851321511),
+										["Bone"] = "left forearm",
+										["UniqueID"] = "3245658600",
+										["ClassName"] = "bone",
+									},
+								},
+								[15] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0, 4.168817469008e-08, -86.005424499512),
+										["UniqueID"] = "2537571544",
+										["Position"] = Vector(80.280075073242, -50.7998046875, -34.241760253906),
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_halloween/candle.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[16] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0, 4.168817469008e-08, -86.005424499512),
+										["UniqueID"] = "3439189913",
+										["Position"] = Vector(-70.479484558105, -51.5888671875, -16.592971801758),
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_halloween/candle_cluster.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[17] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "effect",
+												["UniqueID"] = "1226993227",
+												["Effect"] = "hwn_bats_tent_red",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["EditorExpand"] = true,
+												["ClassName"] = "effect",
+												["UniqueID"] = "2209015196",
+												["Effect"] = "spell_fireball_small_glow_red",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "4098977029",
+										["Position"] = Vector(69.7373046875, -62.45556640625, -1.0871276855469),
+										["Angles"] = Angle(8.4070023149252e-05, -31.696180343628, 0.0017809718847275),
+										["Size"] = 2.375,
+										["Material"] = "models/props_combine/tprings_globe",
+										["ClassName"] = "model",
+										["Bone"] = "right hand",
+										["Model"] = "models/pac/default.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+								[18] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0, 4.168817469008e-08, -86.005424499512),
+										["UniqueID"] = "2994716440",
+										["Position"] = Vector(2.3558502197266, -47.794921875, -77.456192016602),
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_halloween/candle.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[19] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0, 4.168817469008e-08, -86.005424499512),
+										["UniqueID"] = "947158911",
+										["Position"] = Vector(-43.02758026123, -57.984375, 69.754249572754),
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_halloween/candle.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[20] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "3772301238",
+										["Sound"] = "ui/halloween_boss_summoned_monoculus.wav",
+									},
+								},
+								[21] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(60.429046630859, -174.23829650879, 97.862777709961),
+										["UniqueID"] = "1233303483",
+										["Position"] = Vector(110.4501953125, -311.16345214844, 154.33251953125),
+										["Size"] = 0.69999998807907,
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_halloween/halloween_rock002.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[22] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(153.67031860352, -49.7373046875, -41.988922119141),
+										["Angles"] = Angle(-5.5284452438354, 90.484100341797, 138.67706298828),
+										["UniqueID"] = "2129594231",
+										["Size"] = 8.7250003814697,
+										["EditorExpand"] = true,
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_mvm/mvm_skeleton_arm.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[23] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-112.62107086182, -61.75390625, -62.389862060547),
+										["Angles"] = Angle(3.373165845871, 82.696228027344, -118.83179473877),
+										["UniqueID"] = "702863201",
+										["Size"] = 8.7250003814697,
+										["EditorExpand"] = true,
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_mvm/mvm_skeleton_arm.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[24] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Size"] = 0,
+										["Position"] = Vector(96.90625, -122.16162109375, 176.25712585449),
+										["Model"] = "models/pac/default.mdl",
+										["UniqueID"] = "2325246200",
+									},
+								},
+								[25] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(9.8871221542358, -59.492752075195, 167.12522888184),
+										["UniqueID"] = "1838642600",
+										["Bone"] = "left hand",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[26] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(71.133193969727, 179.99964904785, 179.99983215332),
+										["UniqueID"] = "2276418863",
+										["Bone"] = "right upperarm",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Arguments"] = "x",
+								["Invert"] = true,
+								["Event"] = "button",
+								["UniqueID"] = "3003366254",
+								["EditorExpand"] = true,
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "159024279",
+						["Name"] = "satan",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["URL"] = "https://www.dropbox.com/s/vs4apyzomkw8df4/distortion%20effect%20dab%20meme%20sound%20that%20is%20distorted.mp3?dl=0",
+										["ClassName"] = "webaudio",
+										["UniqueID"] = "3781318224",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "effect",
+										["UniqueID"] = "1512441019",
+										["Effect"] = "merasmus_spawn",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-65.240310668945, 0.39209654927254, 0.37456661462784),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "3041600463",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.878302100522e-05, -19.822519302368, -2.4759436200839e-05),
+										["UniqueID"] = "1199367871",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "1922614706",
+										["SequenceName"] = "ragdoll",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(14.665871620178, -14.401996612549, 16.945117950439),
+										["Bone"] = "right thigh",
+										["UniqueID"] = "1475647022",
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-2.8855452537537, -110.01500701904, -36.016086578369),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "3301009082",
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(0.1591991186142, -90.990768432617, 9.1304016113281),
+										["Bone"] = "right forearm",
+										["UniqueID"] = "3810324672",
+										["ClassName"] = "bone",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-9.6076383590698, 19.711641311646, 10.577032089233),
+										["Bone"] = "right calf",
+										["UniqueID"] = "4077034262",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["Arguments"] = "n",
+								["Invert"] = true,
+								["Event"] = "button",
+								["UniqueID"] = "755852867",
+								["EditorExpand"] = true,
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "3614338614",
+						["Name"] = "dab",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "effect",
+												["UniqueID"] = "4122066789",
+												["Effect"] = "merasmus_book_attack",
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(3.601806640625, -14.142944335938, 8.11279296875),
+										["Angles"] = Angle(1.7075473124351e-06, 3.4150946248701e-06, 77.03450012207),
+										["UniqueID"] = "3594724177",
+										["Size"] = 0.47499999403954,
+										["EditorExpand"] = true,
+										["Bone"] = "right hand",
+										["Model"] = "models/props_lakeside_event/bomb_temp.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "4145980101",
+										["Sound"] = "misc/halloween/merasmus_appear.wav",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-7.8975524902344, 66.837471008301, -53.358703613281),
+										["Bone"] = "left forearm",
+										["UniqueID"] = "1475685958",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(19.623294830322, -44.020038604736, -157.97080993652),
+										["Bone"] = "right hand",
+										["UniqueID"] = "3387628737",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "1263009222",
+										["Sound"] = "vo/halloween_merasmus/sf12_bombinomicon11.mp3",
+									},
+								},
+								[6] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "effect",
+														["UniqueID"] = "2790746733",
+														["Effect"] = "utaunt_merasmus_fire_embers",
+													},
+												},
+											},
+											["self"] = {
+												["EditorExpand"] = true,
+												["UniqueID"] = "2704991859",
+												["Position"] = Vector(-0.74462890625, -0.0885009765625, 26.754150390625),
+												["Size"] = 0,
+												["Model"] = "models/pac/default.mdl",
+												["ClassName"] = "model",
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(10.922607421875, 20.256591796875, -2.41650390625),
+										["Angles"] = Angle(-4.7650156021118, -4.8408231735229, 71.950508117676),
+										["UniqueID"] = "2880769575",
+										["Size"] = 0.60000002384186,
+										["EditorExpand"] = true,
+										["Bone"] = "right hand",
+										["Model"] = "models/props_halloween/hwn_spellbook_flying.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["WeaponHoldType"] = "magic",
+										["ClassName"] = "animation",
+										["UniqueID"] = "3792635066",
+									},
+								},
+								[8] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "button",
+														["Arguments"] = "e",
+														["UniqueID"] = "3652526903",
+														["ClassName"] = "event",
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "sound",
+														["UniqueID"] = "3187371980",
+														["Sound"] = "misc/halloween/spell_meteor_cast.wav",
+													},
+												},
+											},
+											["self"] = {
+												["UniqueID"] = "2887691749",
+												["RemoveOnCollide"] = true,
+												["Bone"] = "right hand",
+												["LifeTime"] = 4,
+												["ClassName"] = "projectile",
+												["Bounce"] = 1,
+												["Position"] = Vector(4.20849609375, -16.045166015625, 6.589111328125),
+												["OutfitPartUID"] = "2258463325",
+												["OutfitPartName"] = "projectile 2",
+												["EditorExpand"] = true,
+												["Angles"] = Angle(10.770669937134, -31.44935798645, -21.17481803894),
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "4092457023",
+										["EditorExpand"] = true,
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(24.954267501831, -27.513092041016, 24.928417205811),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "1840806466",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["Arguments"] = "b",
+								["Invert"] = true,
+								["Event"] = "button",
+								["UniqueID"] = "2306742000",
+								["EditorExpand"] = true,
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "1291228246",
+						["Name"] = "bomb",
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "effect",
+														["UniqueID"] = "3393462193",
+														["Effect"] = "utaunt_merasmus_fire_embers",
+													},
+												},
+											},
+											["self"] = {
+												["EditorExpand"] = true,
+												["UniqueID"] = "1206170824",
+												["Position"] = Vector(-0.74462890625, -0.0885009765625, 26.754150390625),
+												["Size"] = 0,
+												["Model"] = "models/pac/default.mdl",
+												["ClassName"] = "model",
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(10.877197265625, 20.531005859375, -1.5947265625),
+										["Angles"] = Angle(-40.334075927734, 9.6086282730103, 66.105445861816),
+										["UniqueID"] = "1086140555",
+										["Size"] = 0.60000002384186,
+										["EditorExpand"] = true,
+										["Bone"] = "left hand",
+										["Model"] = "models/props_halloween/hwn_spellbook_flying.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Event"] = "button",
+														["Arguments"] = "e",
+														["UniqueID"] = "2423855898",
+														["ClassName"] = "event",
+													},
+												},
+												[2] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "sound",
+														["UniqueID"] = "259726669",
+														["Sound"] = "items/para_open.wav",
+													},
+												},
+											},
+											["self"] = {
+												["DamageType"] = "dissolve",
+												["UniqueID"] = "3055745797",
+												["Speed"] = 1.7000000476837,
+												["Bounce"] = 2.0999999046326,
+												["Bone"] = "right hand",
+												["Position"] = Vector(4.8597412109375, -11.839111328125, -0.000244140625),
+												["ClassName"] = "projectile",
+												["Angles"] = Angle(6.0617923736572e-05, -60.485397338867, 8.9646237029228e-06),
+												["Damage"] = 114.9,
+												["OutfitPartUID"] = "2304460362",
+												["OutfitPartName"] = "projectile",
+												["EditorExpand"] = true,
+												["Gravity"] = false,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "group",
+										["UniqueID"] = "728315624",
+										["EditorExpand"] = true,
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["ClassName"] = "effect",
+										["UniqueID"] = "2208584839",
+										["Effect"] = "spell_cast_wheel_blue",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(3.4577835322125e-05, -3.4150950796175e-06, -114.46222686768),
+										["Bone"] = "left hand",
+										["UniqueID"] = "334083353",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["WeaponHoldType"] = "magic",
+										["ClassName"] = "animation",
+										["UniqueID"] = "3759320906",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "3454546946",
+										["Volume"] = 0.57499998807907,
+										["EditorExpand"] = true,
+										["Sound"] = "player/flame_out.wav",
+									},
+								},
+								[7] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "effect",
+												["UniqueID"] = "3499175993",
+												["Effect"] = "spell_fireball_small_blue",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "3187391205",
+										["Position"] = Vector(5.30029296875, -12.45751953125, 0.00018310546875),
+										["ClassName"] = "model",
+										["Size"] = 0,
+										["Material"] = "models/props_halloween/flask_liquid",
+										["Color"] = Vector(0, 255, 255),
+										["Bone"] = "right hand",
+										["Model"] = "models/pac/default.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "3103742223",
+										["Sound"] = "vo/halloween_merasmus/sf12_magicwords05.mp3",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(32.962104797363, 64.308380126953, 43.36487197876),
+										["Bone"] = "left forearm",
+										["UniqueID"] = "1359525725",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "3192623332",
+								["Event"] = "is_flashlight_on",
+								["EditorExpand"] = true,
+								["Invert"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Name"] = "fireball",
+						["ClassName"] = "group",
+						["UniqueID"] = "2638440585",
+						["EditorExpand"] = true,
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "1529749838",
+										["Sound"] = "misc/halloween/merasmus_appear.wav",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "440597882",
+										["Sound"] = "vo/halloween_merasmus/sf12_magicwords07.mp3",
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "effect",
+												["UniqueID"] = "696706173",
+												["Effect"] = "hwn_cart_cap_neutral",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "models/props_halloween/flask_liquid",
+												["Position"] = Vector(0.052734375, 0.01416015625, -6.67333984375),
+												["ClassName"] = "model",
+												["Size"] = 0.5,
+												["Model"] = "models/pac/default.mdl",
+												["UniqueID"] = "3979044591",
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "effect",
+												["UniqueID"] = "569968653",
+												["Effect"] = "hwn_cart_drips_blue",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "3875076033",
+										["Scale"] = Vector(1, 1, 0.60000002384186),
+										["Angles"] = Angle(1.4919347763062, 5.3805975767318e-05, 3.2454401662108e-05),
+										["Size"] = 0.15000000596046,
+										["ClassName"] = "model",
+										["Position"] = Vector(5.079345703125, -2.12109375, -5.6894836425781),
+										["Bone"] = "right hand",
+										["Model"] = "models/dogvsstrider/tree1_trunk.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["ClassName"] = "effect",
+										["UniqueID"] = "3432160628",
+										["Effect"] = "spell_cast_wheel_blue",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(12.42679977417, -49.404853820801, 10.448189735413),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "299798391",
+										["ClassName"] = "bone",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Material"] = "models/antlion/antlion_worker_wing",
+										["UniqueID"] = "2934994121",
+										["Position"] = Vector(0.00146484375, -0.0179443359375, 5.0343017578125),
+										["Size"] = 16.950000762939,
+										["Bone"] = "invalidpos",
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["ClassName"] = "sound",
+										["UniqueID"] = "3222872740",
+										["Sound"] = "weapons/medi_shield_retract.wav",
+									},
+								},
+							},
+							["self"] = {
+								["Arguments"] = "k",
+								["Invert"] = true,
+								["Event"] = "button",
+								["UniqueID"] = "3196283620",
+								["EditorExpand"] = true,
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "2032693201",
+						["Name"] = "shield",
+					},
+				},
+				[6] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["ClassName"] = "effect",
+										["UniqueID"] = "4032311536",
+										["Effect"] = "merasmus_bomb_explosion",
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(12.52260684967, 105.26721954346, 93.387023925781),
+								["Position"] = Vector(-14.924072265625, 53.7275390625, -7.5151977539063),
+								["ClassName"] = "model",
+								["Size"] = 0.47499999403954,
+								["EditorExpand"] = true,
+								["Model"] = "models/props_lakeside_event/bomb_temp_hat.mdl",
+								["UniqueID"] = "1621820079",
+							},
+						},
+					},
+					["self"] = {
+						["Name"] = "projectile 2",
+						["ClassName"] = "group",
+						["UniqueID"] = "2258463325",
+						["Hide"] = true,
+					},
+				},
+				[7] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(41.808773040771, -68.272514343262, -95.805450439453),
+										["Position"] = Vector(7.8759765625, -2.77490234375, -6.0087890625),
+										["ClassName"] = "model",
+										["Size"] = 0.27500000596046,
+										["Model"] = "models/props_halloween/candle_cluster.mdl",
+										["UniqueID"] = "3272248082",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(69.932861328125, -179.99992370605, -179.99989318848),
+										["UniqueID"] = "4263527715",
+										["Position"] = Vector(15.388671875, -9.734375, -3.16064453125),
+										["Bone"] = "spine 4",
+										["Model"] = "models/passtime/flasks/flask_bottle_red.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0.17018295824528, -85.669509887695, -90.948509216309),
+										["Position"] = Vector(-96.208984375, -12.230346679688, 1.4764709472656),
+										["ClassName"] = "model",
+										["Size"] = 1.2999999523163,
+										["Model"] = "models/workshop/player/items/sniper/dec2014_hunter_beard/dec2014_hunter_beard.mdl",
+										["UniqueID"] = "574554513",
+									},
+								},
+								[4] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+																[1] = {
+																	["children"] = {
+																		[1] = {
+																			["children"] = {
+																			},
+																			["self"] = {
+																				["Position"] = Vector(-1.8310546875, 5.880126953125, -26.52099609375),
+																				["Angles"] = Angle(17.908140182495, 16.245006561279, 25.958843231201),
+																				["UniqueID"] = "3227646743",
+																				["Size"] = 0.60000002384186,
+																				["EditorExpand"] = true,
+																				["Bone"] = "spine 4",
+																				["Model"] = "models/props_halloween/hwn_spellbook_flying.mdl",
+																				["ClassName"] = "model",
+																			},
+																		},
+																		[2] = {
+																			["children"] = {
+																				[1] = {
+																					["children"] = {
+																					},
+																					["self"] = {
+																						["ClassName"] = "effect",
+																						["UniqueID"] = "821010873",
+																						["Effect"] = "utaunt_merasmus_fire_embers",
+																					},
+																				},
+																			},
+																			["self"] = {
+																				["EditorExpand"] = true,
+																				["UniqueID"] = "378617874",
+																				["Position"] = Vector(8.181640625, -3.0556335449219, -5.734375),
+																				["Size"] = 0,
+																				["Model"] = "models/pac/default.mdl",
+																				["ClassName"] = "model",
+																			},
+																		},
+																	},
+																	["self"] = {
+																		["Angles"] = Angle(-11.966490745544, -13.900129318237, 9.2066783905029),
+																		["UniqueID"] = "4095725173",
+																		["Speed"] = 3,
+																		["EditorExpand"] = true,
+																		["Bone"] = "spine 4",
+																		["Position"] = Vector(3.015869140625, 27.7197265625, -12.024108886719),
+																		["ClassName"] = "jiggle",
+																	},
+																},
+															},
+															["self"] = {
+																["Event"] = "is_flashlight_on",
+																["EditorExpand"] = true,
+																["UniqueID"] = "1834295949",
+																["ClassName"] = "event",
+															},
+														},
+													},
+													["self"] = {
+														["Event"] = "is_in_noclip",
+														["EditorExpand"] = true,
+														["UniqueID"] = "1681386619",
+														["ClassName"] = "event",
+													},
+												},
+											},
+											["self"] = {
+												["Arguments"] = "b",
+												["UniqueID"] = "410842766",
+												["Event"] = "button",
+												["ClassName"] = "event",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "432910351",
+										["ClassName"] = "group",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-60.106128692627, -0.00011306104715914, -0.00026380913914181),
+										["UniqueID"] = "2236657853",
+										["Position"] = Vector(-3.0498046875, -1.6778259277344, 2.6767578125),
+										["Size"] = 0.125,
+										["Bone"] = "left upperarm",
+										["Model"] = "models/props_halloween/eyeball_projectile.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-65.656982421875, -1.1650884516712e-05, -1.190979310195e-05),
+										["UniqueID"] = "4095521555",
+										["Position"] = Vector(-3.032470703125, -0.2215576171875, 0.89263916015625),
+										["Size"] = 0.77499997615814,
+										["Bone"] = "left upperarm",
+										["Model"] = "models/props_mvm/mvm_human_skull.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[7] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Angles"] = Angle(-0, 0, 11.465791702271),
+												["Position"] = Vector(-0.0001678466796875, -1.6083984375, -0.000518798828125),
+												["Bone"] = "bone 001",
+												["UniqueID"] = "761780687",
+												["ClassName"] = "bone",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Angles"] = Angle(-2.4711682796478, -4.3579883575439, -15.121288299561),
+												["Position"] = Vector(7.5682983398438, 3.4943237304688, 4.1959686279297),
+												["Bone"] = "bone 008",
+												["UniqueID"] = "1844370357",
+												["ClassName"] = "bone",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "958005341",
+										["Position"] = Vector(0.36196136474609, 5.8449096679688, 1.0029373168945),
+										["Material"] = "models/props_pipes/GutterMetal01a",
+										["EditorExpand"] = true,
+										["Size"] = 1.0750000476837,
+										["Angles"] = Angle(13.573105812073, -95.933532714844, -87.317565917969),
+										["Color"] = Vector(157, 148, 148),
+										["Bone"] = "spine 4",
+										["Model"] = "models/pac/jiggle/clothing/base_cape_1_gravity.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[8] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Angles"] = Angle(1.7494361400604, -89.896072387695, -120.25129699707),
+												["UniqueID"] = "4090618265",
+												["Position"] = Vector(-11.503295898438, -5.907470703125, 4.514404296875),
+												["Size"] = 0.42500001192093,
+												["Bone"] = "spine 4",
+												["Model"] = "models/props/de_dust/grainbasket01b.mdl",
+												["ClassName"] = "model",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "1692958126",
+										["Position"] = Vector(2.0351257324219, -1.6614379882813, 0.91683959960938),
+										["EditorExpand"] = true,
+										["Material"] = "models/props_pipes/GutterMetal01a",
+										["Angles"] = Angle(9.9253463745117, 87.538581848145, 84.606788635254),
+										["Color"] = Vector(199, 182, 135),
+										["Bone"] = "spine 4",
+										["Model"] = "models/pac/jiggle/clothing/base_cape_2_gravity.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(3.9294600486755, -109.76380157471, -92.807151794434),
+										["UniqueID"] = "1773542262",
+										["Position"] = Vector(-64.856430053711, 22.919128417969, 2.5681343078613),
+										["Bone"] = "spine 4",
+										["Model"] = "models/workshop/player/items/sniper/thief_sniper_cape/thief_sniper_cape.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(59.977481842041, -180, -179.99987792969),
+										["UniqueID"] = "3923617402",
+										["Position"] = Vector(14.1708984375, -5.59375, -5.26611328125),
+										["Bone"] = "spine 4",
+										["Model"] = "models/passtime/flasks/flask_bottle_yellow.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(43.083297729492, 179.99996948242, 179.99992370605),
+										["UniqueID"] = "4213115870",
+										["Position"] = Vector(10.87744140625, -7.985107421875, -10.245849609375),
+										["Bone"] = "spine 4",
+										["Model"] = "models/props_halloween/flask_bottle.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[12] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-5.6445527076721, -73.091926574707, -91.712577819824),
+										["Position"] = Vector(8.9679641723633, 0.28173828125, -0.029876708984375),
+										["ClassName"] = "model",
+										["Size"] = 1.0499999523163,
+										["EditorExpand"] = true,
+										["Model"] = "models/workshop/player/items/all_class/witchhat/witchhat_medic.mdl",
+										["UniqueID"] = "3516094024",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "group",
+								["UniqueID"] = "2190612338",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["Event"] = "owner_alive",
+						["Name"] = "costume",
+						["UniqueID"] = "1622651275",
+					},
+				},
+				[8] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "effect",
+														["UniqueID"] = "513732054",
+														["Effect"] = "utaunt_merasmus_fire_embers",
+													},
+												},
+											},
+											["self"] = {
+												["EditorExpand"] = true,
+												["UniqueID"] = "1455118188",
+												["Position"] = Vector(8.181640625, -3.0556335449219, -5.734375),
+												["Size"] = 0,
+												["Model"] = "models/pac/default.mdl",
+												["ClassName"] = "model",
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(45.428520202637, 64.611434936523, -18.679738998413),
+										["UniqueID"] = "3257844813",
+										["Position"] = Vector(-4.673828125, -44.7392578125, -20.00439453125),
+										["EditorExpand"] = true,
+										["Bone"] = "pelvis",
+										["Model"] = "models/props_halloween/hwn_spellbook_flying.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "4174725909",
+										["SequenceName"] = "sit_zen",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "event",
+								["UniqueID"] = "4288418947",
+								["Event"] = "is_in_noclip",
+								["EditorExpand"] = true,
+								["Invert"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "2137711833",
+						["Name"] = "noclip",
+					},
+				},
+				[9] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "87950200",
+										["Sound"] = "misc/halloween/merasmus_appear.wav",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-19.529815673828, -26.989902496338, 2.4912769794464),
+										["Bone"] = "right forearm",
+										["UniqueID"] = "3799822749",
+										["ClassName"] = "bone",
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "models/props_halloween/scary_ghost",
+												["ClassName"] = "submaterial",
+												["UniqueID"] = "4151945416",
+												["SubMaterialId"] = 3,
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(20.412353515625, 21.9931640625, -51.80859375),
+										["Angles"] = Angle(-12.928013801575, 7.0078240241855e-06, -5.1682709454326e-05),
+										["UniqueID"] = "1748331154",
+										["Size"] = 1.875,
+										["EditorExpand"] = true,
+										["Bone"] = "left hand",
+										["Model"] = "models/props_halloween/flask_tub.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(7.7330746650696, -77.494857788086, -36.353572845459),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "1701194384",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "models/props_halloween/flask_liquid",
+												["Position"] = Vector(0.052734375, 0.01416015625, -6.67333984375),
+												["ClassName"] = "model",
+												["Size"] = 0.5,
+												["Model"] = "models/pac/default.mdl",
+												["UniqueID"] = "2081801178",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "715234058",
+										["Scale"] = Vector(1, 1, 0.60000002384186),
+										["Angles"] = Angle(16.725835800171, -179.99996948242, -179.99996948242),
+										["Size"] = 0.15000000596046,
+										["ClassName"] = "model",
+										["Position"] = Vector(3.067626953125, -4.3798828125, 4.93359375),
+										["Bone"] = "left hand",
+										["Model"] = "models/dogvsstrider/tree1_trunk.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "3488361488",
+										["Sound"] = "vo/halloween_merasmus/sf12_attacks09.mp3",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "54755137",
+										["SequenceName"] = "ragdoll",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(30.324882507324, -1.7803920854931e-05, -2.876074552536),
+										["Bone"] = "left forearm",
+										["UniqueID"] = "1046311289",
+										["ClassName"] = "bone",
+									},
+								},
+								[9] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "model",
+												["Angles"] = Angle(0.55344486236572, -70.216117858887, -177.49421691895),
+												["UniqueID"] = "1833871982",
+												["Size"] = 2.5,
+												["Position"] = Vector(0.365234375, 0.08251953125, 9.94140625),
+												["Bone"] = "left hand",
+												["Model"] = "models/props/de_inferno/clock01.mdl",
+												["Material"] = "models/props_halloween/scary_ghost",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "models/combine_advisor/arm",
+												["UniqueID"] = "2939258617",
+												["ClassName"] = "model",
+												["Position"] = Vector(0.052734375, 0.03076171875, -26.515625),
+												["Model"] = "models/maxofs2d/thruster_projector.mdl",
+												["Angles"] = Angle(0.79206931591034, 4.7815901780268e-05, 9.7126030595973e-06),
+											},
+										},
+										[3] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "effect",
+												["UniqueID"] = "3241562836",
+												["Effect"] = "spellbook_major_encircling",
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(18.021484375, 1.265625, -38.6845703125),
+										["Angles"] = Angle(-3.2379834651947, -71.50732421875, 17.353199005127),
+										["UniqueID"] = "2567138073",
+										["Size"] = 2.5499999523163,
+										["EditorExpand"] = true,
+										["Bone"] = "left hand",
+										["Model"] = "models/props_c17/metalPot001a.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[10] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "models/props_halloween/scary_ghost",
+												["ClassName"] = "submaterial",
+												["UniqueID"] = "1482998074",
+												["SubMaterialId"] = 3,
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(5.634033203125, 17.2001953125, -54.2333984375),
+										["Angles"] = Angle(-12.928013801575, 7.0078240241855e-06, -5.1682709454326e-05),
+										["UniqueID"] = "381200798",
+										["Size"] = 1.7000000476837,
+										["EditorExpand"] = true,
+										["Bone"] = "left hand",
+										["Model"] = "models/props_halloween/flask_vial.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-13.003045082092, -66.10506439209, 7.7192964553833),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "1012537502",
+										["ClassName"] = "bone",
+									},
+								},
+								[12] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "models/props_halloween/scary_ghost",
+												["ClassName"] = "submaterial",
+												["UniqueID"] = "3491390501",
+												["SubMaterialId"] = 1,
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(12.054931640625, 25.306640625, -55.888671875),
+										["Angles"] = Angle(-17.975597381592, 1.7951731933863e-05, -5.3855193982599e-05),
+										["UniqueID"] = "1865840317",
+										["Size"] = 1.625,
+										["EditorExpand"] = true,
+										["Bone"] = "left hand",
+										["Model"] = "models/props_halloween/flask_erlenmeyer.mdl",
+										["ClassName"] = "model",
+									},
+								},
+							},
+							["self"] = {
+								["Arguments"] = "m",
+								["Invert"] = true,
+								["Event"] = "button",
+								["UniqueID"] = "3047233453",
+								["EditorExpand"] = true,
+								["ClassName"] = "event",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "196052508",
+						["Name"] = "cauldron",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "3467616694",
+						["Name"] = "SPITFIRE",
+					},
+				},
+				[11] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["Material"] = "models/props_halloween/flask_liquid",
+														["Position"] = Vector(0.052734375, 0.01416015625, -6.67333984375),
+														["ClassName"] = "model",
+														["Size"] = 0.5,
+														["Model"] = "models/pac/default.mdl",
+														["UniqueID"] = "1798948044",
+													},
+												},
+											},
+											["self"] = {
+												["UniqueID"] = "1331191443",
+												["Scale"] = Vector(1, 1, 0.60000002384186),
+												["Angles"] = Angle(-82.983131408691, -2.7955544283031e-05, 2.7955538826063e-05),
+												["Size"] = 0.15000000596046,
+												["ClassName"] = "model",
+												["Position"] = Vector(17.439453125, -4.37353515625, 7.697265625),
+												["Bone"] = "spine 4",
+												["Model"] = "models/dogvsstrider/tree1_trunk.mdl",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Arguments"] = "m",
+										["UniqueID"] = "1558501679",
+										["Event"] = "button",
+										["ClassName"] = "event",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Arguments"] = "k",
+								["UniqueID"] = "2714851658",
+								["Event"] = "button",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "group",
+						["UniqueID"] = "2500656566",
+						["Name"] = "staff back",
+					},
+				},
+				[12] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "light",
+										["UniqueID"] = "57902588",
+										["Color"] = Vector(0, 161, 255),
+										["Brightness"] = 9.6000003814697,
+										["Size"] = 17.799999237061,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "effect",
+										["UniqueID"] = "475112105",
+										["Effect"] = "spell_fireball_small_blue",
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/props_halloween/flask_liquid",
+								["Position"] = Vector(3.3681640625, -11.65283203125, -0.00390625),
+								["ClassName"] = "model",
+								["Size"] = 0,
+								["EditorExpand"] = true,
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "2337363905",
+							},
+						},
+					},
+					["self"] = {
+						["Name"] = "projectile",
+						["ClassName"] = "group",
+						["UniqueID"] = "2304460362",
+						["Hide"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2816253174",
+				["EditorExpand"] = true,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+														[1] = {
+															["children"] = {
+															},
+															["self"] = {
+																["WeaponHoldType"] = "normal",
+																["ClassName"] = "animation",
+																["UniqueID"] = "3173560149",
+															},
+														},
+													},
+													["self"] = {
+														["Arguments"] = "x",
+														["UniqueID"] = "1507463464",
+														["Event"] = "button",
+														["ClassName"] = "event",
+														["EditorExpand"] = true,
+													},
+												},
+											},
+											["self"] = {
+												["Event"] = "is_flashlight_on",
+												["EditorExpand"] = true,
+												["UniqueID"] = "65547291",
+												["ClassName"] = "event",
+											},
+										},
+									},
+									["self"] = {
+										["Arguments"] = "b",
+										["UniqueID"] = "1459320135",
+										["Event"] = "button",
+										["ClassName"] = "event",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Arguments"] = "n",
+								["UniqueID"] = "4008847689",
+								["Event"] = "button",
+								["ClassName"] = "event",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "m",
+						["UniqueID"] = "1381401314",
+						["Event"] = "button",
+						["ClassName"] = "event",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "78853767",
+				["ClassName"] = "group",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["HidePhysgunBeam"] = true,
+				["ClassName"] = "entity",
+				["UniqueID"] = "76026458",
+				["Model"] = "models/player/gman_high.mdl",
+				["DrawWeapon"] = false,
+				["Size"] = 1.2999999523163,
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "submaterial",
+				["UniqueID"] = "3550271003",
+				["SubMaterialId"] = 1,
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "my outfit",
+		["ClassName"] = "group",
+		["UniqueID"] = "271738542",
+		["EditorExpand"] = true,
+	},
+},
