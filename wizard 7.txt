@@ -1,0 +1,890 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "3246263103",
+				["Color"] = Vector(0, 0, 0),
+				["Size"] = 1.325,
+				["Model"] = "models/pac/male/base_male.mdl",
+				["ClassName"] = "entity",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(6.488680082839e-05, 34.054798126221, 9.5622650405858e-05),
+						["Bone"] = "spine",
+						["UniqueID"] = "1627741649",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = -0.6,
+						["Bone"] = "right glut",
+						["UniqueID"] = "34656982",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(6.6594351665117e-05, -21.403825759888, -6.488680082839e-05),
+						["Bone"] = "left forearm",
+						["UniqueID"] = "2422914974",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = -0.6,
+						["Bone"] = "left glut",
+						["UniqueID"] = "2759930167",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(8.1437377929688, -46.661281585693, 2.2232439517975),
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "2733653804",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-27.441184997559, -34.515045166016, -4.2381587028503),
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "2707439898",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "970543135",
+						["Bone"] = "right upperarm",
+						["Position"] = Vector(5.281494140625, 0.005859375, 0.00244140625),
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(8.5377369032358e-06, 55.184745788574, 2.5613209800213e-05),
+						["UniqueID"] = "3849534040",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4242880712",
+						["Bone"] = "left upperarm",
+						["Position"] = Vector(5.281494140625, 0.005859375, 0.00244140625),
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(1.1952832210227e-05, -9.2488422393799, -2.9028304197709e-05),
+						["Bone"] = "right forearm",
+						["UniqueID"] = "1449138650",
+						["ClassName"] = "bone",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = -0.05,
+						["Bone"] = "right calf",
+						["UniqueID"] = "618300436",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "bones",
+				["ClassName"] = "group",
+				["UniqueID"] = "1449190348",
+				["EditorExpand"] = true,
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["BoneMerge"] = true,
+						["ClassName"] = "model",
+						["UniqueID"] = "1240343915",
+						["Size"] = 1.075,
+						["Fullbright"] = true,
+						["Model"] = "models/pac/male/base_male.mdl",
+						["Invert"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "742440946",
+						["Scale"] = Vector(0.5, 1, 1),
+						["Angles"] = Angle(42.958522796631, 29.439222335815, 12.550530433655),
+						["Size"] = 0.3,
+						["Position"] = Vector(0.1953125, -1.6015625, 1.787109375),
+						["ClassName"] = "model",
+						["Bone"] = "right upperarm",
+						["Model"] = "models/props_combine/headcrabcannister01a.mdl",
+						["Material"] = "models/props_canal/canal_bridge_railing_01a",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "651946144",
+						["Scale"] = Vector(1, 1, 0.10000000149012),
+						["ClassName"] = "model",
+						["Size"] = 0.6,
+						["Position"] = Vector(0.0751953125, -5.444091796875, 0.88885498046875),
+						["Color"] = Vector(0, 161, 255),
+						["Angles"] = Angle(-4.2688677126534e-07, -2.1344338563267e-07, 80.568824768066),
+						["Model"] = "models/props_c17/oildrum001.mdl",
+						["Material"] = "models/props_halloween/scary_ghost",
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.075,
+								["Bone"] = "j 8",
+								["UniqueID"] = "3655210966",
+								["ClassName"] = "bone",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.625,
+								["Bone"] = "j 6",
+								["UniqueID"] = "637491458",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.775,
+								["Bone"] = "j 4",
+								["UniqueID"] = "2501282125",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.575,
+								["Bone"] = "j 7",
+								["UniqueID"] = "2080780062",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.675,
+								["Bone"] = "j 5",
+								["UniqueID"] = "2058940440",
+								["ClassName"] = "bone",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.85,
+								["Bone"] = "j 3",
+								["UniqueID"] = "2222061347",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(53.539821624756, 73.655250549316, -116.33654022217),
+						["ClassName"] = "model",
+						["UniqueID"] = "1354276571",
+						["EditorExpand"] = true,
+						["Color"] = Vector(23, 44, 3),
+						["Position"] = Vector(-6.9990234375, -7.12939453125, 2.200927734375),
+						["Model"] = "models/pac/jiggle/base_jiggle_0_gravity.mdl",
+						["Material"] = "models/props_halloween/flask_liquid",
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-89.631546020508, 179.99545288086, -179.99629211426),
+								["ClassName"] = "clip",
+								["UniqueID"] = "617745165",
+								["Position"] = Vector(0.01470947265625, -0.008056640625, -2.5625),
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(78.965187072754, -127.9806137085, -128.50035095215),
+						["Position"] = Vector(0.49609375, -8.240234375, 0.769775390625),
+						["ClassName"] = "model",
+						["Size"] = 0.15,
+						["EditorExpand"] = true,
+						["Model"] = "models/props_trainyard/drainage_grate01.mdl",
+						["UniqueID"] = "1045492963",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Angles"] = Angle(-7.6024112701416, -91.319755554199, -89.076194763184),
+						["UniqueID"] = "1295715295",
+						["Size"] = 1.1,
+						["Position"] = Vector(0.62353515625, 0.7900390625, -0.4189453125),
+						["Bone"] = "pelvis",
+						["Model"] = "models/props_junk/PropaneCanister001a.mdl",
+						["Material"] = "models/props_canal/canal_bridge_railing_01a",
+					},
+				},
+				[7] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "beam",
+										["Width"] = 1.1,
+										["UniqueID"] = "1816317875",
+										["EndPointUID"] = "250407909",
+										["Bend"] = -8.1,
+										["Material"] = "models/props_combine/combine_tower01a",
+										["Angles"] = Angle(-0, 0, 77.292778015137),
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(67.747863769531, -76.630752563477, -77.593872070313),
+								["Position"] = Vector(3.814453125, 0.00390625, 2.516845703125),
+								["ClassName"] = "model",
+								["Size"] = 0.25,
+								["EditorExpand"] = true,
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "1081066202",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2971626636",
+						["Scale"] = Vector(1, 1, 0.80000001192093),
+						["Material"] = "models/props_canal/canal_bridge_railing_01b",
+						["EditorExpand"] = true,
+						["Size"] = 0.325,
+						["ClassName"] = "model",
+						["Position"] = Vector(5.929931640625, -0.31298828125, -0.08984375),
+						["Bone"] = "left forearm",
+						["Model"] = "models/props_borealis/bluebarrel001.mdl",
+						["Angles"] = Angle(88.721542358398, -43.375370025635, -47.687507629395),
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-4.2688677126534e-07, -2.1344338563267e-07, 80.568824768066),
+						["Position"] = Vector(0.03125, 14.280029296875, -2.3779296875),
+						["ClassName"] = "model",
+						["Size"] = 0.625,
+						["UniqueID"] = "3523938001",
+						["Model"] = "models/props_c17/oildrum001.mdl",
+						["Scale"] = Vector(1, 1, 0.80000001192093),
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.85001373291, -0.0013045765226707, 177.51139831543),
+						["UniqueID"] = "2671665739",
+						["Position"] = Vector(-8.6787109375, 0.41064453125, -0.3291015625),
+						["Size"] = 0.6,
+						["Bone"] = "right calf",
+						["Model"] = "models/props_c17/canister01a.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[10] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-87.800422668457, 180, 179.99995422363),
+								["ClassName"] = "clip",
+								["UniqueID"] = "2412957608",
+								["Position"] = Vector(0.03759765625, 0.001953125, -0.998046875),
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(-78.482948303223, 49.074840545654, -48.61185836792),
+						["Position"] = Vector(-0.0322265625, -8.3046875, 0.855712890625),
+						["ClassName"] = "model",
+						["Size"] = 0.15,
+						["EditorExpand"] = true,
+						["Model"] = "models/props_trainyard/drainage_grate01.mdl",
+						["UniqueID"] = "33300743",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1593095749",
+						["Scale"] = Vector(0.5, 1, 1),
+						["Angles"] = Angle(-49.077167510986, 19.872974395752, -11.154802322388),
+						["Size"] = 0.3,
+						["Position"] = Vector(-2.28662109375, -2.29638671875, 0.3203125),
+						["ClassName"] = "model",
+						["Bone"] = "left upperarm",
+						["Model"] = "models/props_combine/headcrabcannister01a.mdl",
+						["Material"] = "models/props_canal/canal_bridge_railing_01a",
+					},
+				},
+				[12] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.075,
+								["Bone"] = "j 8",
+								["UniqueID"] = "441925788",
+								["ClassName"] = "bone",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.625,
+								["Bone"] = "j 6",
+								["UniqueID"] = "960034950",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.575,
+								["Bone"] = "j 7",
+								["UniqueID"] = "3725247531",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.675,
+								["Bone"] = "j 5",
+								["UniqueID"] = "1443441260",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.775,
+								["Bone"] = "j 4",
+								["UniqueID"] = "585168122",
+								["ClassName"] = "bone",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.85,
+								["Bone"] = "j 3",
+								["UniqueID"] = "3005099128",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(47.903060913086, 7.8960307291709e-05, 0.00010443138307892),
+						["ClassName"] = "model",
+						["UniqueID"] = "1475503750",
+						["EditorExpand"] = true,
+						["Color"] = Vector(23, 44, 3),
+						["Position"] = Vector(8.5771484375, -7.4091796875, 0.47412109375),
+						["Model"] = "models/pac/jiggle/base_jiggle_0_gravity.mdl",
+						["Material"] = "models/props_halloween/flask_liquid",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["UniqueID"] = "849814795",
+						["Model"] = "models/pac/default.mdl",
+					},
+				},
+				[14] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.075,
+								["Bone"] = "j 8",
+								["UniqueID"] = "441925788",
+								["ClassName"] = "bone",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.625,
+								["Bone"] = "j 6",
+								["UniqueID"] = "960034950",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.575,
+								["Bone"] = "j 7",
+								["UniqueID"] = "3725247531",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.675,
+								["Bone"] = "j 5",
+								["UniqueID"] = "1443441260",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.775,
+								["Bone"] = "j 4",
+								["UniqueID"] = "585168122",
+								["ClassName"] = "bone",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.85,
+								["Bone"] = "j 3",
+								["UniqueID"] = "3005099128",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(64.814506530762, 179.99995422363, 179.99995422363),
+						["ClassName"] = "model",
+						["UniqueID"] = "1475503750",
+						["EditorExpand"] = true,
+						["Color"] = Vector(23, 44, 3),
+						["Position"] = Vector(7.7373046875, -7.4091796875, -1.312744140625),
+						["Model"] = "models/pac/jiggle/base_jiggle_0_gravity.mdl",
+						["Material"] = "models/props_halloween/flask_liquid",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(89.368255615234, -179.99612426758, -179.99319458008),
+						["UniqueID"] = "461853907",
+						["ClassName"] = "model",
+						["Size"] = 0.325,
+						["Bone"] = "right calf",
+						["Model"] = "models/props_c17/oildrum001.mdl",
+						["Scale"] = Vector(1, 1, 0.20000000298023),
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.33447265625, 1.392578125, 0.0155029296875),
+						["Angles"] = Angle(86.732330322266, -0.00035947925061919, 10.430480003357),
+						["UniqueID"] = "4109776038",
+						["Size"] = 0.275,
+						["ClassName"] = "model",
+						["Bone"] = "right foot",
+						["Model"] = "models/props_c17/oildrum001.mdl",
+						["Scale"] = Vector(1, 0.89999997615814, 1),
+					},
+				},
+				[17] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Material"] = "models/dog/eyeglass",
+										["Position"] = Vector(0.0947265625, 0.0185546875, 3.5556640625),
+										["ClassName"] = "model",
+										["Size"] = 0.47,
+										["UniqueID"] = "99757497",
+										["Model"] = "models/pac/default.mdl",
+										["Scale"] = Vector(1, 1, 0),
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(0.0943603515625, 0.0126953125, 2.105224609375),
+										["ClassName"] = "model",
+										["UniqueID"] = "2811553975",
+										["Size"] = 0.47,
+										["Color"] = Vector(0, 161, 255),
+										["Material"] = "models/props_halloween/scary_ghost",
+										["Model"] = "models/pac/default.mdl",
+										["Scale"] = Vector(1, 1, 0),
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(1.7075473124351e-06, -1.7075473124351e-06, 82.917022705078),
+								["Position"] = Vector(0.00048828125, -3.45947265625, 8.728515625),
+								["ClassName"] = "model",
+								["Size"] = 0.525,
+								["EditorExpand"] = true,
+								["Model"] = "models/props_c17/metalPot001a.mdl",
+								["UniqueID"] = "1471988632",
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(3.28125, -3.78076171875, 7.443115234375),
+						["Angles"] = Angle(-39.331390380859, -179.9992980957, -179.99990844727),
+						["UniqueID"] = "1158914813",
+						["Size"] = 0.325,
+						["EditorExpand"] = true,
+						["Bone"] = "spine 2",
+						["Model"] = "models/props_c17/canister_propane01a.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[18] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Size"] = 0.25,
+								["Position"] = Vector(-3.4736328125, 0.01123046875, 2.520751953125),
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "250407909",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3243130326",
+						["Scale"] = Vector(1, 1, 0.80000001192093),
+						["Material"] = "models/props_canal/canal_bridge_railing_01b",
+						["EditorExpand"] = true,
+						["Size"] = 0.325,
+						["ClassName"] = "model",
+						["Position"] = Vector(5.929931640625, -0.31298828125, -0.08984375),
+						["Bone"] = "right forearm",
+						["Model"] = "models/props_borealis/bluebarrel001.mdl",
+						["Angles"] = Angle(88.721542358398, -43.375370025635, -47.687507629395),
+					},
+				},
+				[19] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.075,
+								["Bone"] = "j 8",
+								["UniqueID"] = "441925788",
+								["ClassName"] = "bone",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.625,
+								["Bone"] = "j 6",
+								["UniqueID"] = "960034950",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.575,
+								["Bone"] = "j 7",
+								["UniqueID"] = "3725247531",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.675,
+								["Bone"] = "j 5",
+								["UniqueID"] = "1443441260",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.775,
+								["Bone"] = "j 4",
+								["UniqueID"] = "585168122",
+								["ClassName"] = "bone",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.85,
+								["Bone"] = "j 3",
+								["UniqueID"] = "3005099128",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(53.539821624756, 73.655250549316, 86.632263183594),
+						["ClassName"] = "model",
+						["UniqueID"] = "1475503750",
+						["EditorExpand"] = true,
+						["Color"] = Vector(23, 44, 3),
+						["Position"] = Vector(7.34375, -6.3359375, -0.63525390625),
+						["Model"] = "models/pac/jiggle/base_jiggle_0_gravity.mdl",
+						["Material"] = "models/props_halloween/flask_liquid",
+					},
+				},
+				[20] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.075,
+								["Bone"] = "j 8",
+								["UniqueID"] = "441925788",
+								["ClassName"] = "bone",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.625,
+								["Bone"] = "j 6",
+								["UniqueID"] = "960034950",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.575,
+								["Bone"] = "j 7",
+								["UniqueID"] = "3725247531",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.675,
+								["Bone"] = "j 5",
+								["UniqueID"] = "1443441260",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.775,
+								["Bone"] = "j 4",
+								["UniqueID"] = "585168122",
+								["ClassName"] = "bone",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Size"] = 0.85,
+								["Bone"] = "j 3",
+								["UniqueID"] = "3005099128",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(53.539821624756, 73.655250549316, -116.33654022217),
+						["ClassName"] = "model",
+						["UniqueID"] = "1475503750",
+						["EditorExpand"] = true,
+						["Color"] = Vector(23, 44, 3),
+						["Position"] = Vector(-5.0400390625, -8.24755859375, -4.55859375),
+						["Model"] = "models/pac/jiggle/base_jiggle_0_gravity.mdl",
+						["Material"] = "models/props_halloween/flask_liquid",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "clothing",
+				["ClassName"] = "group",
+				["UniqueID"] = "2118778372",
+				["EditorExpand"] = true,
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["UniqueID"] = "1613491472",
+								["EditorExpand"] = true,
+								["Color"] = Vector(0, 0, 0),
+								["Size"] = 0.45,
+								["Model"] = "models/pac/default.mdl",
+								["Position"] = Vector(1.49609375, -0.00341796875, 0.00146484375),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["BoneMerge"] = true,
+								["Invert"] = true,
+								["UniqueID"] = "3503610152",
+								["EditorExpand"] = true,
+								["Angles"] = Angle(0.33507564663887, -66.075904846191, 30.760187149048),
+								["Size"] = 1.075,
+								["ClassName"] = "model",
+								["Bone"] = "left upperarm",
+								["Fullbright"] = true,
+								["Model"] = "models/pac/female_base.mdl",
+								["Position"] = Vector(-3.745361328125, -0.693359375, 6.2041015625),
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "animation",
+								["UniqueID"] = "527907237",
+								["SequenceName"] = "sit",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "1176571593",
+						["Position"] = Vector(-6.12353515625, -2.87158203125, 2.28564453125),
+						["Material"] = "models/props_halloween/halloween_blk",
+						["EditorExpand"] = true,
+						["Size"] = 0.65,
+						["Angles"] = Angle(-6.1768636703491, -55.036808013916, 50.91561126709),
+						["Color"] = Vector(29, 25, 25),
+						["Bone"] = "left upperarm",
+						["Model"] = "models/pac/female_base.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "little one",
+				["ClassName"] = "group",
+				["UniqueID"] = "4231964849",
+				["EditorExpand"] = true,
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "1538269969",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
