@@ -1,0 +1,3866 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "effect",
+						["UniqueID"] = "3969235534",
+						["Effect"] = "drg_cow_rockettrail_normal",
+					},
+				},
+			},
+			["self"] = {
+				["Position"] = Vector(-0.00048828125, -18.6279296875, 0.0018310546875),
+				["ClassName"] = "model",
+				["UniqueID"] = "3203716807",
+				["Size"] = 0,
+				["EditorExpand"] = true,
+				["Hide"] = true,
+				["Model"] = "models/pac/default.mdl",
+				["Scale"] = Vector(0.30000001192093, 1.7999999523163, 0.40000000596046),
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "3674794916",
+		["Name"] = "projectile",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/weapons/shell.mdl",
+				["Angles"] = Angle(-0, -2.1344341405438e-07, -89.312721252441),
+				["UniqueID"] = "2989515317",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "763350018",
+		["Name"] = "shells",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["Bone"] = "right leftatt",
+						["UniqueID"] = "1705744519",
+						["HideMesh"] = true,
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "left calf",
+						["UniqueID"] = "3812908031",
+						["ClassName"] = "bone",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "left bicep",
+						["UniqueID"] = "3007462113",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "spine 1",
+						["UniqueID"] = "4202357394",
+						["ClassName"] = "bone",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "right forearm",
+						["UniqueID"] = "418969816",
+						["ClassName"] = "bone",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "right thigh",
+						["UniqueID"] = "1666807585",
+						["ClassName"] = "bone",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "left wrist",
+						["UniqueID"] = "3684616053",
+						["ClassName"] = "bone",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "right elbow",
+						["UniqueID"] = "4205436675",
+						["ClassName"] = "bone",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "pelvis",
+						["UniqueID"] = "2599365553",
+						["ClassName"] = "bone",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "left elbow",
+						["UniqueID"] = "1987752552",
+						["ClassName"] = "bone",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "spine 2",
+						["UniqueID"] = "201739293",
+						["ClassName"] = "bone",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "left forearm",
+						["UniqueID"] = "2865326411",
+						["ClassName"] = "bone",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "right shoulder",
+						["UniqueID"] = "3033571337",
+						["ClassName"] = "bone",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "right bicep",
+						["UniqueID"] = "2566754043",
+						["ClassName"] = "bone",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "right wrist",
+						["UniqueID"] = "3472966771",
+						["ClassName"] = "bone",
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "right calf",
+						["UniqueID"] = "627138562",
+						["ClassName"] = "bone",
+					},
+				},
+				[17] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["Bone"] = "left clavicle",
+						["UniqueID"] = "3290070022",
+						["HideMesh"] = true,
+					},
+				},
+				[18] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["Bone"] = "neck",
+						["UniqueID"] = "2817997437",
+						["HideMesh"] = true,
+					},
+				},
+				[19] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "spine",
+						["UniqueID"] = "3949578081",
+						["ClassName"] = "bone",
+					},
+				},
+				[20] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "left toe",
+						["UniqueID"] = "1560976200",
+						["ClassName"] = "bone",
+					},
+				},
+				[21] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "3356949048",
+						["ClassName"] = "bone",
+					},
+				},
+				[22] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "left shoulder",
+						["UniqueID"] = "4187058328",
+						["ClassName"] = "bone",
+					},
+				},
+				[23] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "right toe",
+						["UniqueID"] = "3752846130",
+						["ClassName"] = "bone",
+					},
+				},
+				[24] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "left ulna",
+						["UniqueID"] = "3107167562",
+						["ClassName"] = "bone",
+					},
+				},
+				[25] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["Bone"] = "left leftatt",
+						["UniqueID"] = "1871035503",
+						["HideMesh"] = true,
+					},
+				},
+				[26] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["Bone"] = "right clavicle",
+						["UniqueID"] = "2165297244",
+						["HideMesh"] = true,
+					},
+				},
+				[27] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "right ulna",
+						["UniqueID"] = "3859740139",
+						["ClassName"] = "bone",
+					},
+				},
+				[28] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "left thigh",
+						["UniqueID"] = "1563006535",
+						["ClassName"] = "bone",
+					},
+				},
+				[29] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 0.1,
+						["Bone"] = "left upperarm",
+						["UniqueID"] = "3663584081",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "1521355546",
+				["Name"] = "it works yay",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.2451171875, 0.244873046875, 0.17425537109375),
+						["Name"] = "14",
+						["Scale"] = Vector(1, 1, 0.69999998807907),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Angles"] = Angle(-0.37095358967781, -93.415222167969, -5.0844502449036),
+						["Size"] = 0.025,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "right finger 1",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "2259430447",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "3400819246",
+						["Size"] = 0.075,
+						["Position"] = Vector(0.111328125, -0.052734375, -0.055908203125),
+						["Bone"] = "right finger 41",
+						["Name"] = "7",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(-0.001953125, 0.0013427734375, 2.455078125),
+								["ClassName"] = "model",
+								["Size"] = 0.0113,
+								["UniqueID"] = "1944270055",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(1, 1, 39),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0.064453125, 0.0748291015625, -0.04248046875),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "19",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.31807887554169, -103.1431350708, -0.48913162946701),
+						["Size"] = 0.023,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "right finger 21",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "3325516247",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3754034312",
+						["Name"] = "5",
+						["Material"] = "models/shadertest/envball_1",
+						["Size"] = 0.085,
+						["Angles"] = Angle(-1.3980545190861e-05, 23.692808151245, 0.00022198115766514),
+						["ClassName"] = "model",
+						["Bone"] = "right finger 31",
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(0.0341796875, -0.0765380859375, -0.02490234375),
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "600013140",
+						["Name"] = "12",
+						["Scale"] = Vector(1, 0.60000002384186, 0.69999998807907),
+						["ClassName"] = "model",
+						["Size"] = 0.05,
+						["Position"] = Vector(1.1832885742188, 0.4755859375, -0.35546875),
+						["Angles"] = Angle(36.129341125488, -94.195281982422, -20.043924331665),
+						["Bone"] = "right finger 0",
+						["Model"] = "models/hunter/misc/roundthing2.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "210720103",
+						["Name"] = "4",
+						["Material"] = "models/shadertest/envball_1",
+						["Size"] = 0.12,
+						["Angles"] = Angle(-1.1099057701358e-05, 20.316753387451, -6.8301892497402e-06),
+						["ClassName"] = "model",
+						["Bone"] = "right finger 1",
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(0.1337890625, -0.036865234375, 0.125244140625),
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1824295624",
+						["Name"] = "11",
+						["Scale"] = Vector(1.2999999523163, 0.44999998807907, 0.60000002384186),
+						["Position"] = Vector(2.353515625, 1.40087890625, -0.15316772460938),
+						["ClassName"] = "model",
+						["Size"] = 0.1,
+						["EditorExpand"] = true,
+						["AngleOffset"] = Angle(0, 0, 90),
+						["Bone"] = "right hand",
+						["Model"] = "models/hunter/misc/roundthing2.mdl",
+						["Material"] = "models/props_combine/metal_combinebridge001",
+					},
+				},
+				[8] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(-0.001708984375, 0.003173828125, 2.8388671875),
+								["Size"] = 0.0145,
+								["EditorExpand"] = true,
+								["UniqueID"] = "2470003335",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(1, 1, 39),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(-1.3974609375, 0.60462951660156, -0.013427734375),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "20",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.31807887554169, -103.1431350708, -0.48913162946701),
+						["Size"] = 0.03,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "right finger 02",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "1359140028",
+					},
+				},
+				[9] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(0.00146484375, -0.002685546875, 2.173828125),
+								["ClassName"] = "model",
+								["Size"] = 0.01,
+								["UniqueID"] = "2063498964",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(1, 1, 13.39999961853),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0.046875, -0.10107421875, -0.07763671875),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "21",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.00011269813694526, -89.25463104248, -2.6784019470215),
+						["Size"] = 0.02,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "right finger 41",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "127890789",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.0771484375, -0.119384765625, 0.3310546875),
+						["Name"] = "16",
+						["Scale"] = Vector(1, 1, 0.69999998807907),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Angles"] = Angle(-0.00011440568050602, -89.25463104248, -12.51238822937),
+						["Size"] = 0.025,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "right finger 4",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "1453169838",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "932803659",
+						["Name"] = "3",
+						["Position"] = Vector(-0.2509765625, 0.0745849609375, -0.02923583984375),
+						["EditorExpand"] = true,
+						["Size"] = 0.085,
+						["ClassName"] = "model",
+						["Angles"] = Angle(3.447111157584e-05, 13.486874580383, 0.00024289860448334),
+						["Bone"] = "right finger 11",
+						["Model"] = "models/pac/default.mdl",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "3040622289",
+						["Size"] = 0.15,
+						["EditorExpand"] = true,
+						["Bone"] = "right finger 01",
+						["Name"] = "1",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[13] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(0.001953125, 6.103515625e-05, 2.2109375),
+								["ClassName"] = "model",
+								["Size"] = 0.0113,
+								["UniqueID"] = "2528045993",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(1, 1, 39),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0.064453125, 0.0748291015625, -0.04248046875),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "22",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.31807887554169, -103.1431350708, -0.48913162946701),
+						["Size"] = 0.023,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "right finger 11",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "1339778105",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "2158927633",
+						["Size"] = 0.1,
+						["Position"] = Vector(0.095703125, -0.1805419921875, 0.2451171875),
+						["Bone"] = "right finger 4",
+						["Name"] = "9",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4177768509",
+						["Name"] = "6",
+						["Material"] = "models/shadertest/envball_1",
+						["Size"] = 0.11,
+						["Angles"] = Angle(-1.1099057701358e-05, 20.316753387451, -6.8301892497402e-06),
+						["ClassName"] = "model",
+						["Bone"] = "right finger 2",
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(0.1494140625, -0.037353515625, 0.241943359375),
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "79929538",
+						["Name"] = "10",
+						["ClassName"] = "model",
+						["Size"] = 0.105,
+						["Position"] = Vector(0.095703125, -0.1805419921875, 0.2451171875),
+						["Material"] = "models/shadertest/envball_1",
+						["Bone"] = "right finger 3",
+						["Model"] = "models/pac/default.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[17] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["Bone"] = "right finger 32",
+						["UniqueID"] = "861496338",
+						["HideMesh"] = true,
+					},
+				},
+				[18] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Event"] = "is_flashlight_on",
+												["ClassName"] = "event",
+												["Invert"] = true,
+												["UniqueID"] = "3097354444",
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "2146126854",
+										["Material"] = "cable/cable_lit",
+										["Width"] = 2,
+										["EndPointUID"] = "824422170",
+										["EditorExpand"] = true,
+										["Bend"] = 0,
+										["UseEndpointOffsets"] = true,
+										["ClassName"] = "beam",
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "2388532895",
+								["ClassName"] = "model",
+								["Size"] = 0.1,
+								["Model"] = "models/pac/default.mdl",
+								["Material"] = "models/shadertest/envball_1",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "4135832245",
+						["Name"] = "2",
+						["Scale"] = Vector(0.30000001192093, 1, 1),
+						["Position"] = Vector(-1.2138671875, -0.4384765625, -0.065673828125),
+						["ClassName"] = "model",
+						["Size"] = 0.325,
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-2.9882078251831e-06, -4.5079407691956, 3.5858494811691e-05),
+						["Bone"] = "right hand",
+						["Model"] = "models/pac/default.mdl",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[19] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "65841798",
+						["Name"] = "8",
+						["Position"] = Vector(-0.2509765625, 0.0745849609375, -0.02923583984375),
+						["EditorExpand"] = true,
+						["Size"] = 0.085,
+						["ClassName"] = "model",
+						["Angles"] = Angle(3.447111157584e-05, 13.486874580383, 0.00024289860448334),
+						["Bone"] = "right finger 21",
+						["Model"] = "models/pac/default.mdl",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[20] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.2734375, 0.121826171875, 0.17437744140625),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "15",
+						["Scale"] = Vector(1, 1, 0.69999998807907),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.00011995521344943, -89.25463104248, -5.0979290008545),
+						["Size"] = 0.025,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "right finger 2",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "3529803982",
+					},
+				},
+				[21] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3093165024",
+						["Name"] = "13",
+						["Scale"] = Vector(1, 0.60000002384186, 0.69999998807907),
+						["ClassName"] = "model",
+						["Size"] = 0.05,
+						["Position"] = Vector(1.3642578125, -0.38818359375, -1.418212890625),
+						["Angles"] = Angle(83.69522857666, 57.160884857178, 138.31437683105),
+						["Bone"] = "right hand",
+						["Model"] = "models/hunter/misc/roundthing2.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[22] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(0.00146484375, -0.002685546875, 2.173828125),
+								["ClassName"] = "model",
+								["Size"] = 0.01,
+								["UniqueID"] = "3548198910",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(1, 1, 13.39999961853),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0.20703125, 0.053466796875, -0.041015625),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "18",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.2640782892704, -97.01016998291, -0.5202511548996),
+						["Size"] = 0.023,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "right finger 31",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "1685283460",
+					},
+				},
+				[23] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.2861328125, -0.1153564453125, 0.28515625),
+						["Name"] = "17",
+						["Scale"] = Vector(1, 1, 0.69999998807907),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Angles"] = Angle(-0.00012294341286179, -89.25463104248, -11.221036911011),
+						["Size"] = 0.025,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "right finger 3",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "2010461619",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2233299309",
+				["Name"] = "right hand",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 10,
+												["ClassName"] = "proxy",
+												["Additive"] = true,
+												["UniqueID"] = "3951392513",
+												["Axis"] = "z",
+												["Min"] = 25,
+												["Function"] = "cos",
+												["VariableName"] = "AngleOffset",
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(-82.477653503418, -179.99949645996, 179.99946594238),
+										["UniqueID"] = "1093801051",
+										["ClassName"] = "model",
+										["EditorExpand"] = true,
+										["Position"] = Vector(-0.50048828125, -0.0040283203125, 12.010864257813),
+										["Model"] = "models/effects/muzzleflash/minigunmuzzle.mdl",
+										["AngleOffset"] = Angle(0.57170337438583, 0, 11.193753242493),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3893076866",
+								["Position"] = Vector(3.23828125, 1.303466796875, -0.0771484375),
+								["Angles"] = Angle(1.227952003479, 23.9713306427, -89.933883666992),
+								["Size"] = 0.725,
+								["Material"] = "models/shadertest/envball_2",
+								["ClassName"] = "model",
+								["Bone"] = "right foot",
+								["Model"] = "models/maxofs2d/thruster_projector.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 10,
+												["ClassName"] = "proxy",
+												["Additive"] = true,
+												["UniqueID"] = "2044245009",
+												["Axis"] = "z",
+												["Min"] = 25,
+												["Function"] = "cos",
+												["VariableName"] = "AngleOffset",
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(-82.477653503418, -179.99949645996, 179.99946594238),
+										["UniqueID"] = "582002614",
+										["ClassName"] = "model",
+										["EditorExpand"] = true,
+										["Position"] = Vector(-0.50048828125, -0.0040283203125, 12.010864257813),
+										["Model"] = "models/effects/muzzleflash/minigunmuzzle.mdl",
+										["AngleOffset"] = Angle(0.57170337438583, 0, 11.193753242493),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2943705357",
+								["Position"] = Vector(3.23828125, 1.303466796875, -0.0771484375),
+								["Angles"] = Angle(1.2295454740524, 21.953659057617, -89.977142333984),
+								["Size"] = 0.725,
+								["Material"] = "models/shadertest/envball_2",
+								["ClassName"] = "model",
+								["Bone"] = "left foot",
+								["Model"] = "models/maxofs2d/thruster_projector.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Volume"] = 0.275,
+								["ClassName"] = "sound",
+								["UniqueID"] = "4173842486",
+								["Sound"] = "weapons/flame_thrower_bb_loop_crit.wav",
+							},
+						},
+					},
+					["self"] = {
+						["AffectChildrenOnly"] = true,
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["Event"] = "is_in_noclip",
+						["UniqueID"] = "3513805114",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Volume"] = 2.75,
+								["ClassName"] = "sound",
+								["UniqueID"] = "1333143411",
+								["Sound"] = "buttons/blip1.wav",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.00013404246419668, -49.276653289795, -0.0002954056544695),
+								["Bone"] = "right finger 21",
+								["UniqueID"] = "427752216",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-4.9945760110859e-05, -29.431562423706, -0.00017929247405846),
+								["Bone"] = "right finger 4",
+								["UniqueID"] = "1007385159",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(4.7811325202929e-05, -30.186761856079, 2.1344338165363e-05),
+								["Bone"] = "right finger 01",
+								["UniqueID"] = "2318396239",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-4.9945760110859e-05, -29.431562423706, -0.00017929247405846),
+								["Bone"] = "right finger 2",
+								["UniqueID"] = "3779481690",
+								["ClassName"] = "bone",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.00013404246419668, -49.276653289795, -0.0002954056544695),
+								["Bone"] = "right finger 31",
+								["UniqueID"] = "464408601",
+								["ClassName"] = "bone",
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(6.1133699417114, -9.0657300949097, 15.592617988586),
+								["UniqueID"] = "4145787047",
+								["Bone"] = "right upperarm",
+								["AngleOffset"] = Angle(-24, 37.599998474121, 0),
+								["ClassName"] = "bone",
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["WeaponHoldType"] = "pistol",
+								["ClassName"] = "animation",
+								["UniqueID"] = "921986482",
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-1.878302100522e-05, -37.354633331299, -2.9882077797083e-05),
+								["Bone"] = "right forearm",
+								["UniqueID"] = "3168902473",
+								["ClassName"] = "bone",
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-1.7075473806472e-05, -50.849258422852, -8.6231142631732e-05),
+								["Bone"] = "right finger 1",
+								["UniqueID"] = "1086721569",
+								["ClassName"] = "bone",
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-3.0735853215447e-05, -68.094947814941, -3.9273589209188e-05),
+								["Position"] = Vector(-0.2724609375, -0.265625, 0.1591796875),
+								["Bone"] = "right finger 11",
+								["UniqueID"] = "2499208871",
+								["ClassName"] = "bone",
+							},
+						},
+						[12] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.00013404246419668, -49.276653289795, -0.0002954056544695),
+								["Bone"] = "right finger 41",
+								["UniqueID"] = "1399253448",
+								["ClassName"] = "bone",
+							},
+						},
+						[13] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(34.538154602051, -34.309154510498, -39.323852539063),
+								["Bone"] = "right finger 0",
+								["UniqueID"] = "3597854572",
+								["ClassName"] = "bone",
+							},
+						},
+						[14] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-4.9945760110859e-05, -29.431562423706, -0.00017929247405846),
+								["Bone"] = "right finger 3",
+								["UniqueID"] = "3393854579",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["AffectChildrenOnly"] = true,
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["Event"] = "button",
+						["UniqueID"] = "2654494838",
+						["Arguments"] = "b",
+						["EditorExpand"] = true,
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "2686283822",
+								["Bone"] = "left upperarm",
+								["Position"] = Vector(-3.7000000476837, -4.5, 2.7999999523163),
+								["ClassName"] = "bone",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["AngleOffset"] = Angle(-92, -41, -5.6999998092651),
+								["Bone"] = "right forearm",
+								["UniqueID"] = "4013647210",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(2.0010320440633e-06, 3.4869024753571, 9.8183969384991e-05),
+										["UniqueID"] = "3843838393",
+										["ClassName"] = "text",
+										["Size"] = 0.45,
+										["AngleOffset"] = Angle(90, -90, 0),
+										["Position"] = Vector(11.01953125, -8.0556640625, 2.841796875),
+										["Text"] = "_",
+									},
+								},
+							},
+							["self"] = {
+								["AffectChildrenOnly"] = true,
+								["ClassName"] = "event",
+								["UniqueID"] = "1471839685",
+								["Event"] = "timer",
+								["EditorExpand"] = true,
+								["Arguments"] = "1",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["URL"] = "https://raw.githubusercontent.com/DieselPoweredSpud/pac3-that-hopefully-works/master/Team%20Fortress%202%20Soundtrack%20Upgrade%20Station.mp3",
+								["ClassName"] = "webaudio",
+								["UniqueID"] = "1493306370",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["AngleOffset"] = Angle(47, -68.400001525879, 12.300000190735),
+								["Bone"] = "right upperarm",
+								["UniqueID"] = "2113621782",
+								["ClassName"] = "bone",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(2.0010320440633e-06, 3.4869024753571, 9.8183969384991e-05),
+								["UniqueID"] = "3452270552",
+								["ClassName"] = "text",
+								["Size"] = 0.45,
+								["AngleOffset"] = Angle(90, -90, 0),
+								["Position"] = Vector(10.787109375, -8.068359375, 5.658203125),
+								["Text"] = ">",
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(0.00014001887757331, 119.46214294434, -1.2166274245828e-05),
+								["UniqueID"] = "3715480813",
+								["Bone"] = "left forearm",
+								["AngleOffset"] = Angle(19, -19.700000762939, -12.39999961853),
+								["ClassName"] = "bone",
+							},
+						},
+						[8] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["AngleOffset"] = Angle(180, 90, 0),
+										["UniqueID"] = "1884270410",
+										["ClassName"] = "text",
+										["Size"] = 0.575,
+										["Position"] = Vector(-0.212890625, 0.0537109375, -1.8193359375),
+										["Text"] = "TYPING",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["AngleOffset"] = Angle(0, 90, 0),
+										["UniqueID"] = "435024805",
+										["ClassName"] = "text",
+										["Size"] = 0.575,
+										["Position"] = Vector(-0.212890625, 0.0302734375, 1.691162109375),
+										["Text"] = "TYPING",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "proxy",
+										["Additive"] = true,
+										["UniqueID"] = "4029962629",
+										["Axis"] = "y",
+										["Min"] = 1,
+										["Function"] = "cos",
+										["VariableName"] = "AngleOffset",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3947522685",
+								["Scale"] = Vector(0.10000000149012, 0.60000002384186, 1),
+								["EditorExpand"] = true,
+								["Material"] = "models/shadertest/envball_2",
+								["ClassName"] = "model",
+								["Position"] = Vector(-0.00048828125, -1.4794921875, 125.3779296875),
+								["Bone"] = "invalidbone",
+								["Model"] = "models/hunter/plates/plate1x1.mdl",
+								["AngleOffset"] = Angle(90, 1, 0),
+							},
+						},
+					},
+					["self"] = {
+						["AffectChildrenOnly"] = true,
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["Event"] = "is_typing",
+						["UniqueID"] = "3834139192",
+					},
+				},
+				[4] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["ClassName"] = "sound",
+								["UniqueID"] = "2505887822",
+								["Sound"] = "doors/doormove3.wav",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "2626278632",
+								["PositionOffset"] = Vector(-14, 0, 0),
+								["Bone"] = "right hand",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["WeaponHoldType"] = "duel",
+								["ClassName"] = "animation",
+								["UniqueID"] = "1637284601",
+								["EditorExpand"] = true,
+							},
+						},
+						[4] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Bone"] = "left wrist",
+												["ClassName"] = "projectile",
+												["UniqueID"] = "933467783",
+												["Speed"] = 0.1,
+												["OutfitPartUID"] = "763350018",
+												["OutfitPartName"] = "shells",
+												["Position"] = Vector(-5.5615234375, -0.005859375, -8.2802734375),
+												["Angles"] = Angle(-88.340942382813, -0.0020863707177341, 0.0019905283115804),
+											},
+										},
+									},
+									["self"] = {
+										["AffectChildrenOnly"] = true,
+										["ClassName"] = "event",
+										["UniqueID"] = "1916495684",
+										["Event"] = "timer",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["DamageType"] = "dissolve",
+												["UniqueID"] = "984904343",
+												["ClassName"] = "projectile",
+												["Bone"] = "right wrist",
+												["Position"] = Vector(-79.470947265625, 18.029663085938, 4.44580078125),
+												["OutfitPartUID"] = "3674794916",
+												["OutfitPartName"] = "projectile",
+												["Damage"] = 100,
+												["Gravity"] = false,
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Overlapping"] = true,
+												["ClassName"] = "sound",
+												["UniqueID"] = "2566722222",
+												["Sound"] = "weapons/cow_mangler_main_shot.wav",
+											},
+										},
+									},
+									["self"] = {
+										["AffectChildrenOnly"] = true,
+										["ClassName"] = "event",
+										["UniqueID"] = "3295747440",
+										["Event"] = "timer",
+										["EditorExpand"] = true,
+										["Arguments"] = "0.3",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-3.6268393993378, -81.999572753906, -11.72772693634),
+										["Bone"] = "left hand",
+										["UniqueID"] = "1175098365",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "949589906",
+										["Volume"] = 0.375,
+										["Loop"] = true,
+										["Sound"] = "weapons/minigun_shoot.wav",
+									},
+								},
+								[5] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 20,
+												["ClassName"] = "proxy",
+												["Additive"] = true,
+												["UniqueID"] = "4256043160",
+												["Axis"] = "z",
+												["Min"] = 20,
+												["Function"] = "cos",
+												["VariableName"] = "AngleOffset",
+											},
+										},
+									},
+									["self"] = {
+										["Position"] = Vector(5.8017578125, -0.0185546875, 6.7333984375),
+										["AngleOffset"] = Angle(0, 0, 20),
+										["UniqueID"] = "1451171284",
+										["Size"] = 0.625,
+										["EditorExpand"] = true,
+										["Bone"] = "left wrist",
+										["Model"] = "models/effects/muzzleflash/minigunmuzzle.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[6] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "projectile",
+												["UniqueID"] = "1258016646",
+												["Spread"] = 0.1,
+												["BulletImpact"] = true,
+												["Bone"] = "left wrist",
+												["Speed"] = 1000,
+											},
+										},
+									},
+									["self"] = {
+										["AffectChildrenOnly"] = true,
+										["ClassName"] = "event",
+										["UniqueID"] = "1627655235",
+										["Event"] = "timer",
+										["EditorExpand"] = true,
+										["Arguments"] = "0.1",
+									},
+								},
+							},
+							["self"] = {
+								["AffectChildrenOnly"] = true,
+								["ClassName"] = "event",
+								["Invert"] = true,
+								["Event"] = "button",
+								["UniqueID"] = "2770020511",
+								["Arguments"] = "e",
+								["EditorExpand"] = true,
+							},
+						},
+						[5] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "sound",
+										["UniqueID"] = "3343901496",
+										["Volume"] = 0.6,
+										["EditorExpand"] = true,
+										["Sound"] = "weapons/minigun_spin.wav",
+									},
+								},
+							},
+							["self"] = {
+								["AffectChildrenOnly"] = true,
+								["ClassName"] = "event",
+								["UniqueID"] = "3666250765",
+								["Event"] = "button",
+								["EditorExpand"] = true,
+								["Arguments"] = "e",
+							},
+						},
+					},
+					["self"] = {
+						["AffectChildrenOnly"] = true,
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["Event"] = "is_flashlight_on",
+						["UniqueID"] = "936845842",
+						["EditorExpand"] = true,
+					},
+				},
+				[5] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.00013404246419668, -49.276653289795, -0.0002954056544695),
+								["Bone"] = "right finger 21",
+								["UniqueID"] = "2220106173",
+								["ClassName"] = "bone",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(34.538154602051, -34.309154510498, -39.323852539063),
+								["Bone"] = "right finger 0",
+								["UniqueID"] = "3923705057",
+								["ClassName"] = "bone",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-1.7075473806472e-05, -50.849258422852, -8.6231142631732e-05),
+								["Bone"] = "right finger 1",
+								["UniqueID"] = "1765640151",
+								["ClassName"] = "bone",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.00013404246419668, -49.276653289795, -0.0002954056544695),
+								["Bone"] = "right finger 41",
+								["UniqueID"] = "2473035838",
+								["ClassName"] = "bone",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["WeaponHoldType"] = "pistol",
+								["ClassName"] = "animation",
+								["UniqueID"] = "1420734748",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Volume"] = 2.75,
+								["ClassName"] = "sound",
+								["UniqueID"] = "2461490881",
+								["Sound"] = "buttons/button10.wav",
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(6.1133699417114, -9.0657300949097, 15.592617988586),
+								["UniqueID"] = "2959799670",
+								["Bone"] = "right upperarm",
+								["AngleOffset"] = Angle(-24, 37.599998474121, 0),
+								["ClassName"] = "bone",
+							},
+						},
+						[8] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(2.7320756998961e-05, -7.0319838523865, 170.40641784668),
+								["Bone"] = "right hand",
+								["UniqueID"] = "3529610138",
+								["ClassName"] = "bone",
+							},
+						},
+						[9] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-1.878302100522e-05, -37.354633331299, -2.9882077797083e-05),
+								["Bone"] = "right forearm",
+								["UniqueID"] = "2955939850",
+								["ClassName"] = "bone",
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-0.00013404246419668, -49.276653289795, -0.0002954056544695),
+								["Bone"] = "right finger 31",
+								["UniqueID"] = "1772204789",
+								["ClassName"] = "bone",
+							},
+						},
+						[11] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-4.9945760110859e-05, -29.431562423706, -0.00017929247405846),
+								["Bone"] = "right finger 2",
+								["UniqueID"] = "1498978057",
+								["ClassName"] = "bone",
+							},
+						},
+						[12] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-3.0735853215447e-05, -68.094947814941, -3.9273589209188e-05),
+								["Position"] = Vector(-0.2724609375, -0.265625, 0.1591796875),
+								["Bone"] = "right finger 11",
+								["UniqueID"] = "3411968695",
+								["ClassName"] = "bone",
+							},
+						},
+						[13] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-4.9945760110859e-05, -29.431562423706, -0.00017929247405846),
+								["Bone"] = "right finger 3",
+								["UniqueID"] = "678017531",
+								["ClassName"] = "bone",
+							},
+						},
+						[14] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-4.9945760110859e-05, -29.431562423706, -0.00017929247405846),
+								["Bone"] = "right finger 4",
+								["UniqueID"] = "1156074118",
+								["ClassName"] = "bone",
+							},
+						},
+						[15] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(4.7811325202929e-05, -30.186761856079, 2.1344338165363e-05),
+								["Bone"] = "right finger 01",
+								["UniqueID"] = "1008152993",
+								["ClassName"] = "bone",
+							},
+						},
+					},
+					["self"] = {
+						["AffectChildrenOnly"] = true,
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["Event"] = "button",
+						["UniqueID"] = "1649063967",
+						["Arguments"] = "n",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "3697228941",
+				["Name"] = "animations",
+			},
+		},
+		[4] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["AngleOffset"] = Angle(-90, 0, 0),
+						["UniqueID"] = "1547142477",
+						["Size"] = 0.05,
+						["Position"] = Vector(0.84765625, 0.003173828125, 0.6851806640625),
+						["Bone"] = "left forearm",
+						["Model"] = "models/hunter/tubes/tube4x4x1to2x2.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(4.6103778004181e-05, 41.66047668457, -5.421462628874e-05),
+								["UniqueID"] = "1522983936",
+								["ClassName"] = "model",
+								["Size"] = 0.725,
+								["Position"] = Vector(-3.03759765625, 2.970703125, 9.8330078125),
+								["Model"] = "models/props/cs_office/computer_keyboard_p2.mdl",
+								["AngleOffset"] = Angle(0, 0, -90),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "2458428604",
+						["ClassName"] = "model",
+						["Material"] = "models/shadertest/envball_2",
+						["Size"] = 0.2,
+						["AngleOffset"] = Angle(90, 0, 0),
+						["Angles"] = Angle(1.7288915842073e-05, -3.4150946248701e-06, 178.0384979248),
+						["Bone"] = "left forearm",
+						["Model"] = "models/hunter/tubes/tube1x1x2c.mdl",
+						["Position"] = Vector(3.0615234375, -0.00067138671875, 0.736328125),
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Material"] = "models/shadertest/envball_2",
+						["UniqueID"] = "83289494",
+						["Position"] = Vector(1.66455078125, -4.259033203125, -0.31689453125),
+						["Size"] = 1.525,
+						["Bone"] = "left foot",
+						["Model"] = "models/hunter/misc/sphere025x025.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "159900360",
+						["Position"] = Vector(-0.748046875, 1.71142578125, 0.0028076171875),
+						["Scale"] = Vector(0.80000001192093, 0.60000002384186, 1.1000000238419),
+						["EditorExpand"] = true,
+						["AngleOffset"] = Angle(0, 0, 90),
+						["Size"] = 0.225,
+						["Angles"] = Angle(-7.683962394367e-06, 4.6819925308228, -1.7075473124351e-06),
+						["ClassName"] = "model",
+						["Bone"] = "spine 1",
+						["Model"] = "models/hunter/blocks/cube075x2x075.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1845230600",
+						["Position"] = Vector(3.828125, 2.5950317382813, 0.00048828125),
+						["Scale"] = Vector(1.6000000238419, 0.80000001192093, 1.2000000476837),
+						["EditorExpand"] = true,
+						["AngleOffset"] = Angle(0, 0, 90),
+						["Size"] = 0.225,
+						["Angles"] = Angle(-7.683962394367e-06, 4.6819925308228, -1.7075473124351e-06),
+						["ClassName"] = "model",
+						["Bone"] = "spine 2",
+						["Model"] = "models/hunter/blocks/cube075x2x075.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[6] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "1839645512",
+								["Scale"] = Vector(1, 1.1000000238419, 0.80000001192093),
+								["Material"] = "models/shadertest/envball_1",
+								["Size"] = 0.25,
+								["Angles"] = Angle(-5.9764156503661e-06, -92.137031555176, 1.627506208024e-05),
+								["ClassName"] = "model",
+								["Position"] = Vector(-0.947265625, -0.08087158203125, 0.576416015625),
+								["Model"] = "models/hunter/plates/plate025x05.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Event"] = "is_flashlight_on",
+										["ClassName"] = "event",
+										["Invert"] = true,
+										["UniqueID"] = "920390233",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "3142806474",
+								["Expression"] = "clamp(timeex()*10,0,4)",
+								["Axis"] = "z",
+								["EditorExpand"] = true,
+								["Min"] = 1,
+								["VariableName"] = "PositionOffset",
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "event",
+										["UniqueID"] = "541115522",
+										["Event"] = "is_flashlight_on",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "528115789",
+								["Expression"] = "clamp(timeex()*100,4,0)",
+								["Axis"] = "z",
+								["EditorExpand"] = true,
+								["Min"] = 1,
+								["VariableName"] = "PositionOffset",
+							},
+						},
+						[4] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.0087890625, 0.03125, 2.9873046875),
+										["Material"] = "models/props_canal/canal_bridge_railing_01c",
+										["UniqueID"] = "3112503469",
+										["PositionOffset"] = Vector(1.75, 1.75, 0),
+										["Size"] = 0.025,
+										["ClassName"] = "model",
+										["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+										["Scale"] = Vector(1, 1, 12.5),
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.0087890625, 0.03125, 2.9873046875),
+										["Material"] = "models/props_canal/canal_bridge_railing_01c",
+										["UniqueID"] = "1632659735",
+										["PositionOffset"] = Vector(2.5, 0, 0),
+										["Size"] = 0.025,
+										["ClassName"] = "model",
+										["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+										["Scale"] = Vector(1, 1, 12.5),
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.0087890625, 0.03125, 2.9873046875),
+										["Material"] = "models/props_canal/canal_bridge_railing_01c",
+										["UniqueID"] = "1026123854",
+										["PositionOffset"] = Vector(-1.75, 1.75, 0),
+										["Size"] = 0.025,
+										["ClassName"] = "model",
+										["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+										["Scale"] = Vector(1, 1, 12.5),
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.0087890625, 0.03125, 2.9873046875),
+										["Material"] = "models/props_canal/canal_bridge_railing_01c",
+										["UniqueID"] = "3311220651",
+										["PositionOffset"] = Vector(0, -2.5, 0),
+										["Size"] = 0.025,
+										["ClassName"] = "model",
+										["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+										["Scale"] = Vector(1, 1, 12.5),
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.0087890625, 0.03125, 2.9873046875),
+										["Material"] = "models/props_canal/canal_bridge_railing_01c",
+										["UniqueID"] = "1310009323",
+										["PositionOffset"] = Vector(0, 2.5, 0),
+										["Size"] = 0.025,
+										["ClassName"] = "model",
+										["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+										["Scale"] = Vector(1, 1, 12.5),
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.0087890625, 0.03125, 2.9873046875),
+										["Material"] = "models/props_canal/canal_bridge_railing_01c",
+										["UniqueID"] = "2126720377",
+										["PositionOffset"] = Vector(-1.75, -1.75, 0),
+										["Size"] = 0.025,
+										["ClassName"] = "model",
+										["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+										["Scale"] = Vector(1, 1, 12.5),
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Max"] = 15,
+										["ClassName"] = "proxy",
+										["Additive"] = true,
+										["InputMultiplier"] = 0,
+										["Axis"] = "y",
+										["UniqueID"] = "3919140676",
+										["Min"] = 15,
+										["VariableName"] = "AngleOffset",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Material"] = "models/shadertest/envball_2",
+										["Position"] = Vector(0.0068359375, -0.00927734375, 7.005859375),
+										["ClassName"] = "model",
+										["Size"] = 0.08,
+										["Model"] = "models/hunter/tubes/circle2x2.mdl",
+										["UniqueID"] = "2622181431",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Material"] = "models/shadertest/envball_2",
+										["Position"] = Vector(0.0078125, -0.0087890625, 13.83203125),
+										["ClassName"] = "model",
+										["Size"] = 0.08,
+										["Model"] = "models/hunter/tubes/circle2x2.mdl",
+										["UniqueID"] = "1967079761",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.0087890625, 0.03125, 2.9873046875),
+										["Material"] = "models/props_canal/canal_bridge_railing_01c",
+										["UniqueID"] = "3367488683",
+										["PositionOffset"] = Vector(-2.5, 0, 0),
+										["Size"] = 0.025,
+										["ClassName"] = "model",
+										["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+										["Scale"] = Vector(1, 1, 12.5),
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(-0.0087890625, 0.03125, 2.9873046875),
+										["Material"] = "models/props_canal/canal_bridge_railing_01c",
+										["UniqueID"] = "839105728",
+										["PositionOffset"] = Vector(1.75, -1.75, 0),
+										["Size"] = 0.025,
+										["ClassName"] = "model",
+										["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+										["Scale"] = Vector(1, 1, 12.5),
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2922684255",
+								["Scale"] = Vector(1, 1, 0.30000001192093),
+								["Material"] = "models/props_halloween/halloween_blk",
+								["EditorExpand"] = true,
+								["Size"] = 0.275,
+								["ClassName"] = "model",
+								["Color"] = Vector(0, 0, 0),
+								["Position"] = Vector(-0.2216796875, -0.02392578125, 0.4169921875),
+								["Model"] = "models/props_c17/oildrum001.mdl",
+								["AngleOffset"] = Angle(0, 26685, 0),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["AngleOffset"] = Angle(90, 0, 0),
+						["UniqueID"] = "3204978763",
+						["Size"] = 0.2,
+						["Position"] = Vector(3.0859375, 0.029296875, 0.920166015625),
+						["Bone"] = "left forearm",
+						["Model"] = "models/hunter/tubes/tube1x1x2c.mdl",
+						["Material"] = "models/shadertest/envball_2",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "666545032",
+						["Position"] = Vector(-0.748046875, 1.71142578125, 0.0028076171875),
+						["Scale"] = Vector(0.80000001192093, 0.60000002384186, 1.1000000238419),
+						["EditorExpand"] = true,
+						["AngleOffset"] = Angle(0, 0, 90),
+						["Size"] = 0.225,
+						["Angles"] = Angle(-7.683962394367e-06, 4.6819925308228, -1.7075473124351e-06),
+						["ClassName"] = "model",
+						["Bone"] = "spine",
+						["Model"] = "models/hunter/blocks/cube075x2x075.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[8] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["AngleOffset"] = Angle(0, 90, 0),
+												["Position"] = Vector(0.015625, -5.48828125, -0.11279296875),
+												["ClassName"] = "model",
+												["Size"] = 0.45,
+												["UniqueID"] = "83061580",
+												["Model"] = "models/props_wasteland/panel_leverhandle001a.mdl",
+												["Scale"] = Vector(1, 1.5, 0.60000002384186),
+											},
+										},
+										[2] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["URL"] = "https://raw.githubusercontent.com/DieselPoweredSpud/pac3-that-hopefully-works/master/Microwave%20Ding%20SOUND%20Effect.mp3",
+														["ClassName"] = "webaudio",
+														["UniqueID"] = "912571472",
+													},
+												},
+											},
+											["self"] = {
+												["AffectChildrenOnly"] = true,
+												["ClassName"] = "event",
+												["Invert"] = true,
+												["Event"] = "button",
+												["UniqueID"] = "184479049",
+												["Arguments"] = "m",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "870572772",
+										["Scale"] = Vector(0.75, 1, 0.60000002384186),
+										["Material"] = "models/props_canal/canal_bridge_railing_01c",
+										["Size"] = 0.3,
+										["AngleOffset"] = Angle(90, 0, 0),
+										["ClassName"] = "model",
+										["Position"] = Vector(-0.03857421875, -6.90478515625, 1.1884460449219),
+										["Model"] = "models/hunter/plates/plate1x1.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Event"] = "button",
+												["Arguments"] = "m",
+												["UniqueID"] = "1931328062",
+												["ClassName"] = "event",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "proxy",
+										["UniqueID"] = "1952336527",
+										["Expression"] = "clamp(timeex()*100,0,0)",
+										["Axis"] = "y",
+										["EditorExpand"] = true,
+										["Function"] = "cos",
+										["VariableName"] = "AngleOffset",
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "event",
+												["UniqueID"] = "4260031316",
+												["Event"] = "button",
+												["Arguments"] = "m",
+												["Invert"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "proxy",
+										["UniqueID"] = "2246514922",
+										["Expression"] = "clamp(timeex()*100,0,145)",
+										["Axis"] = "y",
+										["EditorExpand"] = true,
+										["Function"] = "cos",
+										["VariableName"] = "AngleOffset",
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "1686826086",
+								["Position"] = Vector(7.1396484375, 6.59814453125, 4.157958984375),
+								["Size"] = 0,
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["Size"] = 0.475,
+										["Position"] = Vector(0.443115234375, -0.00830078125, -0.595703125),
+										["Model"] = "models/items/plate.mdl",
+										["UniqueID"] = "3635290894",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(0.0068359375, -0.02099609375, 1.0634765625),
+								["Size"] = 0.3,
+								["EditorExpand"] = true,
+								["UniqueID"] = "3265746557",
+								["Model"] = "models/hunter/plates/plate1x1.mdl",
+								["Scale"] = Vector(1, 1, 2.7999999523163),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "1711041813",
+						["Position"] = Vector(-5.180419921875, 3.302734375, -0.00927734375),
+						["Scale"] = Vector(0.40000000596046, 0.60000002384186, 0.30000001192093),
+						["EditorExpand"] = true,
+						["AngleOffset"] = Angle(0, 0, 90),
+						["Size"] = 0.375,
+						["Angles"] = Angle(1.366037849948e-05, 89.223785400391, -8.9646237029228e-06),
+						["ClassName"] = "model",
+						["Bone"] = "spine 4",
+						["Model"] = "models/hunter/misc/lift2x2.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1663853926",
+						["Scale"] = Vector(1, 1, 3.7000000476837),
+						["AngleOffset"] = Angle(90, 0, 0),
+						["Size"] = 0.075,
+						["Position"] = Vector(1.13818359375, -0.0028076171875, 0.6533203125),
+						["ClassName"] = "model",
+						["Bone"] = "left upperarm",
+						["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+						["Material"] = "models/props_combine/metal_combinebridge001",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3248029517",
+						["Bone"] = "right upperarm",
+						["Position"] = Vector(2.69921875, 0.0078125, -0.0013427734375),
+						["ClassName"] = "bone",
+					},
+				},
+				[11] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Model"] = "models/pac/default.mdl",
+										["ClassName"] = "model",
+										["UniqueID"] = "3310500749",
+										["Size"] = 0,
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(0.11328125, 0.01458740234375, -2.35302734375),
+								["Material"] = "models/shadertest/envball_2",
+								["UniqueID"] = "3235275861",
+								["Size"] = 0.1,
+								["EditorExpand"] = true,
+								["Bone"] = "right forearm",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+								["UniqueID"] = "824422170",
+								["Size"] = 0,
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["AngleOffset"] = Angle(-90, 0, 0),
+						["UniqueID"] = "1439215544",
+						["Size"] = 0.05,
+						["Position"] = Vector(0.84765625, 0.003173828125, 0.6851806640625),
+						["Bone"] = "right forearm",
+						["Model"] = "models/hunter/tubes/tube4x4x1to2x2.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[12] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/shadertest/envball_1",
+								["Position"] = Vector(-0.0078125, 0.00341796875, 2.822265625),
+								["ClassName"] = "model",
+								["Size"] = 0.06,
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["UniqueID"] = "298030264",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["AngleOffset"] = Angle(-90, 0, 0),
+						["UniqueID"] = "532826520",
+						["Size"] = 0.06,
+						["Position"] = Vector(-9.634765625, 0.0546875, -1.51171875),
+						["Bone"] = "pelvis",
+						["Model"] = "models/hunter/tubes/tube4x4x2to2x2.mdl",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2615969237",
+						["Scale"] = Vector(1.2999999523163, 0.69999998807907, 0.60000002384186),
+						["Position"] = Vector(4.1259765625, 6.220703125, -0.062255859375),
+						["AngleOffset"] = Angle(90, 0, 90),
+						["Size"] = 0.25,
+						["Angles"] = Angle(2.3905662601464e-05, 19.933145523071, -1.7075473806472e-05),
+						["ClassName"] = "model",
+						["Bone"] = "left foot",
+						["Model"] = "models/hunter/misc/roundthing2.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2045790514",
+						["Bone"] = "right thigh",
+						["Position"] = Vector(-2.5, 0, -0.4677734375),
+						["ClassName"] = "bone",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4194605303",
+						["Position"] = Vector(2.7353515625, -0.000244140625, -0.00146484375),
+						["AngleOffset"] = Angle(-90, 0, 0),
+						["Size"] = 0.075,
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["ClassName"] = "model",
+						["Bone"] = "left calf",
+						["Model"] = "models/hunter/tubes/tube4x4x2to2x2.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[16] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 10,
+												["ClassName"] = "proxy",
+												["Additive"] = true,
+												["UniqueID"] = "521651773",
+												["Axis"] = "z",
+												["Min"] = 25,
+												["Function"] = "cos",
+												["VariableName"] = "AngleOffset",
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Event"] = "is_in_noclip",
+												["ClassName"] = "event",
+												["Invert"] = true,
+												["UniqueID"] = "3592120240",
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(-82.477653503418, -179.99949645996, 179.99946594238),
+										["UniqueID"] = "3767834753",
+										["ClassName"] = "model",
+										["EditorExpand"] = true,
+										["Position"] = Vector(-0.034423828125, -0.00439453125, 8.47802734375),
+										["Model"] = "models/effects/muzzleflash/minigunmuzzle.mdl",
+										["AngleOffset"] = Angle(0.57170337438583, 0, 11.193753242493),
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/shadertest/envball_2",
+								["UniqueID"] = "2368966242",
+								["ClassName"] = "model",
+								["Size"] = 0.5,
+								["Position"] = Vector(0.09423828125, -0.0068359375, 4.125732421875),
+								["Model"] = "models/maxofs2d/thruster_projector.mdl",
+								["Angles"] = Angle(59.550662994385, -0.52203643321991, -0.080000415444374),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Material"] = "models/props_combine/metal_combinebridge001",
+								["UniqueID"] = "1539866077",
+								["Size"] = 0.225,
+								["Angles"] = Angle(-87.555366516113, -0.0020016287453473, 0.0021037408150733),
+								["Position"] = Vector(4.2460632324219, -0.0244140625, 3.3048095703125),
+								["Model"] = "models/hunter/plates/plate1x1.mdl",
+								["Scale"] = Vector(0.60000002384186, 0.69999998807907, 1),
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(23.150085449219, 5.01412396261e-05, -2.2284995793598e-05),
+								["ClassName"] = "clip",
+								["UniqueID"] = "4043983844",
+								["Position"] = Vector(-2.646484375, -0.01220703125, 2.12890625),
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Angles"] = Angle(-0.096828229725361, -117.69261932373, 89.834983825684),
+						["UniqueID"] = "2014490914",
+						["Size"] = 0.1,
+						["Position"] = Vector(3.49609375, -6.568359375, -0.015625),
+						["Bone"] = "spine 4",
+						["Model"] = "models/hunter/misc/lift2x2.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[17] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["AngleOffset"] = Angle(90, 0, 0),
+						["UniqueID"] = "1452949884",
+						["Size"] = 0.15,
+						["Position"] = Vector(20.4658203125, -0.004638671875, -0.001953125),
+						["Bone"] = "left calf",
+						["Model"] = "models/hunter/tubes/tube2x2x4.mdl",
+						["Material"] = "models/props_pipes/GutterMetal01a",
+					},
+				},
+				[18] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2864934027",
+						["Position"] = Vector(2.7353515625, -0.000244140625, -0.00146484375),
+						["AngleOffset"] = Angle(-90, 0, 0),
+						["Size"] = 0.075,
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["ClassName"] = "model",
+						["Bone"] = "right calf",
+						["Model"] = "models/hunter/tubes/tube4x4x2to2x2.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[19] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/shadertest/envball_1",
+								["Position"] = Vector(-0.0078125, 0.00341796875, 2.822265625),
+								["ClassName"] = "model",
+								["Size"] = 0.06,
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["UniqueID"] = "178079818",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["AngleOffset"] = Angle(90, 0, 0),
+						["UniqueID"] = "1986940723",
+						["Size"] = 0.06,
+						["Position"] = Vector(9.276123046875, 0.1796875, -1.4296875),
+						["Bone"] = "pelvis",
+						["Model"] = "models/hunter/tubes/tube4x4x2to2x2.mdl",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[20] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.00048828125, 0.000244140625, 0.578125),
+						["Material"] = "models/shadertest/envball_1",
+						["UniqueID"] = "4190022343",
+						["Size"] = 0.9,
+						["EditorExpand"] = true,
+						["Bone"] = "right upperarm",
+						["Model"] = "models/hunter/misc/sphere025x025.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[21] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4236785733",
+						["Bone"] = "left hand",
+						["Position"] = Vector(4.931640625, 0.004150390625, -0.0185546875),
+						["ClassName"] = "bone",
+					},
+				},
+				[22] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4180864508",
+						["Scale"] = Vector(1, 1, 3.9000000953674),
+						["AngleOffset"] = Angle(90, 0, 0),
+						["Size"] = 0.125,
+						["Position"] = Vector(1.1376953125, 0.39501953125, 0.658203125),
+						["ClassName"] = "model",
+						["Bone"] = "right thigh",
+						["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+						["Material"] = "models/props_combine/metal_combinebridge001",
+					},
+				},
+				[23] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4046456901",
+						["Bone"] = "right hand",
+						["Position"] = Vector(5.0390625, 0.00115966796875, 0.00537109375),
+						["ClassName"] = "bone",
+					},
+				},
+				[24] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Material"] = "models/shadertest/envball_1",
+						["UniqueID"] = "1664960759",
+						["Bone"] = "right calf",
+						["Model"] = "models/hunter/misc/sphere025x025.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[25] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "event",
+										["UniqueID"] = "3035142134",
+										["Event"] = "is_flashlight_on",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "1244276459",
+								["Expression"] = "clamp(timeex()*100,4,0)",
+								["Axis"] = "z",
+								["EditorExpand"] = true,
+								["Min"] = 1,
+								["VariableName"] = "PositionOffset",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Material"] = "models/shadertest/envball_1",
+										["UniqueID"] = "3689887533",
+										["ClassName"] = "model",
+										["Size"] = 0.1,
+										["Position"] = Vector(-2.87109375, 0.006103515625, -0.03076171875),
+										["Model"] = "models/hunter/blocks/cube025x025x025.mdl",
+										["Angles"] = Angle(4.6103778004181e-05, -94.944183349609, -0.00022230131435208),
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "event",
+												["UniqueID"] = "4131717080",
+												["Event"] = "is_flashlight_on",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "proxy",
+										["UniqueID"] = "4197023003",
+										["Axis"] = "x",
+										["Expression"] = "clamp(timeex()*100,4,0)",
+										["EditorExpand"] = true,
+										["VariableName"] = "PositionOffset",
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Event"] = "is_flashlight_on",
+												["ClassName"] = "event",
+												["Invert"] = true,
+												["UniqueID"] = "1416287095",
+											},
+										},
+									},
+									["self"] = {
+										["ClassName"] = "proxy",
+										["UniqueID"] = "4246373223",
+										["Axis"] = "x",
+										["Expression"] = "clamp(timeex()*10,0,4)",
+										["EditorExpand"] = true,
+										["VariableName"] = "PositionOffset",
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "1850412558",
+								["Position"] = Vector(0.00439453125, -0.00634765625, 15.52294921875),
+								["Size"] = 0.2,
+								["Model"] = "models/Combine_Helicopter/helicopter_bomb01.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Event"] = "is_flashlight_on",
+										["ClassName"] = "event",
+										["Invert"] = true,
+										["UniqueID"] = "3564596072",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "1694647914",
+								["Expression"] = "clamp(timeex()*10,0,4)",
+								["Axis"] = "z",
+								["EditorExpand"] = true,
+								["Min"] = 1,
+								["VariableName"] = "PositionOffset",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "827546196",
+								["Position"] = Vector(3.504150390625, 0.06982421875, 18.27734375),
+								["ClassName"] = "model",
+								["Size"] = 0.09,
+								["PositionOffset"] = Vector(-1, 0, 0),
+								["Material"] = "models/shadertest/envball_2",
+								["Bone"] = "right forearm",
+								["Model"] = "models/hunter/tubes/tube2x2x025c.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Material"] = "models/shadertest/envball_1",
+								["UniqueID"] = "4016950068",
+								["Size"] = 0.25,
+								["Angles"] = Angle(3.6712262954097e-05, -92.88883972168, 3.5004723031307e-05),
+								["Position"] = Vector(-0.9326171875, 0.1773681640625, 0.5830078125),
+								["Model"] = "models/hunter/plates/plate025x05.mdl",
+								["Scale"] = Vector(1, 1.1000000238419, 0.80000001192093),
+							},
+						},
+						[6] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Event"] = "is_flashlight_on",
+												["ClassName"] = "event",
+												["Invert"] = true,
+												["UniqueID"] = "964292110",
+											},
+										},
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["EndPointUID"] = "3689887533",
+										["UniqueID"] = "894195031",
+										["Bend"] = 0,
+										["ClassName"] = "beam",
+										["Material"] = "cable/cable_lit",
+									},
+								},
+							},
+							["self"] = {
+								["Material"] = "models/shadertest/envball_1",
+								["Position"] = Vector(-3.67724609375, 0.0126953125, 15.590698242188),
+								["ClassName"] = "model",
+								["Size"] = 0.1,
+								["EditorExpand"] = true,
+								["Model"] = "models/hunter/blocks/cube025x025x025.mdl",
+								["UniqueID"] = "3773834028",
+							},
+						},
+						[7] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(-0.0439453125, 0.0081787109375, 18.736328125),
+								["Material"] = "models/props_combine/metal_combinebridge001",
+								["UniqueID"] = "689099365",
+								["Size"] = 0.1,
+								["EditorExpand"] = true,
+								["Bone"] = "right forearm",
+								["Model"] = "models/hunter/tubes/circle2x2c.mdl",
+								["ClassName"] = "model",
+							},
+						},
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["AngleOffset"] = Angle(90, 0, 0),
+						["UniqueID"] = "1855510785",
+						["Size"] = 0.2,
+						["Position"] = Vector(3.0615234375, -0.00067138671875, 0.736328125),
+						["Bone"] = "right forearm",
+						["Model"] = "models/hunter/tubes/tube1x1x2c.mdl",
+						["Material"] = "models/shadertest/envball_2",
+					},
+				},
+				[26] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Arguments"] = "b",
+										["Invert"] = true,
+										["Event"] = "button",
+										["UniqueID"] = "3176679440",
+										["EditorExpand"] = true,
+										["ClassName"] = "event",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3118118323",
+								["Position"] = Vector(8.85009765625, -0.002197265625, 2.6908569335938),
+								["Scale"] = Vector(0.80000001192093, 1, 1),
+								["EditorExpand"] = true,
+								["AngleOffset"] = Angle(90, 0, 0),
+								["Size"] = 0.325,
+								["PositionOffset"] = Vector(-0.050000000745058, 0, 0.10000000149012),
+								["ClassName"] = "model",
+								["Material"] = "https://raw.githubusercontent.com/DieselPoweredSpud/pac3-that-hopefully-works/master/yes.PNG",
+								["Model"] = "models/hunter/plates/plate1x1.mdl",
+								["Angles"] = Angle(-4.5116577148438, -4.2821370698221e-06, -1.2311144018895e-05),
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Arguments"] = "n",
+										["Invert"] = true,
+										["Event"] = "button",
+										["UniqueID"] = "2967499958",
+										["EditorExpand"] = true,
+										["ClassName"] = "event",
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "3232565491",
+								["Position"] = Vector(8.85009765625, -0.002197265625, 2.6908569335938),
+								["Scale"] = Vector(0.80000001192093, 1, 1),
+								["EditorExpand"] = true,
+								["AngleOffset"] = Angle(90, 0, 0),
+								["Size"] = 0.325,
+								["PositionOffset"] = Vector(-0.050000000745058, 0, 0.10000000149012),
+								["ClassName"] = "model",
+								["Material"] = "https://raw.githubusercontent.com/DieselPoweredSpud/pac3-that-hopefully-works/master/no.png",
+								["Model"] = "models/hunter/plates/plate1x1.mdl",
+								["Angles"] = Angle(-4.5116577148438, -4.2821370698221e-06, -1.2311144018895e-05),
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Arguments"] = "n",
+										["UniqueID"] = "5062683",
+										["Event"] = "button",
+										["ClassName"] = "event",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Arguments"] = "b",
+										["UniqueID"] = "491974039",
+										["Event"] = "button",
+										["ClassName"] = "event",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["UniqueID"] = "2134528675",
+								["Position"] = Vector(8.85009765625, -0.002197265625, 2.6908569335938),
+								["Scale"] = Vector(0.80000001192093, 1, 1),
+								["EditorExpand"] = true,
+								["AngleOffset"] = Angle(90, 0, 0),
+								["Size"] = 0.325,
+								["PositionOffset"] = Vector(-0.050000000745058, 0, 0.10000000149012),
+								["ClassName"] = "model",
+								["Material"] = "models/shadertest/envball_2",
+								["Model"] = "models/hunter/plates/plate1x1.mdl",
+								["Angles"] = Angle(-4.5116577148438, -4.2821370698221e-06, -1.2311144018895e-05),
+							},
+						},
+						[4] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(8.1150512695313, -8.2109375, -0.015380859375),
+										["ClassName"] = "text",
+										["AngleOffset"] = Angle(90, -90, 0),
+										["Size"] = 0.25,
+										["UniqueID"] = "2662482544",
+										["Color"] = Vector(255, 0, 0),
+										["OutlineColor"] = Vector(255, 0, 0),
+										["Angles"] = Angle(-4.535672530892e-07, 3.4039173126221, -1.7075473124351e-06),
+										["Text"] = "ENGAGED",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(4.6143798828125, -8.3984375, -0.015625),
+										["ClassName"] = "text",
+										["AngleOffset"] = Angle(90, -90, 0),
+										["Size"] = 0.45,
+										["UniqueID"] = "1607212814",
+										["Color"] = Vector(255, 0, 0),
+										["OutlineColor"] = Vector(255, 0, 0),
+										["Angles"] = Angle(2.0010320440633e-06, 3.4869024753571, 9.8183969384991e-05),
+										["Text"] = "!",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Position"] = Vector(10.177032470703, -8.059814453125, -0.01025390625),
+										["ClassName"] = "text",
+										["AngleOffset"] = Angle(90, -90, 0),
+										["Size"] = 0.1,
+										["UniqueID"] = "1669789077",
+										["Color"] = Vector(255, 0, 0),
+										["OutlineColor"] = Vector(255, 0, 0),
+										["Angles"] = Angle(2.0010320440633e-06, 3.4869024753571, 9.8183969384991e-05),
+										["Text"] = "ATTACK MODE",
+									},
+								},
+							},
+							["self"] = {
+								["AffectChildrenOnly"] = true,
+								["ClassName"] = "event",
+								["Invert"] = true,
+								["Event"] = "is_flashlight_on",
+								["UniqueID"] = "701089269",
+								["EditorExpand"] = true,
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-87.812423706055, 0.00062627508305013, -0.00017893573385663),
+								["UniqueID"] = "3390560527",
+								["EditorExpand"] = true,
+								["Position"] = Vector(1.850341796875, -0.001953125, -7.8275756835938),
+								["ClassName"] = "clip",
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(0.014715642668307, -1.8856835365295, -89.55297088623),
+						["Material"] = "models/shadertest/envball_1",
+						["UniqueID"] = "1591932026",
+						["Size"] = 0.75,
+						["Position"] = Vector(3.8735961914063, 1.1929931640625, 0.017578125),
+						["ClassName"] = "model",
+						["Model"] = "models/props_lab/monitor01a.mdl",
+						["AngleOffset"] = Angle(90, 0, 0),
+					},
+				},
+				[27] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Material"] = "models/shadertest/envball_2",
+						["UniqueID"] = "3297888675",
+						["Position"] = Vector(1.657958984375, -4.4658203125, -0.31640625),
+						["Size"] = 1.525,
+						["Bone"] = "right foot",
+						["Model"] = "models/hunter/misc/sphere025x025.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[28] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(3.4150947612943e-05, -53.597278594971, 3.4150946248701e-06),
+						["UniqueID"] = "242466486",
+						["Bone"] = "right foot",
+						["ClassName"] = "bone",
+						["EditorExpand"] = true,
+					},
+				},
+				[29] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.00048828125, 0.000244140625, 0.578125),
+						["Material"] = "models/shadertest/envball_1",
+						["UniqueID"] = "3078767113",
+						["Size"] = 0.9,
+						["EditorExpand"] = true,
+						["Bone"] = "left upperarm",
+						["Model"] = "models/hunter/misc/sphere025x025.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[30] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Material"] = "models/shadertest/envball_1",
+						["UniqueID"] = "211221754",
+						["EditorExpand"] = true,
+						["Bone"] = "left calf",
+						["Model"] = "models/hunter/misc/sphere025x025.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[31] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3595668323",
+						["Scale"] = Vector(1, 1, 3.9000000953674),
+						["Material"] = "models/props_combine/metal_combinebridge001",
+						["EditorExpand"] = true,
+						["Size"] = 0.125,
+						["ClassName"] = "model",
+						["Position"] = Vector(1.1865234375, 0.481689453125, 0.3857421875),
+						["Bone"] = "left thigh",
+						["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+						["AngleOffset"] = Angle(90, 0, 0),
+					},
+				},
+				[32] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.00048828125, 0.000244140625, 0.578125),
+						["Material"] = "models/shadertest/envball_1",
+						["UniqueID"] = "1919663148",
+						["Size"] = 0.55,
+						["EditorExpand"] = true,
+						["Bone"] = "left forearm",
+						["Model"] = "models/hunter/misc/sphere025x025.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[33] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1840401895",
+						["Scale"] = Vector(1.2999999523163, 0.69999998807907, 0.60000002384186),
+						["Position"] = Vector(4.1259765625, 6.220703125, -0.062255859375),
+						["AngleOffset"] = Angle(90, 0, 90),
+						["Size"] = 0.25,
+						["Angles"] = Angle(2.3905662601464e-05, 19.933145523071, -1.7075473806472e-05),
+						["ClassName"] = "model",
+						["Bone"] = "right foot",
+						["Model"] = "models/hunter/misc/roundthing2.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[34] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "831367551",
+						["Scale"] = Vector(1, 1, 3.7000000476837),
+						["Material"] = "models/props_combine/metal_combinebridge001",
+						["EditorExpand"] = true,
+						["Size"] = 0.075,
+						["ClassName"] = "model",
+						["Position"] = Vector(1.13818359375, -0.0028076171875, 0.6533203125),
+						["Bone"] = "right upperarm",
+						["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+						["AngleOffset"] = Angle(90, 0, 0),
+					},
+				},
+				[35] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1391385766",
+						["Position"] = Vector(21.9951171875, -0.00146484375, 0.611328125),
+						["AngleOffset"] = Angle(90, 0, 0),
+						["Size"] = 0.1,
+						["Material"] = "models/props_combine/metal_combinebridge001",
+						["ClassName"] = "model",
+						["Bone"] = "left forearm",
+						["Model"] = "models/hunter/tubes/circle2x2.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[36] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(-0.0439453125, 0.0081787109375, 18.736328125),
+								["Material"] = "models/props_combine/metal_combinebridge001",
+								["UniqueID"] = "2444359166",
+								["Size"] = 0.1,
+								["EditorExpand"] = true,
+								["Bone"] = "right forearm",
+								["Model"] = "models/hunter/tubes/circle2x2c.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3900440100",
+								["Scale"] = Vector(1, 1.1000000238419, 0.80000001192093),
+								["Material"] = "models/shadertest/envball_1",
+								["Size"] = 0.25,
+								["Angles"] = Angle(-5.9764156503661e-06, -92.137031555176, 1.627506208024e-05),
+								["ClassName"] = "model",
+								["Position"] = Vector(-0.947265625, -0.08087158203125, 0.576416015625),
+								["Model"] = "models/hunter/plates/plate025x05.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Event"] = "is_flashlight_on",
+										["ClassName"] = "event",
+										["Invert"] = true,
+										["UniqueID"] = "3797477369",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "2670804914",
+								["Expression"] = "clamp(timeex()*10,0,4)",
+								["Axis"] = "z",
+								["EditorExpand"] = true,
+								["Min"] = 1,
+								["VariableName"] = "PositionOffset",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "825477518",
+								["Position"] = Vector(0.96240234375, -0.0087890625, 18.34130859375),
+								["ClassName"] = "model",
+								["Size"] = 0.09,
+								["PositionOffset"] = Vector(1.5, 0, 0),
+								["Material"] = "models/shadertest/envball_2",
+								["Bone"] = "right forearm",
+								["Model"] = "models/hunter/tubes/tube2x2x025c.mdl",
+								["EditorExpand"] = true,
+							},
+						},
+						[5] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "event",
+										["UniqueID"] = "3344715053",
+										["Event"] = "is_flashlight_on",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "proxy",
+								["UniqueID"] = "778305934",
+								["Expression"] = "clamp(timeex()*100,4,0)",
+								["Axis"] = "z",
+								["EditorExpand"] = true,
+								["Min"] = 1,
+								["VariableName"] = "PositionOffset",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "8106427",
+						["ClassName"] = "model",
+						["Material"] = "models/dog/eyeglass",
+						["Size"] = 0.2,
+						["AngleOffset"] = Angle(90, 0, 0),
+						["Angles"] = Angle(1.0992335774063e-05, -4.2688684516179e-06, -179.66189575195),
+						["Bone"] = "right forearm",
+						["Model"] = "models/hunter/tubes/tube1x1x2c.mdl",
+						["Position"] = Vector(3.0615234375, -0.00067138671875, 0.736328125),
+					},
+				},
+				[37] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.00048828125, 0.000244140625, 0.578125),
+						["Material"] = "models/shadertest/envball_1",
+						["UniqueID"] = "3886891591",
+						["Size"] = 0.55,
+						["EditorExpand"] = true,
+						["Bone"] = "right forearm",
+						["Model"] = "models/hunter/misc/sphere025x025.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[38] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1441798825",
+						["Bone"] = "left upperarm",
+						["Position"] = Vector(1.48291015625, -0.1259765625, 0.0020751953125),
+						["ClassName"] = "bone",
+					},
+				},
+				[39] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["Bone"] = "pelvis",
+						["UniqueID"] = "323768550",
+						["PositionOffset"] = Vector(0, 0, 11.60000038147),
+					},
+				},
+				[40] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["UniqueID"] = "3989954905",
+								["Color"] = Vector(72, 72, 72),
+								["Size"] = 0.125,
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Material"] = "models/props_pipes/GutterMetal01a",
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["UniqueID"] = "974379209",
+								["Position"] = Vector(0.00054931640625, 0, 12.972778320313),
+								["Color"] = Vector(68, 65, 65),
+								["Size"] = 0.125,
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Material"] = "models/props_pipes/GutterMetal01a",
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "4101518190",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["AngleOffset"] = Angle(90, 0, 0),
+						["Size"] = 0.25,
+						["Position"] = Vector(-6.5899658203125, 0.103515625, -1.4896545410156),
+						["ClassName"] = "model",
+						["Bone"] = "pelvis",
+						["Model"] = "models/hunter/tubes/tube1x1x1.mdl",
+						["Material"] = "models/shadertest/envball_2",
+					},
+				},
+				[41] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["AngleOffset"] = Angle(90, 0, 0),
+						["UniqueID"] = "1857701151",
+						["Size"] = 0.15,
+						["Position"] = Vector(20.4658203125, -0.004638671875, -0.001953125),
+						["Bone"] = "right calf",
+						["Model"] = "models/hunter/tubes/tube2x2x4.mdl",
+						["Material"] = "models/props_pipes/GutterMetal01a",
+					},
+				},
+				[42] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1207287025",
+						["Bone"] = "left thigh",
+						["Position"] = Vector(2.2236328125, -0.00390625, -0.4013671875),
+						["ClassName"] = "bone",
+					},
+				},
+				[43] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "458976560",
+						["Bone"] = "left foot",
+						["Position"] = Vector(13.0712890625, 0.003173828125, -0.0009765625),
+						["ClassName"] = "bone",
+					},
+				},
+				[44] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2649259355",
+						["Position"] = Vector(5.9052734375, 3.17822265625, 0.0009765625),
+						["Scale"] = Vector(1, 1, 5.3000001907349),
+						["EditorExpand"] = true,
+						["AngleOffset"] = Angle(90, 0, 0),
+						["Size"] = 0.125,
+						["Angles"] = Angle(-6.6167458498967e-06, 3.5685412883759, -4.8238212912111e-05),
+						["ClassName"] = "model",
+						["Bone"] = "spine 4",
+						["Model"] = "models/hunter/tubes/circle2x2.mdl",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[45] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(3.4150947612943e-05, -53.597278594971, 3.4150946248701e-06),
+						["Bone"] = "left foot",
+						["UniqueID"] = "652543401",
+						["ClassName"] = "bone",
+					},
+				},
+				[46] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["Position"] = Vector(13.0712890625, 0.003173828125, -0.0009765625),
+						["Bone"] = "right foot",
+						["UniqueID"] = "3940056401",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["Name"] = "entire body",
+				["ClassName"] = "group",
+				["UniqueID"] = "4265539965",
+				["EditorExpand"] = true,
+			},
+		},
+		[5] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["UniqueID"] = "2881781370",
+				["Size"] = 1.4,
+				["Material"] = "backpack/flaregun_small",
+				["FallApartOnDeath"] = true,
+			},
+		},
+		[6] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.2451171875, 0.244873046875, 0.17425537109375),
+						["Name"] = "14",
+						["Scale"] = Vector(1, 1, 0.69999998807907),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Angles"] = Angle(-0.37095358967781, -93.415222167969, -5.0844502449036),
+						["Size"] = 0.025,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "left finger 1",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "103859777",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "4185802652",
+						["Size"] = 0.075,
+						["Position"] = Vector(0.111328125, -0.052734375, -0.055908203125),
+						["Bone"] = "left finger 41",
+						["Name"] = "7",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "116408975",
+						["Name"] = "2",
+						["Scale"] = Vector(0.30000001192093, 1, 1),
+						["Position"] = Vector(-1.2138671875, -0.4384765625, -0.065673828125),
+						["ClassName"] = "model",
+						["Size"] = 0.325,
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-2.9882078251831e-06, -4.5079407691956, 3.5858494811691e-05),
+						["Bone"] = "left hand",
+						["Model"] = "models/pac/default.mdl",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "1389492630",
+						["Name"] = "12",
+						["Scale"] = Vector(1, 0.60000002384186, 0.69999998807907),
+						["ClassName"] = "model",
+						["Size"] = 0.05,
+						["Position"] = Vector(1.1832885742188, 0.4755859375, -0.35546875),
+						["Angles"] = Angle(36.129341125488, -94.195281982422, -20.043924331665),
+						["Bone"] = "left finger 0",
+						["Model"] = "models/hunter/misc/roundthing2.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3342293327",
+						["Name"] = "10",
+						["ClassName"] = "model",
+						["Size"] = 0.105,
+						["Position"] = Vector(0.095703125, -0.1805419921875, 0.2451171875),
+						["Material"] = "models/shadertest/envball_1",
+						["Bone"] = "left finger 3",
+						["Model"] = "models/pac/default.mdl",
+						["EditorExpand"] = true,
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.2861328125, -0.1153564453125, 0.28515625),
+						["Name"] = "17",
+						["Scale"] = Vector(1, 1, 0.69999998807907),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Angles"] = Angle(-0.00012294341286179, -89.25463104248, -11.221036911011),
+						["Size"] = 0.025,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "left finger 3",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "3400049501",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "bone",
+						["Bone"] = "left finger 32",
+						["UniqueID"] = "1262756741",
+						["HideMesh"] = true,
+					},
+				},
+				[8] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(-0.001708984375, 0.003173828125, 2.8388671875),
+								["Size"] = 0.0145,
+								["EditorExpand"] = true,
+								["UniqueID"] = "3641129565",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(1, 1, 39),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(-1.3974609375, 0.60462951660156, -0.013427734375),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "20",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.31807887554169, -103.1431350708, -0.48913162946701),
+						["Size"] = 0.03,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "left finger 02",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "4229042759",
+					},
+				},
+				[9] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(-0.001953125, 0.0013427734375, 2.455078125),
+								["ClassName"] = "model",
+								["Size"] = 0.0113,
+								["UniqueID"] = "868577031",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(1, 1, 39),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0.064453125, 0.0748291015625, -0.04248046875),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "19",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.31807887554169, -103.1431350708, -0.48913162946701),
+						["Size"] = 0.023,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "left finger 21",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "1005327546",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.0771484375, -0.119384765625, 0.3310546875),
+						["Name"] = "16",
+						["Scale"] = Vector(1, 1, 0.69999998807907),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Angles"] = Angle(-0.00011440568050602, -89.25463104248, -12.51238822937),
+						["Size"] = 0.025,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "left finger 4",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "2477250834",
+					},
+				},
+				[11] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(0.00146484375, -0.002685546875, 2.173828125),
+								["ClassName"] = "model",
+								["Size"] = 0.01,
+								["UniqueID"] = "1281026464",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(1, 1, 13.39999961853),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0.20703125, 0.053466796875, -0.041015625),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "18",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.2640782892704, -97.01016998291, -0.5202511548996),
+						["Size"] = 0.023,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "left finger 31",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "3881197415",
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4011521084",
+						["Name"] = "6",
+						["Material"] = "models/shadertest/envball_1",
+						["Size"] = 0.11,
+						["Angles"] = Angle(-1.1099057701358e-05, 20.316753387451, -6.8301892497402e-06),
+						["ClassName"] = "model",
+						["Bone"] = "left finger 2",
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(0.1494140625, -0.037353515625, 0.241943359375),
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4081665316",
+						["Name"] = "11",
+						["Scale"] = Vector(1.2999999523163, 0.44999998807907, 0.60000002384186),
+						["Position"] = Vector(2.353515625, 1.40087890625, -0.15316772460938),
+						["ClassName"] = "model",
+						["Size"] = 0.1,
+						["EditorExpand"] = true,
+						["AngleOffset"] = Angle(0, 0, 90),
+						["Bone"] = "left hand",
+						["Model"] = "models/hunter/misc/roundthing2.mdl",
+						["Material"] = "models/props_combine/metal_combinebridge001",
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "2746290421",
+						["Name"] = "13",
+						["Scale"] = Vector(1, 0.60000002384186, 0.69999998807907),
+						["ClassName"] = "model",
+						["Size"] = 0.05,
+						["Position"] = Vector(1.1865234375, -0.65478515625, 1.5477294921875),
+						["Angles"] = Angle(83.69522857666, 57.160884857178, 138.31437683105),
+						["Bone"] = "left hand",
+						["Model"] = "models/hunter/misc/roundthing2.mdl",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "4134161541",
+						["Name"] = "4",
+						["Material"] = "models/shadertest/envball_1",
+						["Size"] = 0.12,
+						["Angles"] = Angle(-1.1099057701358e-05, 20.316753387451, -6.8301892497402e-06),
+						["ClassName"] = "model",
+						["Bone"] = "left finger 1",
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(0.1337890625, -0.036865234375, 0.125244140625),
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "734746755",
+						["Name"] = "8",
+						["Position"] = Vector(-0.2509765625, 0.0745849609375, -0.02923583984375),
+						["EditorExpand"] = true,
+						["Size"] = 0.085,
+						["ClassName"] = "model",
+						["Angles"] = Angle(3.447111157584e-05, 13.486874580383, 0.00024289860448334),
+						["Bone"] = "left finger 21",
+						["Model"] = "models/pac/default.mdl",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[17] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "3462021510",
+						["Name"] = "5",
+						["Material"] = "models/shadertest/envball_1",
+						["Size"] = 0.085,
+						["Angles"] = Angle(-1.3980545190861e-05, 23.692808151245, 0.00022198115766514),
+						["ClassName"] = "model",
+						["Bone"] = "left finger 31",
+						["Model"] = "models/pac/default.mdl",
+						["Position"] = Vector(0.0341796875, -0.0765380859375, -0.02490234375),
+					},
+				},
+				[18] = {
+					["children"] = {
+					},
+					["self"] = {
+						["UniqueID"] = "348256697",
+						["Name"] = "3",
+						["Position"] = Vector(-0.2509765625, 0.0745849609375, -0.02923583984375),
+						["EditorExpand"] = true,
+						["Size"] = 0.085,
+						["ClassName"] = "model",
+						["Angles"] = Angle(3.447111157584e-05, 13.486874580383, 0.00024289860448334),
+						["Bone"] = "left finger 11",
+						["Model"] = "models/pac/default.mdl",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[19] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "2614764682",
+						["Size"] = 0.1,
+						["Position"] = Vector(0.095703125, -0.1805419921875, 0.2451171875),
+						["Bone"] = "left finger 4",
+						["Name"] = "9",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[20] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(0.001953125, 6.103515625e-05, 2.2109375),
+								["ClassName"] = "model",
+								["Size"] = 0.0113,
+								["UniqueID"] = "3840449432",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(1, 1, 39),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0.064453125, 0.0748291015625, -0.04248046875),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "22",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.31807887554169, -103.1431350708, -0.48913162946701),
+						["Size"] = 0.023,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "left finger 11",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "2793764313",
+					},
+				},
+				[21] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Position"] = Vector(0.2734375, 0.121826171875, 0.17437744140625),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "15",
+						["Scale"] = Vector(1, 1, 0.69999998807907),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.00011995521344943, -89.25463104248, -5.0979290008545),
+						["Size"] = 0.025,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "left finger 2",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "1186878340",
+					},
+				},
+				[22] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/pac/default.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "3163296458",
+						["Size"] = 0.15,
+						["EditorExpand"] = true,
+						["Bone"] = "left finger 01",
+						["Name"] = "1",
+						["Material"] = "models/shadertest/envball_1",
+					},
+				},
+				[23] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Material"] = "models/gibs/metalgibs/metal_gibs",
+								["Position"] = Vector(0.00146484375, -0.002685546875, 2.173828125),
+								["ClassName"] = "model",
+								["Size"] = 0.01,
+								["UniqueID"] = "3832011077",
+								["Model"] = "models/hunter/tubes/circle2x2.mdl",
+								["Scale"] = Vector(1, 1, 13.39999961853),
+							},
+						},
+					},
+					["self"] = {
+						["Position"] = Vector(0.046875, -0.10107421875, -0.07763671875),
+						["AngleOffset"] = Angle(0, 0, -90),
+						["Name"] = "21",
+						["Scale"] = Vector(1, 1, 1.1000000238419),
+						["EditorExpand"] = true,
+						["Angles"] = Angle(-0.00011269813694526, -89.25463104248, -2.6784019470215),
+						["Size"] = 0.02,
+						["ClassName"] = "model",
+						["Material"] = "models/gibs/metalgibs/metal_gibs",
+						["Bone"] = "left finger 41",
+						["Model"] = "models/hunter/tubes/tube1x1x2.mdl",
+						["UniqueID"] = "859932610",
+					},
+				},
+			},
+			["self"] = {
+				["ClassName"] = "group",
+				["UniqueID"] = "2311996535",
+				["Name"] = "left hand",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "3190161775",
+		["ClassName"] = "group",
+		["Name"] = "my outfit",
+		["Description"] = "add parts to me!",
+	},
+},
+[4] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["SequenceName"] = "idle_all_02",
+						["ClassName"] = "animation",
+						["UniqueID"] = "4052281034",
+						["Rate"] = 0,
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "2884097935",
+										["EditorExpand"] = true,
+										["Color"] = Vector(820, 0, 191),
+										["Size"] = 0.125,
+										["Model"] = "models/effects/vol_light128x512.mdl",
+										["Angles"] = Angle(-86.402244567871, 0.0022585364058614, -0.0034558326005936),
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(-0.267578125, -7.7158203125, 4.885498046875),
+								["Angles"] = Angle(-28.913185119629, 4.6816679969197e-05, -9.7534750238992e-05),
+								["UniqueID"] = "1263795853",
+								["Size"] = 0.425,
+								["EditorExpand"] = true,
+								["Bone"] = "spine 4",
+								["Model"] = "models/props_wasteland/light_spotlight01_lamp.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "model",
+										["UniqueID"] = "2355667210",
+										["EditorExpand"] = true,
+										["Color"] = Vector(33, 255, 0),
+										["Size"] = 0.125,
+										["Model"] = "models/effects/vol_light128x512.mdl",
+										["Angles"] = Angle(-86.402244567871, 0.0022585364058614, -0.0034558326005936),
+									},
+								},
+							},
+							["self"] = {
+								["Position"] = Vector(-0.8193359375, -7.711181640625, -8.83544921875),
+								["Angles"] = Angle(18.592538833618, -0.0001143997797044, -0.00018736344645731),
+								["UniqueID"] = "2155709065",
+								["Size"] = 0.425,
+								["EditorExpand"] = true,
+								["Bone"] = "spine 4",
+								["Model"] = "models/props_wasteland/light_spotlight01_lamp.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "588306601",
+								["AngleOffset"] = Angle(90, -90, 0),
+								["Position"] = Vector(5.5419921875, -8.234130859375, -0.133056640625),
+								["ClassName"] = "text",
+								["Size"] = 0.275,
+								["PositionOffset"] = Vector(0, -0.10000000149012, 0),
+								["Color"] = Vector(0, 255, 255),
+								["OutlineColor"] = Vector(0, 255, 255),
+								["Angles"] = Angle(0.0028919449541718, 2.4510095119476, 0.27419897913933),
+								["Text"] = "ENGAGED",
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Position"] = Vector(8.1181640625, -8.197509765625, -0.060791015625),
+								["ClassName"] = "text",
+								["AngleOffset"] = Angle(90, -90, 0),
+								["Size"] = 0.15,
+								["UniqueID"] = "3005623468",
+								["Color"] = Vector(220, 0, 255),
+								["OutlineColor"] = Vector(220, 0, 255),
+								["Angles"] = Angle(0.010715713724494, 0.81685984134674, 0.27399408817291),
+								["Text"] = "RAVE MODE",
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "49761155",
+								["AngleOffset"] = Angle(90, -90, 0),
+								["Position"] = Vector(3.173828125, -8.478271484375, -0.137939453125),
+								["ClassName"] = "text",
+								["Size"] = 0.275,
+								["EditorExpand"] = true,
+								["Color"] = Vector(33, 255, 0),
+								["OutlineColor"] = Vector(33, 255, 0),
+								["Angles"] = Angle(0.0028919449541718, 2.4510095119476, 0.27419897913933),
+								["Text"] = "!",
+							},
+						},
+					},
+					["self"] = {
+						["Arguments"] = "x",
+						["Invert"] = true,
+						["Event"] = "button",
+						["UniqueID"] = "1946902703",
+						["EditorExpand"] = true,
+						["ClassName"] = "event",
+					},
+				},
+				[3] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["ClassName"] = "custom_animation",
+								["UniqueID"] = "2203925541",
+								["URL"] = "https://www.dropbox.com/s/aaixup3t028qldx/Zi%20dance.txt?dl=1",
+								["AnimationType"] = "stance",
+								["EditorExpand"] = true,
+							},
+						},
+					},
+					["self"] = {
+						["Name"] = "kak",
+						["ClassName"] = "group",
+						["UniqueID"] = "753218411",
+						["EditorExpand"] = true,
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1965046092",
+				["ClassName"] = "group",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "dance",
+		["ClassName"] = "group",
+		["UniqueID"] = "2116303688",
+		["EditorExpand"] = true,
+	},
+},
