@@ -1,0 +1,2282 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-2.9348470320656e-07, -9.8421878814697, -1.99202731892e-05),
+						["UniqueID"] = "1826652040",
+						["ClassName"] = "model",
+						["Size"] = 2.75,
+						["Position"] = Vector(-135.1728515625, 55.106658935547, 76.6640625),
+						["Model"] = "models/props_swamp/fern_01.mdl",
+						["AngleOffset"] = Angle(0, 7, 180),
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(1.8236186504364, 109.68034362793, 174.91540527344),
+						["Position"] = Vector(-244.53527832031, 143.69134521484, 81.78515625),
+						["ClassName"] = "model",
+						["Size"] = 2.7,
+						["Model"] = "models/props_forest/cliff_wall_09c_mirrored.mdl",
+						["UniqueID"] = "3141901334",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(2.7821015464724e-05, 77.929649353027, -2.5266364900745e-05),
+						["UniqueID"] = "826425531",
+						["ClassName"] = "model",
+						["Size"] = 3.4,
+						["Position"] = Vector(-73.625732421875, 409.88589477539, 76.662109375),
+						["Model"] = "models/props_swamp/fern_06.mdl",
+						["AngleOffset"] = Angle(0, 7, 180),
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "model",
+						["Size"] = 1.525,
+						["Position"] = Vector(129.16796875, 92.952484130859, 93.3271484375),
+						["Model"] = "models/props_forest/cliff_wall_09c.mdl",
+						["UniqueID"] = "2223879098",
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["AngleOffset"] = Angle(0, 7, 180),
+						["Position"] = Vector(-201.03723144531, -34.639953613281, 76.66796875),
+						["ClassName"] = "model",
+						["Model"] = "models/props_foliage/tree_pine_extrasmall.mdl",
+						["UniqueID"] = "1068305332",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0.90078049898148, -99.572402954102, -174.67454528809),
+						["Position"] = Vector(71.231567382813, -55.020263671875, 98.3056640625),
+						["ClassName"] = "model",
+						["Size"] = 2.7,
+						["Model"] = "models/props_forest/cliff_wall_09c_mirrored.mdl",
+						["UniqueID"] = "2777811085",
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(0.90078049898148, -99.572402954102, -174.67454528809),
+						["Position"] = Vector(-148.40270996094, -208.25988769531, 75.341796875),
+						["ClassName"] = "model",
+						["Model"] = "models/props_forest/cliff_wall_02c_mirrored.mdl",
+						["UniqueID"] = "8954423",
+					},
+				},
+				[8] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(8.20756667963e-06, 58.350490570068, -6.2965805227577e-06),
+						["Position"] = Vector(-108.31140136719, 0.0008544921875, 97.478515625),
+						["ClassName"] = "model",
+						["Model"] = "models/props_forest/rock003.mdl",
+						["UniqueID"] = "3577888514",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-88.800819396973, -5.4659623856423e-05, 2.2593620087719e-05),
+						["UniqueID"] = "4288562369",
+						["EditorExpand"] = true,
+						["Position"] = Vector(1.6898193359375, 0.000396728515625, 81.001953125),
+						["ClassName"] = "clip",
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/props_forest/rock003.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "4018509509",
+						["Position"] = Vector(-0.0028076171875, 0.000396728515625, 97.482421875),
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-2.3545477233711e-05, -141.28813171387, 5.8616897149477e-05),
+						["UniqueID"] = "1244030741",
+						["ClassName"] = "model",
+						["Size"] = 3.4,
+						["Position"] = Vector(63.123779296875, 254.8352355957, 76.6591796875),
+						["Model"] = "models/props_swamp/fern_02.mdl",
+						["AngleOffset"] = Angle(0, 7, 180),
+					},
+				},
+				[12] = {
+					["children"] = {
+					},
+					["self"] = {
+						["AngleOffset"] = Angle(0, 7, 180),
+						["Position"] = Vector(-81.702270507813, 256.07955932617, 76.6630859375),
+						["ClassName"] = "model",
+						["Model"] = "models/props_foliage/tree_pine_small.mdl",
+						["UniqueID"] = "830838414",
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["AngleOffset"] = Angle(0, 7, 180),
+						["Position"] = Vector(-0.0059814453125, 55.106536865234, 76.6708984375),
+						["ClassName"] = "model",
+						["Model"] = "models/props_foliage/tree_pine_extrasmall.mdl",
+						["UniqueID"] = "1542469394",
+					},
+				},
+				[14] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-86.970970153809, 62.190395355225, -62.157180786133),
+								["ClassName"] = "clip",
+								["UniqueID"] = "686076413",
+								["Position"] = Vector(0.773681640625, 0.94907379150391, 31.5732421875),
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(-1.2459759091143e-05, -13.145093917847, -2.5249688405893e-05),
+						["Position"] = Vector(-69.890869140625, 75.521270751953, 66.134765625),
+						["ClassName"] = "model",
+						["Size"] = 1.875,
+						["EditorExpand"] = true,
+						["Model"] = "models/props_forest/rock001.mdl",
+						["UniqueID"] = "2697688671",
+					},
+				},
+				[15] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-88.800819396973, -5.4659623856423e-05, 2.2593620087719e-05),
+								["ClassName"] = "clip",
+								["UniqueID"] = "2800528306",
+								["Position"] = Vector(1.6898193359375, 0.000396728515625, 81.001953125),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3647392094",
+						["Scale"] = Vector(1, 1.7000000476837, 1),
+						["EditorExpand"] = true,
+						["Material"] = "models/props_pipes/GutterMetal01a",
+						["Angles"] = Angle(-0, 178.10037231445, 0),
+						["Color"] = Vector(138, 181, 148),
+						["Position"] = Vector(-204.65832519531, 31.444610595703, -0.517578125),
+						["Model"] = "models/props_swamp/karst_rock_06.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "3412113592",
+				["Scale"] = Vector(1, 1.7000000476837, 1),
+				["EditorExpand"] = true,
+				["Material"] = "models/props_pipes/GutterMetal01a",
+				["Angles"] = Angle(-0.053953874856234, -101.81529998779, -179.45101928711),
+				["Color"] = Vector(131, 169, 139),
+				["Position"] = Vector(212.27903747559, -73.188354492188, 98.3115234375),
+				["Model"] = "models/props_swamp/karst_rock_06.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-88.800819396973, -5.4659623856423e-05, 2.2593620087719e-05),
+						["UniqueID"] = "881677079",
+						["EditorExpand"] = true,
+						["Position"] = Vector(1.6898193359375, 0.000396728515625, 81.001953125),
+						["ClassName"] = "clip",
+					},
+				},
+				[2] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-88.800819396973, -5.4659623856423e-05, 2.2593620087719e-05),
+								["ClassName"] = "clip",
+								["UniqueID"] = "350467871",
+								["Position"] = Vector(1.6898193359375, 0.000396728515625, 81.001953125),
+							},
+						},
+					},
+					["self"] = {
+						["UniqueID"] = "3313454997",
+						["Scale"] = Vector(1, 1.7000000476837, 1),
+						["EditorExpand"] = true,
+						["Material"] = "models/props_pipes/GutterMetal01a",
+						["Angles"] = Angle(-0, 178.10037231445, 0),
+						["Color"] = Vector(138, 181, 148),
+						["Position"] = Vector(-204.65832519531, 31.444610595703, -0.517578125),
+						["Model"] = "models/props_swamp/karst_rock_06.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1759003839",
+				["Scale"] = Vector(1, 1.7000000476837, 1),
+				["EditorExpand"] = true,
+				["Material"] = "models/props_pipes/GutterMetal01a",
+				["Angles"] = Angle(-0, 95.546257019043, 0),
+				["Color"] = Vector(131, 169, 139),
+				["Position"] = Vector(184.96051025391, 127.63623046875, -87.044921875),
+				["Model"] = "models/props_swamp/karst_rock_06.mdl",
+				["ClassName"] = "model",
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "island 3",
+		["ClassName"] = "group",
+		["UniqueID"] = "2196638760",
+		["OwnerName"] = "787",
+	},
+},
+[2] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(2.8347953318075e-08, 17.126867294312, 2.4596017667022e-08),
+						["Position"] = Vector(-52.923568725586, 218.35522460938, 169.6650390625),
+						["ClassName"] = "model",
+						["Size"] = 2.2,
+						["Model"] = "models/props_swamp/fern_05.mdl",
+						["UniqueID"] = "3622746142",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/props_forest/rock006b.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "1504569387",
+						["Position"] = Vector(-230.34069824219, 326.36944580078, 192.6982421875),
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "1106559436",
+						["Position"] = Vector(-355.50341796875, -184.39318847656, 193.119140625),
+						["Model"] = "models/props_forest/cliff_wall_06.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/props_forest/rock006c.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "2930358072",
+						["Position"] = Vector(-80.865234375, -228.01135253906, 190.3642578125),
+					},
+				},
+				[5] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(6.8035086542295e-07, -8.5625905990601, 8.671138829186e-08),
+						["Position"] = Vector(284.31213378906, 4.0111694335938, 169.6142578125),
+						["ClassName"] = "model",
+						["Size"] = 2.2,
+						["Model"] = "models/props_swamp/fern_05.mdl",
+						["UniqueID"] = "1310382875",
+					},
+				},
+				[6] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.564445495605, 179.99969482422, -179.9995880127),
+						["ClassName"] = "clip",
+						["UniqueID"] = "1794300609",
+						["Position"] = Vector(-7.616455078125, 0.0087890625, 126.3994140625),
+					},
+				},
+				[7] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(6.8035086542295e-07, -8.5625905990601, 8.671138829186e-08),
+						["Position"] = Vector(-67.47607421875, -193.85949707031, 169.5263671875),
+						["ClassName"] = "model",
+						["Size"] = 2.2,
+						["Model"] = "models/props_swamp/reeds.mdl",
+						["UniqueID"] = "3414575406",
+					},
+				},
+				[8] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["SequenceName"] = "LineIdle03",
+										["ClassName"] = "animation",
+										["UniqueID"] = "705712696",
+										["Rate"] = 0.01,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(24.162818908691, -50.901374816895, 3.5749976634979),
+										["Bone"] = "left finger 4",
+										["UniqueID"] = "2169744905",
+										["ClassName"] = "bone",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(3.4150950796175e-06, -66.363525390625, 0.00020832076552324),
+										["Bone"] = "left finger 21",
+										["UniqueID"] = "2518947592",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(7.4861025810242, -51.937225341797, 3.2895019054413),
+										["Bone"] = "left finger 3",
+										["UniqueID"] = "3676894660",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0.00011782076762756, -52.366191864014, 5.6349064834649e-05),
+										["Bone"] = "left finger 2",
+										["UniqueID"] = "848020314",
+										["ClassName"] = "bone",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(2.3905662601464e-05, -76.203071594238, -3.5858494811691e-05),
+										["Bone"] = "left finger 32",
+										["UniqueID"] = "2095016598",
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-26.064189910889, -76.782051086426, 7.6034411904402e-05),
+										["Bone"] = "left forearm",
+										["UniqueID"] = "127606342",
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-8.5377369032358e-06, 19.036373138428, 1.7075473806472e-05),
+										["Bone"] = "left finger 1",
+										["UniqueID"] = "99225266",
+										["ClassName"] = "bone",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0, -3.308373152322e-06, 47.314319610596),
+										["Bone"] = "right hand",
+										["UniqueID"] = "591557292",
+										["ClassName"] = "bone",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-6.1471706430893e-05, -48.832050323486, 0.00017673116235528),
+										["Bone"] = "left finger 31",
+										["UniqueID"] = "2450919764",
+										["ClassName"] = "bone",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-1.9182292222977, -1.5487053394318, -15.880620002747),
+										["UniqueID"] = "623043299",
+										["ClassName"] = "bone",
+									},
+								},
+								[12] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(28.776147842407, -76.415313720703, 1.5585015717079e-05),
+										["Bone"] = "right forearm",
+										["UniqueID"] = "1888677837",
+										["ClassName"] = "bone",
+									},
+								},
+								[13] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-6.0084319557063e-05, 17.520385742188, 2.3905662601464e-05),
+										["Bone"] = "left finger 11",
+										["UniqueID"] = "3135555743",
+										["ClassName"] = "bone",
+									},
+								},
+								[14] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0.00011782076762756, -50.017585754395, 0.0002783302043099),
+										["Bone"] = "left finger 41",
+										["UniqueID"] = "3797411280",
+										["ClassName"] = "bone",
+									},
+								},
+								[15] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-39.63606262207, -53.129524230957, -5.7734532356262),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "2282132052",
+										["ClassName"] = "bone",
+									},
+								},
+								[16] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(2.3905662601464e-05, -76.203071594238, -3.5858494811691e-05),
+										["Bone"] = "left finger 22",
+										["UniqueID"] = "1749152127",
+										["ClassName"] = "bone",
+									},
+								},
+								[17] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(2.3905662601464e-05, -76.203071594238, -3.5858494811691e-05),
+										["Bone"] = "left finger 42",
+										["UniqueID"] = "897305784",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(-3.0876359939575, -106.02424621582, -3.2238166332245),
+								["Position"] = Vector(21.766845703125, 187.88507080078, 45.8076171875),
+								["ClassName"] = "model",
+								["Model"] = "models/humans/group01/male_05.mdl",
+								["UniqueID"] = "1253044082",
+							},
+						},
+						[2] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Angles"] = Angle(-4.8970217704773, -179.99948120117, 179.99426269531),
+												["ClassName"] = "clip",
+												["UniqueID"] = "2443599595",
+												["Position"] = Vector(30.31982421875, 0.0006103515625, -2.5146484375),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "models/props_c17/FurnitureMetal001a",
+												["Position"] = Vector(34.880798339844, -2.5508422851563, 21.2919921875),
+												["ClassName"] = "model",
+												["UniqueID"] = "1830565087",
+												["Model"] = "models/pac/default.mdl",
+												["Scale"] = Vector(1.7000000476837, 3.7000000476837, 1.6000000238419),
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "483323343",
+										["Scale"] = Vector(1, 1.7000000476837, 1),
+										["ClassName"] = "model",
+										["Size"] = 3.15,
+										["Material"] = "models/props_halloween/halloween_blk",
+										["Color"] = Vector(0, 255, 157),
+										["Position"] = Vector(-8.3357543945313, 41.822448730469, -11.986328125),
+										["Model"] = "models/antlion_grub.mdl",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Angles"] = Angle(-1.1701318025589, -179.99987792969, 179.99990844727),
+												["ClassName"] = "clip",
+												["UniqueID"] = "914516358",
+												["Position"] = Vector(38.503234863281, 0.00469970703125, -3.3310546875),
+											},
+										},
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["Invert"] = true,
+										["UniqueID"] = "1798912002",
+										["Model"] = "models/egypt/tent/tent.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Angles"] = Angle(-4.8970217704773, -179.99948120117, 179.99426269531),
+												["ClassName"] = "clip",
+												["UniqueID"] = "2421929242",
+												["Position"] = Vector(30.31982421875, 0.0006103515625, -2.5146484375),
+											},
+										},
+										[2] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Material"] = "models/props_c17/FurnitureMetal001a",
+												["Position"] = Vector(34.8779296875, -0.3897705078125, 21.25390625),
+												["ClassName"] = "model",
+												["UniqueID"] = "2796783281",
+												["Model"] = "models/pac/default.mdl",
+												["Scale"] = Vector(1.7000000476837, 3.7000000476837, 1.6000000238419),
+											},
+										},
+									},
+									["self"] = {
+										["UniqueID"] = "8534130",
+										["Scale"] = Vector(1, 1.7000000476837, 1),
+										["Material"] = "models/props_manor/table_01b",
+										["EditorExpand"] = true,
+										["Size"] = 3.15,
+										["Angles"] = Angle(1.7348530718664e-06, 14.462422370911, -1.600825640935e-07),
+										["Color"] = Vector(255, 93, 0),
+										["Position"] = Vector(-25.657897949219, -41.67431640625, -12.0185546875),
+										["Model"] = "models/antlion_grub.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-15.875554084778, -91.252212524414, 7.8846469477867e-06),
+										["ClassName"] = "clip",
+										["UniqueID"] = "1726393368",
+										["Position"] = Vector(-0.32318115234375, -15.003051757813, 45.0048828125),
+									},
+								},
+								[5] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Angles"] = Angle(-1.1701318025589, -179.99987792969, 179.99990844727),
+												["ClassName"] = "clip",
+												["UniqueID"] = "2117744315",
+												["Position"] = Vector(38.503234863281, 0.00469970703125, -3.3310546875),
+											},
+										},
+									},
+									["self"] = {
+										["Model"] = "models/egypt/tent/tent.mdl",
+										["ClassName"] = "model",
+										["UniqueID"] = "3508965219",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["UniqueID"] = "2513983028",
+								["Angles"] = Angle(4.6690740873601e-07, -127.38611602783, -1.4941039125915e-06),
+								["EditorExpand"] = true,
+								["Position"] = Vector(353.7451171875, 277.41137695313, 42.330078125),
+								["Model"] = "models/egypt/tent/tent.mdl",
+								["Invert"] = true,
+							},
+						},
+						[3] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-6.8301892497402e-06, -37.249473571777, -7.6839633038617e-06),
+										["Bone"] = "left calf",
+										["UniqueID"] = "3156460918",
+										["ClassName"] = "bone",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(3.756604201044e-05, -20.41919708252, -5.2933966799174e-05),
+										["Bone"] = "right calf",
+										["UniqueID"] = "504376861",
+										["ClassName"] = "bone",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-19.308389663696, -12.844194412231, -45.390357971191),
+										["UniqueID"] = "4040426455",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "1591116720",
+										["SequenceName"] = "silo_sit",
+									},
+								},
+								[5] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["SequenceName"] = "Idle01",
+												["ClassName"] = "animation",
+												["UniqueID"] = "1581406920",
+												["Rate"] = 0.01,
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(-5.5144166946411, -82.011383056641, -94.379280090332),
+										["Position"] = Vector(-30.2509765625, -10.04833984375, 30.08349609375),
+										["ClassName"] = "model",
+										["EditorExpand"] = true,
+										["Model"] = "models/crow.mdl",
+										["UniqueID"] = "1252266135",
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(5.8696940641312e-07, -174.96795654297, -3.1349500773104e-07),
+								["Position"] = Vector(281.23193359375, 20.465759277344, 71.1669921875),
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Model"] = "models/humans/group01/male_07.mdl",
+								["UniqueID"] = "4117686010",
+							},
+						},
+						[4] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0.83367276191711, -13.427593231201, 3.8849503993988),
+										["Bone"] = "spine",
+										["UniqueID"] = "3790428846",
+										["ClassName"] = "bone",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(50.918197631836, -0.8999747633934, 65.934577941895),
+										["Bone"] = "right thigh",
+										["UniqueID"] = "4043293923",
+										["ClassName"] = "bone",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-10.401440620422, 10.073140144348, -9.8345737457275),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "3044555286",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-19.347673416138, 20.638456344604, -24.715215682983),
+										["Bone"] = "right foot",
+										["UniqueID"] = "1973325995",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(25.952033996582, 51.869285583496, 0.54557371139526),
+										["Bone"] = "left forearm",
+										["UniqueID"] = "1579904764",
+										["ClassName"] = "bone",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-0.00011995519889751, 13.491132736206, 0.00033126419293694),
+										["Bone"] = "right forearm",
+										["UniqueID"] = "3195776334",
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(4.2688687244663e-05, -72.575630187988, -0.00011269812239334),
+										["Bone"] = "left calf",
+										["UniqueID"] = "3948823599",
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-15.720788955688, 21.884094238281, 1.9221534729004),
+										["Bone"] = "right calf",
+										["UniqueID"] = "3158055328",
+										["ClassName"] = "bone",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "4078486883",
+										["SequenceName"] = "sit",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(42.846797943115, 41.030612945557, 0.00045415060594678),
+										["Bone"] = "left hand",
+										["UniqueID"] = "1218639441",
+										["ClassName"] = "bone",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(4.010169506073, 11.905815124512, -3.6710295677185),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "720080677",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["Model"] = "models/player/group01/male_04.mdl",
+								["ClassName"] = "model",
+								["UniqueID"] = "489050395",
+								["Position"] = Vector(-91.18408203125, -18.651184082031, 46.5224609375),
+							},
+						},
+						[5] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 14.1,
+												["ClassName"] = "proxy",
+												["UniqueID"] = "2931411290",
+												["Axis"] = "x",
+												["InputMultiplier"] = 24,
+												["Min"] = 3.5,
+												["VariableName"] = "AngleOffset",
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(-15.339757919312, -64.438415527344, -55.100688934326),
+										["UniqueID"] = "1507414230",
+										["AngleOffset"] = Angle(13.865202903748, 4.1855611801147, 0),
+										["Bone"] = "right hand",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+												[1] = {
+													["children"] = {
+													},
+													["self"] = {
+														["ClassName"] = "webaudio",
+														["StopOnHide"] = false,
+														["URL"] = "https://raw.githubusercontent.com/DieselPoweredSpud/pac3-that-hopefully-works/master/Oasis%20-%20%20Wonderwall%20(only%20guitar).mp3",
+														["UniqueID"] = "2308614188",
+														["Position"] = Vector(-0.30000001192093, 0, 0),
+													},
+												},
+											},
+											["self"] = {
+												["AffectChildrenOnly"] = true,
+												["ClassName"] = "event",
+												["Invert"] = true,
+												["Event"] = "command",
+												["UniqueID"] = "2175220952",
+												["Arguments"] = "island@@116.9",
+												["EditorExpand"] = true,
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(49.606266021729, 162.11833190918, 88.19051361084),
+										["UniqueID"] = "105450574",
+										["Position"] = Vector(2.6611328125, 8.19384765625, 3.51220703125),
+										["EditorExpand"] = true,
+										["Bone"] = "spine 2",
+										["Model"] = "models/player/items/engineer/guitar.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(0.20214156806469, -88.838409423828, 41.097190856934),
+										["Bone"] = "right forearm",
+										["UniqueID"] = "520436360",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 14.1,
+												["ClassName"] = "proxy",
+												["UniqueID"] = "2790610697",
+												["Axis"] = "y",
+												["InputMultiplier"] = 6.6,
+												["Min"] = 3.5,
+												["VariableName"] = "AngleOffset",
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(-18.422697067261, -20.975894927979, -39.499164581299),
+										["Position"] = Vector(-0.8125, 0.31640625, -0.2939453125),
+										["AngleOffset"] = Angle(10.390041351318, 7.3798532485962, 0),
+										["UniqueID"] = "907455965",
+										["Bone"] = "left hand",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-55.545986175537, -145.01368713379, 15.909164428711),
+										["Bone"] = "left forearm",
+										["UniqueID"] = "4263599749",
+										["ClassName"] = "bone",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["SequenceName"] = "LineIdle03",
+										["ClassName"] = "animation",
+										["UniqueID"] = "4283041409",
+										["Rate"] = 0.02,
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(5.7245607376099, -12.751159667969, -1.2928409576416),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "1992170603",
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-24.76459312439, 17.571636199951, -13.925872802734),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "128799129",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(9.2547729479975e-08, -91.173973083496, -1.3340213378399e-08),
+								["Position"] = Vector(26.102294921875, 77.618713378906, 44.84765625),
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Model"] = "models/humans/group03/male_03.mdl",
+								["UniqueID"] = "626573975",
+							},
+						},
+						[6] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-2.8347953957564e-06, 111.18547058105, 4.782466476172e-06),
+								["Position"] = Vector(67.673950195313, -109.95123291016, 55.115234375),
+								["ClassName"] = "model",
+								["Size"] = 0.625,
+								["UniqueID"] = "1843198778",
+								["Model"] = "models/props_forest/tree_pine_singlelog.mdl",
+								["Scale"] = Vector(1, 0.69999998807907, 1),
+							},
+						},
+						[7] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-18.595996856689, -91.252006530762, 0.00012246709957253),
+										["ClassName"] = "clip",
+										["UniqueID"] = "2666437494",
+										["Position"] = Vector(-0.40191650390625, -18.651062011719, 45.3623046875),
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(4.6690740873601e-07, -127.38611602783, -1.4941039125915e-06),
+								["Position"] = Vector(350.4189453125, 273.06237792969, 42.3134765625),
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Model"] = "models/egypt/tent/tent.mdl",
+								["UniqueID"] = "367299928",
+							},
+						},
+						[8] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-29.665956497192, 87.890464782715, -179.6185760498),
+										["ClassName"] = "clip",
+										["UniqueID"] = "3321269839",
+										["Position"] = Vector(0.46905517578125, 21.151184082031, 62.751953125),
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["UniqueID"] = "450533262",
+								["Angles"] = Angle(4.6690740873601e-07, -127.38611602783, -1.4941039125915e-06),
+								["EditorExpand"] = true,
+								["Position"] = Vector(350.4189453125, 273.06237792969, 42.3134765625),
+								["Model"] = "models/egypt/tent/tent.mdl",
+								["Invert"] = true,
+							},
+						},
+						[9] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "2737863587",
+										["SequenceName"] = "silo_sit",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(9.8183973022969e-06, 3.4132959842682, 8.1962258263957e-05),
+										["UniqueID"] = "2274407919",
+										["ClassName"] = "model",
+										["Size"] = 0.4,
+										["Position"] = Vector(-47.984375, -6.36181640625, 1.004150390625),
+										["Model"] = "models/props_forest/tree_pine_stump02.mdl",
+										["AngleOffset"] = Angle(90, 3.9000000953674, -3.2999999523163),
+									},
+								},
+								[3] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["Max"] = 5,
+												["ClassName"] = "proxy",
+												["UniqueID"] = "647451188",
+												["Axis"] = "Y",
+												["InputMultiplier"] = 24,
+												["Min"] = 2.3,
+												["VariableName"] = "AngleOffset",
+											},
+										},
+									},
+									["self"] = {
+										["Angles"] = Angle(-4.6957549784565e-05, -3.4454400539398, 0.00040810383507051),
+										["UniqueID"] = "2668802547",
+										["AngleOffset"] = Angle(13.974197387695, 4.9401931762695, 0),
+										["Bone"] = "right foot",
+										["ClassName"] = "bone",
+										["EditorExpand"] = true,
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(-3.5018061339542e-08, 64.705268859863, 4.5023220707208e-08),
+								["Position"] = Vector(-32.351440429688, -74.730407714844, 46.7822265625),
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Model"] = "models/humans/group02/male_02.mdl",
+								["UniqueID"] = "2305446967",
+							},
+						},
+						[10] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(1.0271965038555e-06, -62.752685546875, -4.0020640312832e-07),
+								["Position"] = Vector(-39.105224609375, 346.56945800781, 44.6669921875),
+								["ClassName"] = "model",
+								["Model"] = "models/egypt/tent/tent.mdl",
+								["UniqueID"] = "2789309063",
+							},
+						},
+						[11] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "light",
+										["Size"] = 10,
+										["Color"] = Vector(255, 153, 0),
+										["UniqueID"] = "4183710073",
+										["Brightness"] = 66.3,
+										["Style"] = 1,
+									},
+								},
+							},
+							["self"] = {
+								["EditorExpand"] = true,
+								["UniqueID"] = "76543121",
+								["Position"] = Vector(-10.511962890625, -0.00042724609375, 51.6376953125),
+								["Size"] = 0,
+								["Model"] = "models/pac/default.mdl",
+								["ClassName"] = "model",
+							},
+						},
+						[12] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-18.462224960327, 8.5319356918335, -4.2349066734314),
+										["Position"] = Vector(0.125, -1.0107421875, 0.0833740234375),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "2740023326",
+										["ClassName"] = "bone",
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(1.878302100522e-05, 36.563369750977, -0.00021856602688786),
+										["Bone"] = "left foot",
+										["UniqueID"] = "2411926363",
+										["ClassName"] = "bone",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-5.6349068472628e-05, -38.070171356201, 4.4396234443411e-05),
+										["Bone"] = "left thigh",
+										["UniqueID"] = "3010173857",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-2.9882077797083e-05, -28.988681793213, -0.001509471796453),
+										["Bone"] = "right forearm",
+										["UniqueID"] = "3130314607",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(4.1942453384399, 29.834781646729, 2.4020192623138),
+										["Bone"] = "right calf",
+										["UniqueID"] = "2232839820",
+										["ClassName"] = "bone",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(17.881374359131, -46.164279937744, 11.71476650238),
+										["Bone"] = "left forearm",
+										["UniqueID"] = "2388180046",
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(18.364168167114, 3.6544561386108, -25.222635269165),
+										["Bone"] = "spine",
+										["UniqueID"] = "6425211",
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(3.8422982692719, 24.070901870728, 16.47603225708),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "3713071073",
+										["ClassName"] = "bone",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-2.7623672485352, 21.956365585327, -21.87056350708),
+										["Bone"] = "left hand",
+										["UniqueID"] = "2500492664",
+										["ClassName"] = "bone",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(54.350532531738, 18.203733444214, -44.049556732178),
+										["Bone"] = "right hand",
+										["UniqueID"] = "1538761778",
+										["ClassName"] = "bone",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(11.813409805298, -42.177738189697, 10.372278213501),
+										["Bone"] = "right thigh",
+										["UniqueID"] = "1678809627",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(-3.4684555316744e-07, 92.102920532227, 9.0713450617841e-07),
+								["Position"] = Vector(-56.2109375, -245.39093017578, 150.7353515625),
+								["ClassName"] = "model",
+								["Model"] = "models/humans/group02/female_04.mdl",
+								["UniqueID"] = "1323503641",
+							},
+						},
+						[13] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "effect",
+										["UniqueID"] = "338462090",
+										["Effect"] = "env_fire_small_smoke",
+									},
+								},
+							},
+							["self"] = {
+								["ClassName"] = "model",
+								["Size"] = 0,
+								["Position"] = Vector(30.956298828125, 0.005126953125, 53.6787109375),
+								["Model"] = "models/pac/default.mdl",
+								["UniqueID"] = "2561771055",
+							},
+						},
+						[14] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-25.586742401123, 88.657875061035, -179.97151184082),
+										["ClassName"] = "clip",
+										["UniqueID"] = "1675396199",
+										["Position"] = Vector(0.36968994140625, 16.87060546875, 61.3251953125),
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(4.6690740873601e-07, -127.38611602783, -1.4941039125915e-06),
+								["Position"] = Vector(350.4189453125, 273.06237792969, 42.3134765625),
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["Model"] = "models/egypt/tent/tent.mdl",
+								["UniqueID"] = "995272876",
+							},
+						},
+						[15] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["ClassName"] = "animation",
+										["UniqueID"] = "681231700",
+										["SequenceName"] = "D_p_sitloop",
+									},
+								},
+								[2] = {
+									["children"] = {
+										[1] = {
+											["children"] = {
+											},
+											["self"] = {
+												["ClassName"] = "animation",
+												["UniqueID"] = "613940347",
+												["SequenceName"] = "Idle01",
+											},
+										},
+									},
+									["self"] = {
+										["EditorExpand"] = true,
+										["UniqueID"] = "2254667739",
+										["Position"] = Vector(-6.060546875, -0.01513671875, 61.7998046875),
+										["Model"] = "models/pigeon.mdl",
+										["ClassName"] = "model",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(9.7418537139893, 95.169448852539, 1.0828313889988e-07),
+										["Position"] = Vector(-9.3052978515625, -21.07958984375, 18.140625),
+										["ClassName"] = "model",
+										["Size"] = 0.15,
+										["Model"] = "models/props_island/hanging_vine01_large.mdl",
+										["UniqueID"] = "361363940",
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(-3.5018061339542e-08, -159.57629394531, -9.7133430188023e-08),
+								["Position"] = Vector(104.69885253906, 15.082397460938, 46.8232421875),
+								["ClassName"] = "model",
+								["Model"] = "models/dog.mdl",
+								["UniqueID"] = "55388297",
+							},
+						},
+						[16] = {
+							["children"] = {
+								[1] = {
+									["children"] = {
+									},
+									["self"] = {
+										["SequenceName"] = "idle_all_01",
+										["ClassName"] = "animation",
+										["UniqueID"] = "2279945863",
+										["Rate"] = 0.01,
+									},
+								},
+								[2] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-20.771841049194, -125.82821655273, -16.050186157227),
+										["Position"] = Vector(0.4833984375, 0.814453125, -0.97509765625),
+										["Bone"] = "right forearm",
+										["UniqueID"] = "1422176252",
+										["ClassName"] = "bone",
+									},
+								},
+								[3] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(3.3397302627563, 67.763374328613, -51.641265869141),
+										["Bone"] = "left hand",
+										["UniqueID"] = "2515564230",
+										["ClassName"] = "bone",
+									},
+								},
+								[4] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-30.626531600952, 1.906635761261, -4.5511326789856),
+										["Bone"] = "left upperarm",
+										["UniqueID"] = "4209450962",
+										["ClassName"] = "bone",
+									},
+								},
+								[5] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-2.5613209800213e-05, -86.085372924805, 1.2539799172373e-05),
+										["Bone"] = "right finger 21",
+										["UniqueID"] = "782930898",
+										["ClassName"] = "bone",
+									},
+								},
+								[6] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(23.914949417114, -54.549961090088, 1.1613568067551),
+										["Bone"] = "right upperarm",
+										["UniqueID"] = "803383473",
+										["ClassName"] = "bone",
+									},
+								},
+								[7] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(67.826972961426, -12.380623817444, 32.828186035156),
+										["Bone"] = "left forearm",
+										["UniqueID"] = "3354545283",
+										["ClassName"] = "bone",
+									},
+								},
+								[8] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(21.235488891602, -88.009925842285, 6.6398501396179),
+										["Bone"] = "right finger 2",
+										["UniqueID"] = "24664858",
+										["ClassName"] = "bone",
+									},
+								},
+								[9] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(3.2449223995209, -9.0038824081421, 16.816576004028),
+										["UniqueID"] = "3994474050",
+										["ClassName"] = "bone",
+									},
+								},
+								[10] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-2.9028307835688e-05, -45.653179168701, -5.122642050992e-06),
+										["Bone"] = "right finger 0",
+										["UniqueID"] = "228119249",
+										["ClassName"] = "bone",
+									},
+								},
+								[11] = {
+									["children"] = {
+									},
+									["self"] = {
+										["Angles"] = Angle(-7.3213386535645, -31.017030715942, 120.74827575684),
+										["Bone"] = "right hand",
+										["UniqueID"] = "2528335912",
+										["ClassName"] = "bone",
+									},
+								},
+							},
+							["self"] = {
+								["Angles"] = Angle(-1.1672686817121e-08, 55.001495361328, 5.3360853513595e-08),
+								["Position"] = Vector(2.49462890625, 136.73547363281, 45.8017578125),
+								["ClassName"] = "model",
+								["Model"] = "models/player/group01/male_08.mdl",
+								["UniqueID"] = "1267723586",
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3501873604",
+						["Position"] = Vector(-172.85600280762, 82.52099609375, 143.07421875),
+						["Size"] = 1.4,
+						["Model"] = "models/props_manor/fireplace_logs.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[9] = {
+					["children"] = {
+					},
+					["self"] = {
+						["ClassName"] = "clip",
+						["UniqueID"] = "3281136375",
+						["Angles"] = Angle(-80.947891235352, -1.3566375855589e-05, -1.2624904002223e-06),
+					},
+				},
+				[10] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-1.867630032848e-07, 50.68830871582, 2.6680426756798e-08),
+						["Position"] = Vector(175.42260742188, -324.02038574219, 190.353515625),
+						["ClassName"] = "model",
+						["Size"] = 0.325,
+						["Model"] = "models/props_forest/cliff_wall_02.mdl",
+						["UniqueID"] = "550075534",
+					},
+				},
+				[11] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-8.6511088006822e-13, -84.263549804688, 2.573068711223e-12),
+						["Position"] = Vector(-262.05395507813, -184.390625, 162.1416015625),
+						["ClassName"] = "model",
+						["Model"] = "models/props_forest/cliff_wall_06.mdl",
+						["UniqueID"] = "2468372512",
+					},
+				},
+				[12] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-83.650886535645, -36.582466125488, 36.751266479492),
+								["ClassName"] = "clip",
+								["UniqueID"] = "2962040421",
+								["Position"] = Vector(-24.928466796875, -5.8209533691406, 87.857421875),
+							},
+						},
+						[2] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-1.8142689441447e-05, -123.04883575439, 2.9348469979595e-05),
+								["Position"] = Vector(-78.243041992188, -224.13488769531, 114.111328125),
+								["ClassName"] = "model",
+								["UniqueID"] = "2461353635",
+								["Model"] = "models/props_forest/cliff_wall_02c.mdl",
+								["Scale"] = Vector(1.7000000476837, 2.2000000476837, 1),
+							},
+						},
+						[3] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-4.5997054257896e-05, -42.715461730957, 1.6755308024585e-05),
+								["Position"] = Vector(160.94714355469, -159.65753173828, 139.01953125),
+								["ClassName"] = "model",
+								["EditorExpand"] = true,
+								["UniqueID"] = "546768407",
+								["Model"] = "models/props_forest/cliff_wall_02c.mdl",
+								["Scale"] = Vector(1.7000000476837, 2.2000000476837, 1),
+							},
+						},
+						[4] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-5.0159201236966e-06, -152.38757324219, 4.2448558815522e-05),
+								["Position"] = Vector(-175.19116210938, -64.982971191406, 122.9091796875),
+								["ClassName"] = "model",
+								["UniqueID"] = "1672617155",
+								["Model"] = "models/props_forest/cliff_wall_02c.mdl",
+								["Scale"] = Vector(1.7000000476837, 2.2000000476837, 1),
+							},
+						},
+						[5] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(-3.4524473448982e-05, -75.179489135742, 2.1771229512524e-05),
+								["Position"] = Vector(-251.15844726563, 231.41268920898, 137.8642578125),
+								["ClassName"] = "model",
+								["UniqueID"] = "1170692537",
+								["Model"] = "models/props_forest/cliff_wall_02c.mdl",
+								["Scale"] = Vector(1, 1.8999999761581, 1),
+							},
+						},
+					},
+					["self"] = {
+						["Angles"] = Angle(-0, 0, 176.75061035156),
+						["Position"] = Vector(0, 83.575347900391, 239.46484375),
+						["ClassName"] = "model",
+						["Size"] = 3.85,
+						["UniqueID"] = "1602563626",
+						["Model"] = "models/props_forest/rock002.mdl",
+						["Scale"] = Vector(1, 1, 0.80000001192093),
+					},
+				},
+				[13] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(1.3173460899907e-07, 58.54515838623, 1.1205779628654e-06),
+						["Position"] = Vector(88.20703125, 487.63171386719, 169.39453125),
+						["ClassName"] = "model",
+						["Size"] = 3.05,
+						["UniqueID"] = "1306925225",
+						["Model"] = "models/props_swamp/reeds.mdl",
+						["Scale"] = Vector(1, 1, 0.80000001192093),
+					},
+				},
+				[14] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-3.5184811508771e-07, 138.72480773926, -4.1688167584653e-08),
+						["Position"] = Vector(-333.98217773438, 521.30920410156, 184.4619140625),
+						["ClassName"] = "model",
+						["Size"] = 2.7,
+						["Model"] = "models/props_swamp/fern_01.mdl",
+						["UniqueID"] = "3380754800",
+					},
+				},
+				[15] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(5.3360855645224e-07, 13.359658241272, 6.5367044044251e-07),
+						["Position"] = Vector(-323.62817382813, 344.52072143555, 169.447265625),
+						["ClassName"] = "model",
+						["Size"] = 2.2,
+						["Model"] = "models/props_swamp/reeds.mdl",
+						["UniqueID"] = "1933031685",
+					},
+				},
+				[16] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(3.0849244581077e-07, 0, -1.9824426174164),
+						["Position"] = Vector(-74.544311523438, 517.89794921875, 176.3193359375),
+						["ClassName"] = "model",
+						["Model"] = "models/props_foliage/tree_pine_huge.mdl",
+						["UniqueID"] = "2431435379",
+					},
+				},
+				[17] = {
+					["children"] = {
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "97404511",
+						["Position"] = Vector(-291.63854980469, 66.699432373047, 187.439453125),
+						["Model"] = "models/props_foliage/tree_pine_extrasmall.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[18] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/props_forest/cliff_wall_09.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "3160647301",
+						["Position"] = Vector(174.59594726563, 113.85736083984, 183.3740234375),
+					},
+				},
+				[19] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["UniqueID"] = "3480733380",
+								["ClassName"] = "webaudio",
+								["Position"] = Vector(-75.858764648438, -0.000885009765625, 57.9873046875),
+								["Volume"] = 4.1,
+								["URL"] = "https://raw.githubusercontent.com/DieselPoweredSpud/pac3-that-hopefully-works/master/Nordic%20forest%20ambience%20relax%20and%20listen%2015%20minutes.mp3",
+								["PauseOnHide"] = true,
+								["MaximumRadius"] = 8.6,
+								["MinimumRadius"] = 8.6,
+							},
+						},
+					},
+					["self"] = {
+						["AffectChildrenOnly"] = true,
+						["ClassName"] = "event",
+						["Invert"] = true,
+						["Event"] = "command",
+						["UniqueID"] = "3485551108",
+						["Arguments"] = "island@@83.8",
+						["EditorExpand"] = true,
+					},
+				},
+				[20] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(6.9619240150587e-08, -63.146377563477, -3.668558790082e-08),
+						["Position"] = Vector(93.7919921875, -69.31298828125, 181.337890625),
+						["ClassName"] = "model",
+						["Model"] = "models/props_foliage/tree_pine_huge.mdl",
+						["UniqueID"] = "2391211007",
+					},
+				},
+				[21] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-4.0151529312134, 3.081147588091e-05, 1.4877502962918e-07),
+						["Position"] = Vector(-458.74395751953, 199.22241210938, 187.498046875),
+						["ClassName"] = "model",
+						["Model"] = "models/props_foliage/tree_pine_small.mdl",
+						["UniqueID"] = "1386193445",
+					},
+				},
+				[22] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/props_foliage/tree_pine_extrasmall.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "1660711294",
+						["Position"] = Vector(302.81597900391, 234.64196777344, 193.587890625),
+					},
+				},
+				[23] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(2.8347953318075e-08, 17.126867294312, 2.4596017667022e-08),
+						["Position"] = Vector(-269.98181152344, 271.77124023438, 176.0478515625),
+						["ClassName"] = "model",
+						["Size"] = 1.725,
+						["Model"] = "models/props_swamp/fern_03.mdl",
+						["UniqueID"] = "3525185786",
+					},
+				},
+				[24] = {
+					["children"] = {
+						[1] = {
+							["children"] = {
+							},
+							["self"] = {
+								["Angles"] = Angle(1.3340213911306e-07, -38.376106262207, -4.202167076528e-07),
+								["ClassName"] = "clip",
+								["UniqueID"] = "2772965595",
+								["Position"] = Vector(-9.1119384765625, 7.2156066894531, 0.00390625),
+							},
+						},
+					},
+					["self"] = {
+						["EditorExpand"] = true,
+						["UniqueID"] = "3594761605",
+						["Position"] = Vector(271.79504394531, 326.37435913086, 192.6259765625),
+						["Model"] = "models/props_forest/rock006b.mdl",
+						["ClassName"] = "model",
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "3849285182",
+				["Scale"] = Vector(1.7000000476837, 1.2000000476837, 1),
+				["Material"] = "models/props_pipes/GutterMetal01a",
+				["EditorExpand"] = true,
+				["Size"] = 3.825,
+				["Angles"] = Angle(-4.6426140443145e-07, 3.1720626354218, -3.6674865100395e-07),
+				["Color"] = Vector(107, 159, 119),
+				["Position"] = Vector(79.071044921875, -126.19091796875, -187.1787109375),
+				["Model"] = "models/props_swamp/karst_rock_05.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Model"] = "models/props_foliage/tree_pine_small.mdl",
+						["ClassName"] = "model",
+						["UniqueID"] = "243194051",
+						["Position"] = Vector(-106.41650390625, -38.505126953125, 185.2646484375),
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "3878721791",
+				["Scale"] = Vector(2.4000000953674, 1.1000000238419, 1),
+				["ClassName"] = "model",
+				["Size"] = 0.625,
+				["Position"] = Vector(343.91821289063, -228.3974609375, -201.0546875),
+				["Color"] = Vector(142, 199, 134),
+				["Angles"] = Angle(-0, 129.37083435059, 0),
+				["Model"] = "models/props_swamp/karst_cliff_01.mdl",
+				["Material"] = "models/props_pipes/GutterMetal01a",
+			},
+		},
+		[3] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Size"] = 1.225,
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["UniqueID"] = "1668260012",
+			},
+		},
+	},
+	["self"] = {
+		["EditorExpand"] = true,
+		["UniqueID"] = "59918638",
+		["OwnerName"] = "767",
+		["Name"] = "island 1",
+		["ClassName"] = "group",
+	},
+},
+[3] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Size"] = 355.775,
+						["ClassName"] = "sprite",
+						["UniqueID"] = "3098799605",
+						["SpritePath"] = "sprites/strider_blackball",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Max"] = 63.6,
+						["Pow"] = 0,
+						["UniqueID"] = "3682428160",
+						["Axis"] = "y",
+						["Min"] = 46.1,
+						["VariableName"] = "AngleOffset",
+						["ClassName"] = "proxy",
+						["Additive"] = true,
+						["InputDivider"] = 9.1,
+						["InputMultiplier"] = -5.8,
+					},
+				},
+			},
+			["self"] = {
+				["AngleOffset"] = Angle(0, 11129.990234375, 0),
+				["Position"] = Vector(0, 0, -3.9677734375),
+				["ClassName"] = "model",
+				["Size"] = 15.625,
+				["EditorExpand"] = true,
+				["Model"] = "models/props_moonbase/moon_gravel_crystal_blue.mdl",
+				["UniqueID"] = "3462464238",
+			},
+		},
+		[2] = {
+			["children"] = {
+			},
+			["self"] = {
+				["EditorExpand"] = true,
+				["UniqueID"] = "4148577522",
+				["ClassName"] = "model",
+				["Size"] = 2.85,
+				["Model"] = "models/props_forest/rock006b.mdl",
+				["AngleOffset"] = Angle(0.97511261701584, 93.112335205078, 0),
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "crystal",
+		["ClassName"] = "group",
+		["UniqueID"] = "959141921",
+		["OwnerName"] = "764",
+	},
+},
+[4] = {
+	["children"] = {
+	},
+	["self"] = {
+		["Name"] = "my outfit",
+		["ClassName"] = "group",
+		["UniqueID"] = "2287044786",
+		["EditorExpand"] = true,
+	},
+},
+[5] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/props_swamp/fern_04.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "2069970468",
+				["Size"] = 3.525,
+			},
+		},
+		[2] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.411949157715, -0.0026775905862451, 0.0026621553115547),
+						["ClassName"] = "clip",
+						["UniqueID"] = "2673828359",
+						["Position"] = Vector(0.93708801269531, -0.000640869140625, 91.318359375),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-0.03073144890368, 72.001831054688, 179.90544128418),
+				["Position"] = Vector(-106.47920227051, 6.438362121582, 77.705078125),
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["Model"] = "models/props_forest/rock002.mdl",
+				["UniqueID"] = "3405460007",
+			},
+		},
+		[3] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.468742370605, -7.7692871855106e-05, 6.4399529946968e-05),
+						["ClassName"] = "clip",
+						["UniqueID"] = "2763202140",
+						["Position"] = Vector(0.69046783447266, -2.288818359375e-05, 74.474609375),
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "1552315152",
+				["Scale"] = Vector(1.2999999523163, 1, 1),
+				["EditorExpand"] = true,
+				["Model"] = "models/props_swamp/karst_rock_06.mdl",
+				["Material"] = "models/props_pipes/GutterMetal01a",
+				["Color"] = Vector(116, 144, 122),
+				["Position"] = Vector(35.430450439453, -25.257236480713, -99.9423828125),
+				["Brightness"] = 1.2,
+				["ClassName"] = "model",
+			},
+		},
+		[4] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/props_forest/rock002.mdl",
+				["Angles"] = Angle(0.099432542920113, -179.99987792969, 180),
+				["UniqueID"] = "1431539477",
+				["ClassName"] = "model",
+			},
+		},
+		[5] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.468742370605, -7.7692871855106e-05, 6.4399529946968e-05),
+						["ClassName"] = "clip",
+						["UniqueID"] = "1347656019",
+						["Position"] = Vector(0.69046783447266, -2.288818359375e-05, 74.474609375),
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "3536190282",
+				["Scale"] = Vector(1.2999999523163, 1, 1),
+				["EditorExpand"] = true,
+				["Material"] = "models/props_pipes/GutterMetal01a",
+				["Angles"] = Angle(-0, -174.41760253906, 0),
+				["Color"] = Vector(134, 169, 142),
+				["Position"] = Vector(-74.811904907227, 1.6006393432617, -99.9423828125),
+				["Model"] = "models/props_swamp/karst_rock_06.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[6] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0, -116.8636932373, 0),
+				["Position"] = Vector(-135.78800964355, -139.33010864258, 0),
+				["ClassName"] = "model",
+				["Size"] = 3.525,
+				["Model"] = "models/props_swamp/fern_05.mdl",
+				["UniqueID"] = "4193125690",
+			},
+		},
+		[7] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Angles"] = Angle(-0, 85.928367614746, 0),
+				["Position"] = Vector(-6.103515625e-05, 162.55700683594, 0),
+				["ClassName"] = "model",
+				["Size"] = 3.525,
+				["Model"] = "models/props_swamp/fern_01.mdl",
+				["UniqueID"] = "986663263",
+			},
+		},
+		[8] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/props_foliage/tree_pine_huge.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "4073103151",
+				["Position"] = Vector(99.191352844238, 55.456871032715, 0),
+			},
+		},
+		[9] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.411949157715, -0.0026775905862451, 0.0026621553115547),
+						["ClassName"] = "clip",
+						["UniqueID"] = "1068758629",
+						["Position"] = Vector(0.93708801269531, -0.000640869140625, 91.318359375),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(1.707679271698, 99.317977905273, -177.63128662109),
+				["Position"] = Vector(-93.719650268555, 60.058204650879, 101.693359375),
+				["ClassName"] = "model",
+				["Size"] = 0.8,
+				["EditorExpand"] = true,
+				["Model"] = "models/props_forest/cliff_wall_02c.mdl",
+				["UniqueID"] = "3619488641",
+			},
+		},
+		[10] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.468742370605, -7.7692871855106e-05, 6.4399529946968e-05),
+						["ClassName"] = "clip",
+						["UniqueID"] = "4108042916",
+						["Position"] = Vector(0.69046783447266, -2.288818359375e-05, 74.474609375),
+					},
+				},
+			},
+			["self"] = {
+				["UniqueID"] = "2976687120",
+				["Scale"] = Vector(1.2999999523163, 1, 1),
+				["EditorExpand"] = true,
+				["Material"] = "models/props_pipes/GutterMetal01a",
+				["Angles"] = Angle(-0, -156.88024902344, 0),
+				["Color"] = Vector(134, 169, 142),
+				["Position"] = Vector(-74.811904907227, 1.6006393432617, -99.9423828125),
+				["Model"] = "models/props_swamp/karst_rock_06.mdl",
+				["ClassName"] = "model",
+			},
+		},
+		[11] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.790412902832, 0.0011925140861422, -0.0013420340837911),
+						["ClassName"] = "clip",
+						["UniqueID"] = "2630085141",
+						["Position"] = Vector(0.16931533813477, 4.7683715820313e-05, 46.2978515625),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-0.099197305738926, -4.1667413711548, -179.9927520752),
+				["Position"] = Vector(-34.278686523438, -108.2067489624, 44.80859375),
+				["ClassName"] = "model",
+				["Size"] = 0.65,
+				["EditorExpand"] = true,
+				["Model"] = "models/props_forest/cliff_wall_02c.mdl",
+				["UniqueID"] = "2801268996",
+			},
+		},
+		[12] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.790412902832, 0.0011925140861422, -0.0013420340837911),
+						["ClassName"] = "clip",
+						["UniqueID"] = "2600585389",
+						["Position"] = Vector(0.16931533813477, 4.7683715820313e-05, 46.2978515625),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-0.094233781099319, 18.676149368286, 179.9681854248),
+				["Position"] = Vector(101.63124084473, 27.606462478638, 45.052734375),
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["Model"] = "models/props_forest/rock002.mdl",
+				["UniqueID"] = "2444947066",
+			},
+		},
+		[13] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.411949157715, -0.0026775905862451, 0.0026621553115547),
+						["ClassName"] = "clip",
+						["UniqueID"] = "3349174333",
+						["Position"] = Vector(0.93708801269531, -0.000640869140625, 91.318359375),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(0.071790389716625, -136.25720214844, -179.93135070801),
+				["Position"] = Vector(-91.703887939453, -84.01033782959, 77.7294921875),
+				["ClassName"] = "model",
+				["Size"] = 0.8,
+				["EditorExpand"] = true,
+				["Model"] = "models/props_forest/cliff_wall_02c.mdl",
+				["UniqueID"] = "1758176116",
+			},
+		},
+		[14] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.411949157715, -0.0026775905862451, 0.0026621553115547),
+						["ClassName"] = "clip",
+						["UniqueID"] = "1839643059",
+						["Position"] = Vector(0.93708801269531, -0.000640869140625, 91.318359375),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(0.071790389716625, -136.25720214844, -179.93135070801),
+				["Position"] = Vector(-108.62882995605, -16.345947265625, 77.701171875),
+				["ClassName"] = "model",
+				["Size"] = 0.8,
+				["EditorExpand"] = true,
+				["Model"] = "models/props_forest/cliff_wall_02c.mdl",
+				["UniqueID"] = "4284169261",
+			},
+		},
+		[15] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/props_foliage/tree_pine_small.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "1636784051",
+				["Position"] = Vector(-120.97300720215, 55.456954956055, 0),
+			},
+		},
+		[16] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.411949157715, -0.0026775905862451, 0.0026621553115547),
+						["ClassName"] = "clip",
+						["UniqueID"] = "2118485905",
+						["Position"] = Vector(0.93708801269531, -0.000640869140625, 91.318359375),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-0.095624707639217, -15.892928123474, -179.97277832031),
+				["Position"] = Vector(11.402740478516, -99.994926452637, 77.91015625),
+				["ClassName"] = "model",
+				["EditorExpand"] = true,
+				["Model"] = "models/props_forest/rock002.mdl",
+				["UniqueID"] = "3430864949",
+			},
+		},
+		[17] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.790412902832, 0.0011925140861422, -0.0013420340837911),
+						["ClassName"] = "clip",
+						["UniqueID"] = "3670984848",
+						["Position"] = Vector(0.16931533813477, 4.7683715820313e-05, 46.2978515625),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-0.099197305738926, -4.1667413711548, -179.9927520752),
+				["Position"] = Vector(53.579299926758, -114.60730743408, 44.9609375),
+				["ClassName"] = "model",
+				["Size"] = 0.65,
+				["EditorExpand"] = true,
+				["Model"] = "models/props_forest/cliff_wall_02c.mdl",
+				["UniqueID"] = "3164947627",
+			},
+		},
+		[18] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-89.790412902832, 0.0011925140861422, -0.0013420340837911),
+						["ClassName"] = "clip",
+						["UniqueID"] = "2000818362",
+						["Position"] = Vector(0.16931533813477, 4.7683715820313e-05, 46.2978515625),
+					},
+				},
+			},
+			["self"] = {
+				["Angles"] = Angle(-0.099197305738926, -4.1667413711548, -179.9927520752),
+				["Position"] = Vector(0.079452514648438, 96.319458007813, 44.8701171875),
+				["ClassName"] = "model",
+				["Size"] = 0.65,
+				["EditorExpand"] = true,
+				["Model"] = "models/props_forest/cliff_wall_02c.mdl",
+				["UniqueID"] = "489109828",
+			},
+		},
+		[19] = {
+			["children"] = {
+			},
+			["self"] = {
+				["ClassName"] = "entity",
+				["HideEntity"] = true,
+				["UniqueID"] = "4093774227",
+			},
+		},
+		[20] = {
+			["children"] = {
+			},
+			["self"] = {
+				["Model"] = "models/props_foliage/tree_pine_extrasmall.mdl",
+				["ClassName"] = "model",
+				["UniqueID"] = "1581576845",
+				["Position"] = Vector(-4.57763671875e-05, -130.259765625, 0),
+			},
+		},
+	},
+	["self"] = {
+		["Name"] = "island 2",
+		["ClassName"] = "group",
+		["UniqueID"] = "3793485347",
+		["OwnerName"] = "758",
+	},
+},
